@@ -1,0 +1,19 @@
+/*
+ * Never let images to be larger than their containers
+ */
+ 
+ img, media {
+  max-width: 100%;
+}
+
+/*
+ * Remove the gap between images, videos, audio and canvas and the bottom of
+ * their containers: h5bp.com/i/440
+ */
+
+audio,
+canvas,
+img,
+video {
+  vertical-align: middle;
+}

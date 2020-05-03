@@ -1,0 +1,30 @@
+#languages {
+  @include inline-block;
+  vertical-align: top;
+  margin-top: 17px;
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    text-align: center;
+    margin-bottom: 3px;
+    font-family: "BrandonGrotesque-Medium", sans-serif;
+    @include adjust-font-size-to(14px, 1);
+  }
+
+  a {
+    display: block;
+    width: 26px;
+    padding-top: 2px;
+    border: 2px solid transparent;
+  }
+
+  li.current-lang a,
+  a:hover {
+    border-color: $gold;
+    text-decoration: none;
+  }
+}

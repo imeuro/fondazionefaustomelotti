@@ -1,0 +1,78 @@
+.page-template-fondazione-php {
+  article {
+    .col1 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(3, 1);
+      }
+
+      @include breakpoint($tablet-l) {
+        @include grid-span(2, 1);
+      }
+
+      .map {
+        @include rhythm(0, 0, 0, 0.5);
+      }
+
+      .contact1 {
+        @include grid-span(6, 1);
+
+        @include breakpoint($tablet-p) {
+          @include grid-span(3, 1);
+        }
+      }
+
+      .contact2 {
+        @include grid-span(6, 1);
+
+        @include breakpoint($tablet-p) {
+          @include grid-span(3, 4);
+        }
+      }
+
+      .contact1,
+      .contact2 {
+        font-family: "BrandonGrotesque-Medium", sans-serif;
+
+        a {
+          @include link-colors($black, $black, $black, $black, $black);
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .col2 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(3, 4);
+      }
+
+      @include breakpoint($tablet-l) {
+        @include grid-span(4, 3);
+      }
+
+      .content {
+        @include breakpoint($tablet-l) {
+          @include grid-span(3, 1);
+        }
+      }
+
+      .images {
+        @include breakpoint($tablet-l) {
+          @include grid-span(3, 4);
+          padding-right: 0;
+        }
+
+        figure {
+          @include rhythm(0, 0, 0, 1);
+
+          &:first-child {
+            @include rhythm(2, 0, 0, 1);
+          }
+        }
+      }
+    }
+  }
+}

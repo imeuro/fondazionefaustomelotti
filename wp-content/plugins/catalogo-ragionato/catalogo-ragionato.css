@@ -1,0 +1,560 @@
+.post-type-archive-catalogo #wrapper { padding-left: 0; }
+.dotted, .dotted:hover {
+	text-decoration: none;
+	border-bottom: 1px dotted;
+	color: #a8873b;
+}
+.highlight {
+    background: #a8873b;
+    color: #fff;
+    padding: 8px 8px 2px 8px;
+    line-height: 17px;
+    display: inline-block;
+    border-bottom: 0;
+    border: 1px solid #a8873b;
+    transition: all 0.25s;
+}
+.highlight:hover {
+    text-decoration: none;
+    color: #a8873b;
+    background: #fff;
+}
+
+a.backlink {
+  position: relative;
+  top: -50px;
+  line-height: 32px;
+	text-transform: capitalize;
+}
+a.backlink.scheda {
+  position: initial;
+  top: 0px;
+  line-height: 32px;
+}
+.backlink .glyphicon { font-size: 10px; }
+#hederWrapper {z-index: 30;} /* si chiama cosi...*/
+#main-menu li.current-menu-item a, #main-menu li.current-page-ancestor a, #main-menu a:hover { max-height: 70px; }
+#main-menu li.multiline a { padding-top: 13px; }
+form#SearchCatalogo { position: relative; }
+#KeywordCatalogo, #FiltersCatalogo {
+	float: left;
+	display: block;
+	width: 100%;
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #ccc;
+}
+#KeywordCatalogo input.search-input,
+#FiltersCatalogo input.search-input {
+    width: 100%;
+    border: 1px solid #a8873b;
+    height: 35px;
+    margin-top: -17px;
+    font-size: 1.1em;
+    padding: 0 10px;
+    line-height: 35px;
+}
+#FiltersCatalogo input.search-exact-term {
+    display: inline-block;
+    width: 30px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+#FiltersCatalogo input.search-exact-term ~ strong {
+  color: #a8873b;
+}
+#KeywordCatalogo button.search-submit,
+#FiltersCatalogo button.search-submit-lens {
+    position: absolute;
+    right: 15px;
+    top: -7px;
+    height: 35px;
+    padding: 0 15px;
+    background: transparent;
+    border: none;
+    color: #a8873b;
+}#KeywordCatalogo .glyphicon-menu-down,
+#FiltersCatalogo .glyphicon-menu-up { font-size: 10px }
+a.advancedsearch { margin-top: 20px; }
+#FiltersCatalogo {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    top: 70px;
+    background: rgba(255, 255, 255, 0.85);
+    padding-top: 30px;
+}
+#FiltersCatalogo .select-contain {
+    background: #fff;
+    margin: 0 0 10px 0;
+}
+#FiltersCatalogo .select-contain:after {
+    content: "\e252";
+    font-family: "Glyphicons Halflings";
+    font-weight: 100;
+    font-size: 14px;
+    position: absolute;
+    top: 8px;
+    right: 30px;
+    z-index: 0;
+}
+#FiltersCatalogo select.filter-select {
+    background: transparent;
+    border: 1px solid #a8873b;
+    color: #333;
+    padding: 0px 10px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 15px;
+    width: 100%;
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: relative;
+    z-index: 1;
+}
+#FiltersCatalogo .search-submit {
+		width: 150px;
+		height: 35px;
+		background: #a8873b;
+		color: #fff;
+		padding: 5px;
+		margin: 15px 0;
+		float: none;
+		border: none;
+}
+
+#ArchivioCatalogo {	margin-bottom: 100px; }
+#ArchivioCatalogo h1,
+article.catalogo h1 {
+    font-size: 2em;
+    line-height: 1.25em;
+    text-transform: uppercase;
+}
+#ArchivioCatalogo h1 strong,
+article.catalogo h1 strong { color: #a8873b; }
+
+#ArchivioCatalogo h2,
+article.catalogo h2 {
+    font-size: 1em;
+    line-height: 1.75em;
+    text-transform: uppercase;
+		border-bottom: 1px solid #e4e4e4;
+}
+#ArchivioCatalogo h2.header {
+		border: 1px solid #e4e4e4;
+		border-bottom: none;
+    margin-bottom: 0;
+    background: #f8f8f8;
+    padding: 10px 10px 5px 15px;
+    border-radius: 3px 3px 0 0;
+}
+#ArchivioCatalogo ul.items-tipologia,
+#ArchivioCatalogo ul.items-tipologia-noinfscroll {
+    margin-bottom: 0;
+}
+#ArchivioCatalogo li.single-item-1,
+#ArchivioCatalogo li.single-item-3 {
+    clear: left;
+}
+#ArchivioCatalogo .single-item-tipologia a {
+	display: flex;
+	align-items: flex-start;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	/*height: 265px;*/
+	text-align: center;
+	margin-bottom: 40px;
+}
+#ArchivioCatalogo .single-item-tipologia a:hover {
+	background: #f8f8f8;
+}
+#ArchivioCatalogo .single-item-tipologia a > strong {
+	display: block;
+	width: 100%;
+	text-align: center;
+	color: #333333;
+	font-size: 15px;
+	margin: 10px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	align-self: flex-end;
+}
+#ArchivioCatalogo .single-item-tipologia a:hover {
+    text-decoration: none;
+}
+#ArchivioCatalogo .single-item-tipologia a:hover > strong {
+    color:#a8873b;
+}
+#ArchivioCatalogo .nothumbavail {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    text-transform: uppercase;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+}
+#ArchivioCatalogo figure {
+    position: relative;
+}
+#ArchivioCatalogo ul.items-tipologia,
+#ArchivioCatalogo ul.items-tipologia-noinfscroll {
+   /* display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;*/
+
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    /*justify-content: space-between;*/
+}
+#ArchivioCatalogo ul.items-tipologia.home,
+#ArchivioCatalogo ul.items-tipologia-noinfscroll.home {
+		padding: 10px 0 20px 0;
+    margin: 0 0 20px 0;
+    border: 1px solid #e4e4e4;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+}
+#ArchivioCatalogo li.single-item-tipologia figure {
+    margin: 0 auto;
+		text-align: center;
+}
+#ArchivioCatalogo .single-item-tipologia .pic-item-tipologia {
+	border: none;
+	margin: 0;
+	max-height: 225px;
+	max-width: 175px;
+}
+#ArchivioCatalogo .single-item-tipologia .more-details {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(168,135,59,0.85);
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    padding-top: 40px;
+    text-transform: uppercase;
+    display: none;
+}
+#ArchivioCatalogo .single-item-tipologia .more-details>span {
+	display: inline-block;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+	width: 100%;
+}
+
+
+
+
+#ArchivioCatalogo .single-item-tipologia .more-details strong {
+    font-size: 4em;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+#ArchivioCatalogo .items-tipologia .link-all,
+#ArchivioCatalogo .items-tipologia-noinfscroll .link-all {
+    margin-top: 10px;
+}
+#infscroll-next .pagination .page-numbers {display: none;}
+#infscroll-next .pagination .page-numbers.next {
+    display: inline-block;
+    width: 100%;
+}
+#infscroll-next a {
+    text-align: center;
+    border: 1px solid #a8873b;
+    text-transform: uppercase;
+    font-size: 15px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    float: left;
+    border-radius: 1px;
+}
+#infscroll-next a:hover {
+    text-decoration: none;
+    color: #fff;
+    background: #a8873b;
+}
+#infscroll-next a:active,
+#infscroll-next a:focus { text-decoration: none; }
+
+#infscroll-next a:before {
+  content: "\e031";
+  font-family: 'Glyphicons Halflings';
+  position: relative;
+  top: 3px;
+  left: -8px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 45px;
+}
+#infscr-loading {
+	text-align: center;
+	position: absolute;
+	bottom: -60px;
+	left: 50%;
+	transform: translateX(-55%);
+	background: #fff;
+	padding: 10px 30px 5px 30px;
+	border: 1px solid #a8873b;
+	text-transform: uppercase;
+	line-height: 24px;
+	width: 225px;
+}
+
+/* Side list*/
+h4.sidelist-heading,
+ul.sidelist li a.dotted {
+    color: #a8873b;
+		margin: 10px 0;
+}
+ul.sidelist li a {
+    color: #333;
+		text-transform: uppercase;
+		line-height: 24px;
+		cursor:pointer;
+}
+ul.sidelist li.collapsible > a:after {
+	content: "\2b";
+	font-family: 'Glyphicons Halflings';
+	font-size: 8px;
+	position: relative;
+	top: -2px;
+	left: 5px;
+	font-weight: 100;
+	opacity: 0.75;
+}
+ul.sidelist li.collapsible.opened > a:after {
+	content:"\2212";
+}
+ul.sidelist li.collapsible .sub-menu {display: none;}
+ul.sidelist ul.sub-menu {
+    font-size: 12px;
+    margin: 0 0 10px 10px;
+}
+ul.sidelist li.collapsible .sub-menu li:before {
+    content: "- ";
+}
+ul.sidelist li.collapsible .sub-menu li a {
+    font-style: italic;
+    line-height: 18px;
+    font-size: 12px;
+}
+
+/* Single-catalogo */
+.single article.catalogo { margin-bottom: 100px; }
+header.catalogo-opera-single .glyphicon-menu-left { font-size: 10px; }
+header.catalogo-opera-single .glyphicon-blackboard { font-size: 14px; }
+.single article .swiper-dettaglio-opera figure {
+	/*max-width: 600px;*/
+	text-align: center;
+  margin: 0 auto;
+}
+header.catalogo-opera-single {
+	float: none;
+	display: inline-block;
+	width: 100%;
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #ccc;
+	clear: both;
+}
+.swiper-button-next {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23cccccc'%2F%3E%3C%2Fsvg%3E");
+}
+.swiper-button-prev {
+	background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23cccccc'%2F%3E%3C%2Fsvg%3E")
+}
+.swiper-slide-active { cursor: pointer; }
+.single article .swiper-dettaglio-opera figure { margin-top: 30px; }
+.swiper-pagination-fraction { top: 0px; height: 30px; }
+.NO-swiper-dettaglio-opera figure {text-align: center;}
+.swiper-container figure#gallery {
+	cursor: -moz-zoom-in;
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+
+#operaDetails {
+	background: #f1f1f1;
+}
+#operaDetails ul {
+	max-width: 600px;
+	margin: 0 auto 40px auto;
+	padding: 30px 30px 0 30px;
+	background: #f1f1f1;
+	display: none;
+	box-sizing: border-box;
+}
+#operaDetails ul.active {
+	z-index: 10;
+	display: block;
+	width: 100%;
+}
+#operaDetails li {
+	padding-bottom: 30px;
+	font-size: 14px;
+}
+#operaDetails li strong { text-transform: uppercase; }
+
+button.tab_btn {
+	background: #e2e2e2;
+	color: #888;
+	border: none;
+	padding: 10px 20px 5px 20px;
+	margin: 40px -3px 0 0;
+	text-transform: uppercase;
+	border-bottom: 1px solid #f8f8f8;
+	line-height: 20px;
+	font-size: 14px;
+	outline: none;
+	border-radius: 4px 4px 0 0;
+}
+button.tab_btn.active {
+	background: #f1f1f1;
+	color: #a8873b;
+	border-bottom: 1px solid #f1f1f1;
+	font-weight: 700;
+}
+button.tab_btn.malcelato {
+  visibility: hidden;
+}
+
+/* overlay zoom */
+#zoom-overlay {
+	position: fixed;
+	z-index: 40;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.80);
+	display: none;
+}
+#zoom-overlay header { margin-top: 60px; }
+.zoomContainer {
+	z-index: 100;
+	border: 1px solid #fff;
+  box-sizing: content-box;
+}
+.zoomWindow {
+	margin-left: 1px;
+	border: 1px solid #ccc;
+	box-sizing: content-box;
+	max-height: 70vh;
+}
+#zoom-box {
+	height: 70vh;
+	border: 1px solid #ccc;
+	background: rgba(0,0,0,0.25);
+}
+#zoom-box:before {
+  content: "LOADING...";
+  color: #959595;
+  display: flex;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+#zoom-box:after {
+  /* background: url(http://fondazionefaustomelotti.dev/immagini-catalogo/uploads/2017/01/1929_1-1.jpg) no-repeat center center; */
+  content: " ";
+  display: block;
+  height: 100%;
+  top: -100%;
+  position: relative;
+}
+img#zoom-thumb {
+  max-height: 70vh;
+}
+.zoomWindowContainer { box-sizing: content-box; }
+.zoomWindowContainer > div { margin-top: 1px; }
+#zoom-overlay .zoom-opera-title { color: #fff; }
+#zoom-overlay .zoom-opera-title h3 {
+	margin: 0;
+	text-transform: uppercase;
+	font-size: 36px;
+}
+#zoom-overlay .zoom-opera-title > * { margin-bottom: 10px; }
+#zoom-overlay .zoom-opera-title small {
+	font-size: 16px;
+	color: #999;
+	display: inline-block;
+}
+#zoom-overlay .zoom-opera-title small .glyphicon {
+	font-size: 18px;
+	margin-right: 5px;
+	position: relative;
+	top: 4px;
+	color: #fff;
+}
+button.close-zoom {
+	border: none;
+	border-radius: 0;
+  background: #000;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 14px;
+  line-height: 10px;
+  font-weight: 700;
+}
+button.close-zoom .glyphicon {
+  padding: 0 0 0 10px;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+
+
+
+
+@media (width: 768px) {
+	ul.sidelist>li>a {
+	    letter-spacing: -1px;
+	    font-size: 18px;
+	}
+}
+
+
+@media (min-width: 769px) {
+	#ArchivioCatalogo li.single-item-3 {
+	    clear: none;
+	}
+	a.advancedsearch { margin-top: 0; }
+	#KeywordCatalogo { border: none; padding: 0; margin: 0; }
+	#FiltersCatalogo { top: 0; padding: 0; margin: 0; }
+	#FiltersCatalogo .search-submit { float: right; }
+	#FiltersCatalogo input.search-input { margin-top: 0; }
+	#FiltersCatalogo button.search-submit-lens { top: 2px; }
+	#FiltersCatalogo > li,
+	#FiltersCatalogo li h2 {
+    line-height: 22px;
+	}
+}
+
+
+@media print {
+	#SearchCatalogo,
+	#side-menu,
+	header.catalogo-opera-single {
+		display: none;
+	}
+
+}

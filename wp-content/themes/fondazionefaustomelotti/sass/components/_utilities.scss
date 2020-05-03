@@ -1,0 +1,38 @@
+#utilities {
+  @include inline-block;
+  vertical-align: top;
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    @include inline-block;
+    font-family: "BrandonGrotesque-Medium", sans-serif;
+    text-align: center;
+  }
+
+  a {
+    display: block;
+    width: 30px;
+    padding: 20px 0 34px;
+  }
+
+  a:hover {
+    background-color: $gold;
+    color: $white;
+    text-decoration: none;
+  }
+
+  li.search a {
+    @include hide-text;
+    background: url(img/icons/search.png) no-repeat 50% 22px;
+    background-size: 16px 15px;
+
+    &:hover {
+      background: $gold url(img/icons/search-white.png) no-repeat 50% 22px;
+      background-size: 16px 15px;
+    }
+  }
+}

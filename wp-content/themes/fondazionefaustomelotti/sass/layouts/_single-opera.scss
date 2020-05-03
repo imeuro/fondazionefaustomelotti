@@ -1,0 +1,80 @@
+.single-works {
+  article {
+    .col1 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 1);
+      }
+
+      h1 {
+        @include rhythm(0.1, 0, 0, 0.1);
+      }
+
+      .content p:first-child,
+      .pdf {
+        font-family: "BrandonGrotesque-Medium", sans-serif;
+      }
+
+      .copy {
+        @include adjust-font-size-to(12px, 1);
+        @include rhythm(0, 0, 0, 2);
+      }
+    }
+
+    .col2 {
+      position: relative;
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(3, 3);
+      }
+
+      figure {
+        @include rhythm(0, 0, 0, 1);
+      }
+
+      .prev,
+      .next {
+        position: absolute;
+        top: -20px;
+
+        @include breakpoint($tablet-p) {
+          top: 10px;
+        }
+
+        a {
+          display: block;
+          width: 8px;
+          height: 13px;
+          background-size: 8px 13px;
+          @include hide-text;
+        }
+      }
+
+      .prev {
+        left: 0;
+
+        @include breakpoint($tablet-p) {
+          left: -20px;
+        }
+
+        a {
+          background: url(img/icons/prev.png) no-repeat;
+        }
+      }
+
+      .next {
+        right: 20px;
+
+        @include breakpoint($tablet-p) {
+          right: 0;
+        }
+
+        a {
+          background: url(img/icons/next.png) no-repeat;
+        }
+      }
+    }
+  }
+}

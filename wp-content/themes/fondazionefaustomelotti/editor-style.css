@@ -1,0 +1,158 @@
+/**
+ * Singularuty greed definition.
+ */
+/**
+ * Breakpoints.
+ */
+/**
+ * Misc variables.
+ */
+/**
+ * Legacy support
+ */
+/**
+ * Base font size and line height
+ */
+/**
+ * Heading sizes
+ */
+/* No files to import found in abstractions/**\/* */
+/**
+ * Base typography
+ */
+* html {
+  font-size: 100%;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.25em;
+}
+
+body {
+  font-family: "BrandonGrotesque-Regular", sans-serif;
+}
+body em {
+  font-family: "BrandonGrotesque-RegularItalic", sans-serif;
+  font-style: normal;
+}
+body strong {
+  font-family: "BrandonGrotesque-Medium", sans-serif;
+  font-weight: normal;
+}
+body em + strong,
+body strong + em {
+  font-family: "BrandonGrotesque-MediumItalic", sans-serif;
+}
+
+/**
+ * Links
+ */
+a {
+  color: #a8873b;
+  text-decoration: none;
+}
+a:visited {
+  color: #a8873b;
+}
+a:focus {
+  color: #a8873b;
+}
+a:hover {
+  color: #a8873b;
+}
+a:active {
+  color: #a8873b;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/**
+ * Headings
+ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "BrandonGrotesque-Medium", sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 1.25em;
+  line-height: 1em;
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 1.25em;
+  line-height: 1em;
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  font-size: 1.25em;
+  line-height: 1.1em;
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 3em;
+}
+
+h4 {
+  font-size: 1em;
+  line-height: 1.25em;
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1.25em;
+}
+
+h5 {
+  font-size: 1em;
+  line-height: 1.25em;
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1.25em;
+}
+
+h6 {
+  font-size: 1em;
+  line-height: 1.25em;
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1.25em;
+}
+
+/**
+ * Paragraphs
+ */
+p {
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1.25em;
+}
+
+/**
+ * Lists
+ */
+ul,
+ol {
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1.25em;
+  padding: 0 0 0 22px;
+}

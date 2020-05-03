@@ -1,0 +1,49 @@
+.page-template-biografia-php {
+  article {
+    .col1 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($mobile-l) {
+        @include grid-span(2, 1);
+      }
+
+      nav {
+        font-family: "BrandonGrotesque-Medium", sans-serif;
+        @include adjust-font-size-to($h2-font-size, 1);
+        @include rhythm(0, 0, 0, 1);
+
+        a {
+          display: block;
+        }
+      }
+
+      .images figure {
+        @include rhythm(0, 0, 0, 1);
+
+        @include breakpoint($mobile-l) {
+          &:first-child {
+            @include rhythm(2, 0, 0, 1);
+          }
+        }
+      }
+
+      nav + .images figure:first-child {
+        @include rhythm(0, 0, 0, 1);
+      } 
+    }
+
+    .col2 {
+      @include grid-span(6, 1);
+      @include adjust-font-size-to(20px, 1.25);
+      clear: both;
+
+      @include breakpoint($mobile-l) {
+        @include grid-span(3, 3);
+      }
+
+      h1 {
+        @include adjust-font-size-to($h1-font-size, 1, 20px);
+      }
+    }
+  }
+}

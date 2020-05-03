@@ -1,0 +1,99 @@
+/**
+ * Base typography
+ */
+
+@include establish-baseline;
+
+body {
+  font-family: "BrandonGrotesque-Regular", sans-serif;
+
+  em {
+    font-family: "BrandonGrotesque-RegularItalic", sans-serif;
+    font-style: normal;
+  }
+
+  strong {
+    font-family: "BrandonGrotesque-Medium", sans-serif;
+    font-weight: normal;
+  }
+
+  em + strong,
+  strong + em {
+    font-family: "BrandonGrotesque-MediumItalic", sans-serif;
+  }
+}
+
+/**
+ * Links
+ */
+
+a {
+  @include link-colors($link-color, $link-hover-color, $link-color, $link-color, $link-color);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/**
+ * Headings
+ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "BrandonGrotesque-Medium", sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  @include adjust-font-size-to($h1-font-size, 1);
+  @include rhythm(0, 0, 0, 1, $h1-font-size);
+}
+
+h2 {
+  @include adjust-font-size-to($h2-font-size, 1);
+  @include rhythm(0, 0, 0, 1, $h2-font-size);
+}
+
+h3 {
+  @include adjust-font-size-to($h3-font-size, 1.1);
+  @include rhythm(0, 0, 0, 3, $h3-font-size);
+}
+
+h4 {
+  @include adjust-font-size-to($h4-font-size);
+  @include rhythm(0, 0, 0, 1, $h4-font-size);
+}
+
+h5 {
+  @include adjust-font-size-to($h5-font-size);
+  @include rhythm(0, 0, 0, 1, $h5-font-size);
+}
+
+h6 {
+  @include adjust-font-size-to($h6-font-size);
+  @include rhythm(0, 0, 0, 1, $h6-font-size);
+}
+
+/**
+ * Paragraphs
+ */
+
+p {
+  @include rhythm(0, 0, 0, 1);
+}
+
+/**
+ * Lists
+ */
+
+ul,
+ol {
+  @include rhythm(0, 0, 0, 1);
+  padding: 0 0 0 22px;
+}

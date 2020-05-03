@@ -1,0 +1,5 @@
+post_type,post_id,codice_electa,post_title,anno_opera,tax_materiali,misure_opera,tax_tipologia_opera,tax_tipo_opera,tax_subtipo_opera,esemplari_opera,file_immagine,id_import,codice_opera,post_status
+catalogo,10003,1944 3,Medusa,circa 1944 ,glazed ceramic,40 x 60 cm ,Sculptures,,,,1944_3.jpg,10003,3,publish
+catalogo,10004,1933 21,Senza titolo / (Untitled) ,circa 1933 ,plaster,h. 74 cm circa,Sculptures,,,,1933_21.jpg,10004,4,publish
+catalogo,10005,1943 19,Senza titolo / (Untitled) ,circa 1943 ,terracotta,"20 x 7,5 x 5,5 cm",Sculptures,,,,1943_19.jpg,10005,5,publish
+catalogo,10009,1929 2,Ritratto di Fortunato Depero / (Portrait of Fortunato Depero),circa 1929 ,plaster,,Sculptures,,, ,1929_2.jpg,10009,9,publish

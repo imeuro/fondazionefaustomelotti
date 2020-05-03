@@ -1,0 +1,27 @@
+.page-template-bibliografia-php {
+  article {
+    .col1 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 1);
+      }
+    }
+
+    .col2 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 3);
+      }
+    }
+
+    .col3 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 5);
+      }
+    }
+  }
+}

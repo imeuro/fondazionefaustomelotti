@@ -1,0 +1,16 @@
+.page-template-default {
+  article.page {
+    header {
+      @include grid-span(3, 3);
+    }
+
+    .content {
+      @include grid-span(3, 3);
+      @include adjust-font-size-to(20px, 1.25);
+
+      h1 {
+        @include adjust-font-size-to($h1-font-size, 1, 20px);
+      }
+    }
+  }
+}

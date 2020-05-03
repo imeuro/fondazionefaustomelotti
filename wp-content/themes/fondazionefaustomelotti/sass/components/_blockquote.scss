@@ -1,0 +1,28 @@
+blockquote {
+  font-family: "BrandonGrotesque-RegularItalic", sans-serif;
+  font-style: normal;
+  margin: rhythm(1) 0 rhythm(1) 40px;
+}
+
+sup {
+  font-family: "BrandonGrotesque-Regular", sans-serif;
+  font-size: 60%;
+}
+
+span.note {
+  display: block;
+  font-family: "BrandonGrotesque-Medium", sans-serif;
+  @include adjust-font-size-to(14px, 0.8, 20px);
+  margin-top: rhythm(1);
+
+  @include breakpoint($mobile-l) {
+    position: absolute;
+    right: 10px;
+    width: 16.6667%;
+    margin-top: - rhythm(1);
+  }
+
+  sup {
+    font-family: "BrandonGrotesque-Medium", sans-serif;
+  }
+}

@@ -1,0 +1,4 @@
+.pagination {
+  @include grid-span(6, 1);
+  clear: both;
+}

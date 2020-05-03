@@ -1,0 +1,787 @@
+post_type,post_id,codice_electa,post_title,anno_opera,tax_materiali,misure_opera,tax_tipologia_opera,tax_tipo_opera,tax_subtipo_opera,esemplari_opera,file_immagine,id_import,codice_opera,post_status
+catalogo,10003,1944 3,Medusa,circa 1944 ,glazed ceramic,40 x 60 cm ,Sculptures,,,,1944_3.jpg,10003,3,publish
+catalogo,10004,1933 21,Senza titolo / (Untitled) ,circa 1933 ,plaster,h. 74 cm circa,Sculptures,,,,1933_21.jpg,10004,4,publish
+catalogo,10005,1943 19,Senza titolo / (Untitled) ,circa 1943 ,terracotta,"20 x 7,5 x 5,5 cm",Sculptures,,,,1943_19.jpg,10005,5,publish
+catalogo,10009,1929 2,Ritratto di Fortunato Depero / (Portrait of Fortunato Depero),circa 1929 ,plaster,,Sculptures,,, ,1929_2.jpg,10009,9,publish
+catalogo,10010,1945 14,Senza titolo / (Untitled) ,circa 1945 ,terracotta,30 x 15 cm,Sculptures,,,  ,1945_14.jpg,10010,10,publish
+catalogo,10011,1929-1930 5,Volto / (Face) ,1929 - 1930,terracotta,21 x 14 cm,Sculptures,,, ,1929-1930_5.jpg,10011,11,publish
+catalogo,10012,1932 4,Il Figlio dell'Uomo / (The Son of The Man),circa 1932 ,plaster,,Sculptures,,,,1932_4.jpg,10012,12,publish
+catalogo,10015,1933 13,Senza titolo / (Untitled),circa 1933 ,clay,"28,5 x 11 x 12 cm",Sculptures,,,,1933_13.jpg,10015,15,publish
+catalogo,10016,1929 1,Busto / (Chest) ,circa 1929 ,plaster,,Sculptures,,, ,1929_1.jpg,10016,16,publish
+catalogo,10023,1945 4,Animale sbagliato / (Wrong Animal),circa 1945,terracotta,"8,5 x 12 x 5 cm",Sculptures,,,,1945_4.jpg,10023,23,publish
+catalogo,10029,1945 2,Il sogno / (The Dream),circa 1945,terracotta,,Lillte Theaters,,,,1945_2.jpg,10029,29,publish
+catalogo,10035,1929-1930 4,Ritratto / (Portrait),1929 - 1930,plaster,"36 x 20 x 21,5 cm",Sculptures,,,,1929-1930_4.jpg,10035,35,publish
+catalogo,10036,1933 18,Senza titolo / (Untitled) ,circa 1933,terracotta,"12,5 x 26 x 13,5 cm",Sculptures,,,,1933_18.jpg,10036,36,publish
+catalogo,10041,1933 8,L'Eco / (The Echo),circa 1933 ,bronze,53 x 41 x 26 cm,Sculptures,,,,1933_8.jpg,10041,41,publish
+catalogo,10042,1945 15,Senza titolo / (Untitled) ,circa 1945,terracotta,25 x 10 cm,Sculptures,,, ,1945_15.jpg,10042,42,publish
+catalogo,10044,1945 17,Senza titolo / (Untitled) ,circa 1945 ,terracotta,30 x 10 cm,Sculptures,,, ,1945_17.jpg,10044,44,publish
+catalogo,10045,1929-1930 3,Ritratto / (Portrait) ,1929 - 1930,bronze,29 x 17 x 21 cm,Sculptures,,, ,1929-1930_3.jpg,10045,45,publish
+catalogo,10046,1943 10,Senza titolo / (Untitled) ,circa 1943,terracotta,22 x 18 x 15 cm,Sculptures,,,,1943_10.jpg,10046,46,publish
+catalogo,10049,1945 8,Senza titolo / (Untitled) ,circa 1945,terracotta,"18 x 15,5 x 8 cm",Sculptures,,,,1945_8.jpg,10049,49,publish
+catalogo,10051,1942 2,"""Si fondano le citta'' - Progetto per l'E 42  (Progetto n. 3, gruppo B, variante n. 2) / ""The Cities are established"" - Project for the E 42 (Project No. 3, group B, variant No. 2) ",1942,clay (prototype),260 cm,Sculptures,,,,1942_2.jpg,10051,51,publish
+catalogo,10054,1945 22,Senza titolo / (Untitled),circa 1945,terracotta,"24,5 x 9,5 x 9,5 cm",Sculptures,,,,1945_22.jpg,10054,54,publish
+catalogo,10064,1945 16,Senza titolo / (Untitled),circa 1945 ,terracotta,25 x 25 cm,Sculptures,,, ,1945_16.jpg,10064,64,publish
+catalogo,10069,1945 20,Senza titolo / (Untitled),circa 1945 ,terracotta,35 x 30 cm,Sculptures,,, ,1945_20.jpg,10069,69,publish
+catalogo,10071,1945 35,Senza titolo / (Untitled),circa 1945,terracotta,23 x 21 x 19 cm,Sculptures,,,,1945_35.jpg,10071,71,publish
+catalogo,10073,1948 4,Senza titolo / (Untitled) ,1948,glazed ceramic,58 cm,Sculptures,,,,1948_4.jpg,10073,73,publish
+catalogo,10082,1945 29,Diavolessa / (She-Devil),circa 1945,terracotta,19 x 9 x 9 cm   ,Sculptures,,,,1945_29.jpg,10082,82,publish
+catalogo,10086,1933 12,Senza titolo / (Untitled) ,circa 1933 ,plaster,47 x 12 x 15 cm,Sculptures,,,,1933_12.jpg,10086,86,publish
+catalogo,10087,1946-1947 1,Senza titolo / (Untitled) ,1946-1947,glazed ceramic,60 x 20 cm ,Sculptures,,,,1946-1947_1.jpg,10087,87,publish
+catalogo,10091,1930 6,Madonna con Bambino / (Madonna with Child),circa 1930 ,clay (Richard Ginori prototype edition),h. 30 cm,Sculptures,,,,1930_6.jpg,10091,91,publish
+catalogo,10103,1929 3,Ritratto / (Portrait) ,circa 1929,plaster,,Sculptures,,, ,1929_3.jpg,10103,103,publish
+catalogo,10104,1933 24,Senza titolo / (Untitled) ,circa 1933,terracotta,15 x 7 x 5 cm,Sculptures,,,,1933_24.jpg,10104,104,publish
+catalogo,10127,1943 18,Senza titolo / (Untitled) ,circa 1943,terracotta,"37,5 x 19 x 12 cm",Sculptures,,,,1943_18.jpg,10127,127,publish
+catalogo,10137,1947 2,Due nudi / (Two Nudes),circa 1947 ,glazed ceramic,26 x 15 x 5 cm,Sculptures,,,,1947_2.jpg,10137,137,publish
+catalogo,10151,1933 19,Senza titolo / (Untitled),circa 1933,terracotta,"31 x 14 x 15,5 cm",Sculptures,,,,1933_19.jpg,10151,151,publish
+catalogo,10171,1943 17,Senza titolo / (Untitled) ,circa 1943 ,plaster,"40 x 13,5 x 11 cm",Sculptures,,,,1943_17.jpg,10171,171,publish
+catalogo,10176,1950 5,Senza titolo / (Untitled),1950,glazed ceramic,50 x 20 cm,Sculptures,,,,1950_5.jpg,10176,176,publish
+catalogo,10181,1939-1940 11,San Tomaso Apostolo / (Saint Thomas Apostle),1939-1940,bronze,,Sculptures,,, ,1939-1940_11.jpg,10181,181,publish
+catalogo,10186,1943 16,Senza titolo / (Untitled),circa 1943,terracotta,20 x 13 x 14 cm,Sculptures,,,,1943_16.jpg,10186,186,publish
+catalogo,10191,1933 17,Senza titolo / (Untitled) ,circa 1933 ,terracotta,33 x 10 x 8 cm,Sculptures,,,,1933_17.jpg,10191,191,publish
+catalogo,10193,1950 8,Kore ,1950,terracotta,63 x 12 cm,Sculptures,,,,1950_8.jpg,10193,193,publish
+catalogo,10220,1950 4,Cariatide / (Caryatid),1950,glazed polychrome ceramic,155 x 63 x 90 cm,Sculptures,,,,1950_4.jpg,10220,220,publish
+catalogo,10240,1945 6,Senza titolo / (Untitled) ,circa 1945 ,terracotta,19 x 30 x 25 cm,Sculptures,,,,1945_6.jpg,10240,240,publish
+catalogo,10246,1929 4,Ritratto (di Neven du Mont) / Portrait (of Neven du Mont),circa 1929 ,bronze,,Sculptures,,, ,1929_4.jpg,10246,246,publish
+catalogo,10260,1932 2,Madonna con Bambino / (Madonna with Child),circa 1932 ,plaster,20 x 19 x 16 cm,Sculptures,,,  ,1932_2.jpg,10260,260,publish
+catalogo,10292,1929-1930 1,Ritratto (della madre Albina Fait) / Portrait (of the Mother Albina Fait),1929-1930,plaster,,Sculptures,,, ,1929-1930_1.jpg,10292,292,publish
+catalogo,10314,1948 3,Arcidiavolo / (The Archfiend),1948,glazed polychrome ceramic,60 x 22 x 14 cm,Sculptures,,,,1948_3.jpg,10314,314,publish
+catalogo,10329,1929-1930 2,Ritratto (della madre Albina Fait) / Portrait (of the Mother Albina Fait),1929-1930,bronze,31 x 19 x 24 cm,Sculptures,,,,1929-1930_2.jpg,10329,329,publish
+catalogo,10332,1932 3,Madonna con Bambino / (Madonna with Child),circa 1932,plaster,"37 x 24 x 10,5 cm",Sculptures,,,,1932_3.jpg,10332,332,publish
+catalogo,10333,1930 1,Volto / (Face),1930,marble,"22 x 13,5 x 16 cm",Sculptures,,,Edition of 2,1930_1.jpg,10333,333,publish
+catalogo,10360,1930 3,San Cristoforo / (Saint Christopher),circa 1930 ,clay (Richard Ginori prototype edition - colours or in black and gold ),h. 35 cm,Sculptures,,, ,1930_3.jpg,10360,360,publish
+catalogo,10368,1933 1,Mattino / (Morning),1933,plaster,,Sculptures,,,,1933_1.jpg,10368,368,publish
+catalogo,10393,1951-1952 5,Kore ,1951-1952,terracotta,"44,5 x 10,4 x 7,8 cm",Sculptures,,,,1951-1952_5.jpg,10393,393,publish
+catalogo,10398,1939-1940 10,Annunciazione / (The Annunciation),1939-1940,polished terracotta ,"Angel 24,5 x 10 x 5,5 cm / Madonna 24 x 9 x 6,5 cm",Sculptures,,,,1939-1940_10.jpg,10398,398,publish
+catalogo,10400,1940 2,L' Angelo della sera / (The Angel of the Evening),circa 1940 ,plaster (prototype),,Sculptures,,,,1940_2.jpg,10400,400,publish
+catalogo,10404,1933 25,Senza titolo / (Untitled),circa 1933,plaster,56 x 38 x 25 cm,Sculptures,,,,1933_25.jpg,10404,404,publish
+catalogo,10405,1933 6,Euridice / (Eurydice),1933,painted plaster ,h. 117 cm,Sculptures,,,,1933_6.jpg,10405,405,publish
+catalogo,10409,1945 30,Cavaliere / (Knight),circa 1945 ,painted terracotta,"39,5 x 19,5 x 13 cm",Sculptures,,,,1945_30.jpg,10409,409,publish
+catalogo,10435,1946-1947 4,Senza titolo / (Untitled) ,1946-1947,glazed ceramic,60 x 20 cm,Sculptures,,,,1946-1947_4.jpg,10435,435,publish
+catalogo,10438,1938 1,Senza titolo / (Untitled) ,circa 1938 ,polished terracotta,26 x 22 cm,Sculptures,,,,1938_1.jpg,10438,438,publish
+catalogo,10440,1943 3,Madonna / (Madonna),circa 1943 ,terracotta,31 x 24 x 6 cm,Sculptures,,,,1943_3.jpg,10440,440,publish
+catalogo,10442,1932 1,Madonna con Bambino / (Madonna with Child),circa 1932,bronze ,36 x 9 x 14 cm,Sculptures,,,Edition of 2,1932_1.jpg,10442,442,publish
+catalogo,10446,1946-1947 2,Senza titolo / (Untitled) ,1946-1947,glazed ceramic,60 x 20 cm ,Sculptures,,,,1946-1947_2.jpg,10446,446,publish
+catalogo,10448,1933 7,La predicazione del Battista (fonte battesimale) / The Predication of the Baptist (baptismal font),circa 1933,bronze,,Sculptures,,,,1933_7.jpg,10448,448,publish
+catalogo,10458,1938 3,Progetto per fontana - Progetto per l'E 42 / (Project for Fountain - Project for the E 42),circa 1938 ,plaster (prototype),,Sculptures,,,,1938_3.jpg,10458,458,publish
+catalogo,10467,1933 4,La cena in Emmaus / (The Supper at Emmaus),1933,bronze,88 x 57 x 30 cm,Sculptures,,,,1933_4.jpg,10467,467,publish
+catalogo,10485,1933 10,Senza titolo / (Untitled) ,circa 1933,terracotta,28 x 17 x 23 cm,Sculptures,,,,1933_10.jpg,10485,485,publish
+catalogo,10489,1943 4,Ritratto / (Portrait),1943,plaster (prototype),27 x 17 x 21 cm,Sculptures,,,,1943_4.jpg,10489,489,publish
+catalogo,10504,1946-1947 6,Senza titolo / (Untitled) ,1946-1947,glazed ceramic,55 x 28 x 16 cm,Sculptures,,, ,1946-1947_6.jpg,10504,504,publish
+catalogo,10513,1948-1949 9,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,50 x 20 cm,Sculptures,,,,1948-1949_9.jpg,10513,513,publish
+catalogo,10518,1932-1933 1,Tomba Orombelli / (Orombelli Grave),1932-1933,bronze,Cristo benedicente (Blessing Christ) (155 x 94 x 13 cm); Sant'Ambrogio (Saint Ambrose) (115 x 94 x 13 cm); San Carlo (Saint Charles) (115 x 68 x 13 cm); Fregio (Frieze) (45 x 85 cm),Sculptures,,, ,1932-1933_1.jpg,10518,518,publish
+catalogo,10535,1933 9,Volto / (Face),circa 1933 ,plaster,"22 x 13,5 x 16 cm",Sculptures,,, ,1933_9.jpg,10535,535,publish
+catalogo,10537,1945 9,Senza titolo / (Untitled) ,circa 1945 ,terracotta,"29,5 x 20 x 12 cm",Sculptures,,,,1945_9.jpg,10537,537,publish
+catalogo,10543,1945 37,Senza titolo / (Untitled) ,circa 1945 ,terracotta,"13 x 52,5 x 4 cm",Sculptures,,,,1945_37.jpg,10543,543,publish
+catalogo,10545,1941 2,"""Si redimono i campi"" - Progetto per l'E 42  (Progetto n. 3, gruppo A, variante n. 3) / ""The Fields are liberated"" - Project for the E 42 (Project No. 3, group A, variant No. 3)",1941,plaster (prototype),,Sculptures,,,,1941_2.jpg,10545,545,publish
+catalogo,10563,1948-1949 8,Annunciazione / (The Annunciation),1948-1949,glazed ceramic,,Sculptures,,,,1948-1949_8.jpg,10563,563,publish
+catalogo,10564,1948-1949 7,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,70 x 20 cm  ,Sculptures,,,,1948-1949_7.jpg,10564,564,publish
+catalogo,10573,1933 11,Senza titolo / (Untitled) ,circa 1933,plaster,"22 x 21 x 23,5 cm",Sculptures,,,,1933_11.jpg,10573,573,publish
+catalogo,10575,1945 26,Diavolo / (Devil),circa 1945,terracotta ,30 x 10 x 6 cm ,Sculptures,,,,1945_26.jpg,10575,575,publish
+catalogo,10584,1940-1941 2,"Progetto per l'E 42 (Progetto n. 2, varianti n. 1 e 2 ) / Project for the E 42 (Project No. 2, variations No. 1 and 2)",1940-1941,terracotta (prototype),,Sculptures,,,,1940-1941_2.jpg,10584,584,publish
+catalogo,10586,1950 6,Senza titolo / (Untitled) ,1950,glazed ceramic,h. 50 cm   ,Sculptures,,,,1950_6.jpg,10586,586,publish
+catalogo,10594,1948-1949 3,Senza titolo /  (Untitled),1948-1949,glazed polychrome ceramic,56 x 20 x 20 cm,Sculptures,,,   ,1948-1949_3.jpg,10594,594,publish
+catalogo,10601,1940-1941 4,"""Si redimono i campi"" - Progetto per l'E 42 (Progetto n. 3, gruppo A, variante n. 1) / ""The Fields are liberated"" - Project for the E 42 (Project No. 3, group A, variant No. 1)",1940-1941,terracotta (prototype),,Sculptures,,,,1940-1941_4.jpg,10601,601,publish
+catalogo,10604,1933 22,Dafne / (Daphne),circa 1933,plaster,47 x 22 x 9 cm,Sculptures,,,,1933_22.jpg,10604,604,publish
+catalogo,10619,1940-1941 3,"""Si redimono i campi, si fondano le città"" - Progetto per l'E 42 (Progetto n. 3, gruppo A, variante n. 2, gruppo B) / ""The Fields are liberated, the Cities are established"" - Project for the E 42 (Project No. 3, group A, variant No. 2, group B)",1940-1941,terracotta (prototype),,Sculptures,,,,1940-1941_3.jpg,10619,619,publish
+catalogo,10621,1943 23,Demetra ,circa 1943,terracotta,"20,5 x 19 x 7 cm",Sculptures,,,,1943_23.jpg,10621,621,publish
+catalogo,10627,1943 11,Senza titolo / (Untitled),circa 1943 ,plaster,"23,5 x 14,5 x 12 cm",Sculptures,,,,1943_11.jpg,10627,627,publish
+catalogo,10629,1943 12,Senza titolo / (Untitled),circa 1943 ,terracotta,21 x 18 x 17 cm,Sculptures,,,,1943_12.jpg,10629,629,publish
+catalogo,10630,1943 25,Senza titolo / (Untitled),circa 1943 ,terracotta,25 x 16 x 7 cm,Sculptures,,,,1943_25.jpg,10630,630,publish
+catalogo,10631,1945 11,Senza titolo / (Untitled),circa 1945,terracotta,23 x 12 x 10 cm,Sculptures,,,,1945_11.jpg,10631,631,publish
+catalogo,10633,1945 24,Senza titolo / (Untitled),circa 1945,terracotta,"10,5 x 4,5 x 2,5 cm; 8 x 2 x 3 cm",Sculptures,,,,1945_24.jpg,10633,633,publish
+catalogo,10635,1945 27,Diavolo / (Devil) ,circa 1945,terracotta,31 x 6 x 10 cm,Sculptures,,,,1945_27.jpg,10635,635,publish
+catalogo,10637,1949 2,Senza titolo / (Untitled) ,circa 1949,glazed ceramic,48 x 22 x 11 cm,Sculptures,,,,1949_2.jpg,10637,637,publish
+catalogo,10639,1948-1949 6,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,70 x 20 cm ,Sculptures,,,,1948-1949_6.jpg,10639,639,publish
+catalogo,10651,1943 5,Ritratto / (Portrait),1943,bronze,25 cm,Sculptures,,,,1943_5.jpg,10651,651,publish
+catalogo,10653,1939-1940 9,San Tommaso / (Saint Thomas),1939-1940,marble,,Sculptures,,,,1939-1940_9.jpg,10653,653,publish
+catalogo,10660,1930 2,Le tre Grazie al bagno / (The Three Graces at Bath),circa 1930 ,slip cast luster ceramic (Richard Ginori edition - colours or in black and gold),34 x 16 cm,Sculptures,,,,1930_2.jpg,10660,660,publish
+catalogo,10665,1943 20,Senza titolo / (Untitled),circa 1943,plaster,"40,5 x 28 x 12,5 cm",Sculptures,,,,1943_20.jpg,10665,665,publish
+catalogo,10666,1943 24,Senza titolo / (Untitled),circa 1943,clay,"15 x 13,5 x 8,5 cm",Sculptures,,,,1943_24.jpg,10666,666,publish
+catalogo,10667,1940 3,Tomba Manusardi (L'Angelo della sera) / Manusardi Grave (The Angel of the Evening),1940,Montorfano stone,5 x 5 x 3 m,Sculptures,,,,1940_3.jpg,10667,667,publish
+catalogo,10669,1946-1947 8,Senza titolo / (Untitled) ,1946-1947,glazed ceramic,"83,5 x 24 cm",Sculptures,,,,1946-1947_8.jpg,10669,669,publish
+catalogo,10671,1933 2,Deposizione / (The Deposition),1933,bronze and wood base,78 x 60 x 26 cm,Sculptures,,,,1933_2.jpg,10671,671,publish
+catalogo,10672,1948-1949 11,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,60 x 20 cm (each element) ,Sculptures,,,,1948-1949_11.jpg,10672,672,publish
+catalogo,10673,1943 13,Senza titolo / (Untitled) ,circa 1943 ,glazed ceramic,"47 x 33,5 x 27 cm",Sculptures,,,,1943_13.jpg,10673,673,publish
+catalogo,10679,1938 2,Cavallo - Progetto per l'E 42 (Progetto n. 1) / Horse - Project for the E 42 (Project No. 1),1938,plaster and wood (prototype),,Sculptures,,,,1938_2.jpg,10679,679,publish
+catalogo,10686,1945 5,Animale sbagliato / (Wrong Animal),circa 1945 ,terracotta,"7,5 x 10 x 7 cm",Sculptures,,,,1945_5.jpg,10686,686,publish
+catalogo,10699,1945 7,Senza titolo / (Untitled) ,circa 1945,terracotta,"21 x 32,5 x 31 cm",Sculptures,,,,1945_7.jpg,10699,699,publish
+catalogo,10702,1943 15,Senza titolo / (Untitled) ,circa 1943 ,terracotta,26 x 16 x 15 cm,Sculptures,,,,1943_15.jpg,10702,702,publish
+catalogo,10705,1948-1949 12,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,60 x 20 cm,Sculptures,,,,1948-1949_12.jpg,10705,705,publish
+catalogo,10706,1933 23,Dafne / (Daphne),circa 1933,glazed ceramic,47 x 22 x 9 cm,Sculptures,,,,1933_23.jpg,10706,706,publish
+catalogo,10709,1930 7,Madonna con Bambino / (Madonna with Child),circa 1930 ,majolica,32 x 23 x 13 cm,Sculptures,,,  ,1930_7.jpg,10709,709,publish
+catalogo,10711,1945 10,Senza titolo / (Untitled) ,circa 1945,terracotta ,42 x 21 x 22 cm ,Sculptures,,,,1945_10.jpg,10711,711,publish
+catalogo,10713,1945 18,Senza titolo / (Untitled),circa 1945,terracotta,21 x 12 x 8 cm,Sculptures,,,,1945_18.jpg,10713,713,publish
+catalogo,10724,1943 21,Senza titolo / (Untitled),circa 1943,terracotta,"38,5 x 16 x 24 cm",Sculptures,,,,1943_21.jpg,10724,724,publish
+catalogo,10726,1943 7,Senza titolo / (Untitled) ,circa 1943,bronze  ,"13,5 x 11,5 x 11 cm",Sculptures,,,Edition of 2,1943_7.jpg,10726,726,publish
+catalogo,10741,1950 14,Senza titolo / (Untitled) ,circa 1950,glazed ceramic,"34 x 14,5 x 10 cm",Sculptures,,,,1950_14.jpg,10741,741,publish
+catalogo,10745,1939-1940 1,La Decorazione / (The Decoration),1939-1940,plaster (prototype),,Sculptures,,,,1939-1940_1.jpg,10745,745,publish
+catalogo,10748,1945 13,Senza titolo /  (Untitled),circa 1945,terracotta,"15,5 x 10 x 8 cm",Sculptures,,,,1945_13.jpg,10748,748,publish
+catalogo,10752,1946-1947 7,Senza titolo / (Untitled) ,1946-1947,glazed polychrome ceramic,"85 x 26 x 28 cm; base 25,4 x 25,4 x h. 2 cm",Sculptures,,,,1946-1947_7.jpg,10752,752,publish
+catalogo,10754,1945 28,Diavolo / (Devil) ,circa 1945,terracotta,"30 x 12 x 6,5 cm",Sculptures,,,,1945_28.jpg,10754,754,publish
+catalogo,10765,1948-1949 13,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,60 x 20 cm,Sculptures,,,,1948-1949_13.jpg,10765,765,publish
+catalogo,10773,1946 2,Senza titolo / (Untitled) ,circa 1946 ,glazed ceramic,"22 x 7,5 x 10 cm",Sculptures,,,,1946_2.jpg,10773,773,publish
+catalogo,10776,1946-1947 3,Autunno / (Autumn),1946-1947,glazed ceramic,60 x 20 cm,Sculptures,,,,1946-1947_3.jpg,10776,776,publish
+catalogo,10778,1947 1,Cristo al sepolcro / (Christ at the Sepulcre),1947,glazed ceramic,,Sculptures,,,,1947_1.jpg,10778,778,publish
+catalogo,10797,1935 16,Scultura n. 25 / (Sculpture No. 25),1935 (1968),plaster,92 x 56 x 10 cm,Sculptures,,, ,1935_16.jpg,10797,797,publish
+catalogo,10802,1940-1941 1,"Progetto per l' E 42 (Progetto n. 2, A B C D) / Project for the E 42 (Project No. 2, A B C D)",1940-1941,terracotta (prototype),,Sculptures,,,,1940-1941_1.jpg,10802,802,publish
+catalogo,10812,1945 44,Senza titolo / (Untitled) ,circa 1945,terracotta,24 cm,Sculptures,,,,1945_44.jpg,10812,812,publish
+catalogo,10817,1948-1949 1,Senza titolo / (Untitled) ,1948-1949,terracotta,50 x 20 cm,Sculptures,,,,1948-1949_1.jpg,10817,817,publish
+catalogo,10818,1945 40,Senza titolo / (Untitled) ,circa 1945,terracotta,41 x 16 x 12 cm,Sculptures,,,,1945_40.jpg,10818,818,publish
+catalogo,10821,1948-1949 4,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,"46,5 x 17,5 x 11,5 cm",Sculptures,,,,1948-1949_4.jpg,10821,821,publish
+catalogo,10823,1945 34,L'Eco / (The Echo),circa 1945,terracotta,"38 x 32,8 x 16 cm",Little Theaters,,, ,1945_34.jpg,10823,823,publish
+catalogo,10824,1948-1949 5,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,50 x 20 cm,Sculptures,,,,1948-1949_5.jpg,10824,824,publish
+catalogo,10825,1942 5,"Si fondano le citta'' - Progetto per l' E 42  (Progetto n. 3, gruppo B, variante n. 2, particolare) / ""The Cities are established"" - Project for the E 42 (Project No. 3, group B, variant No. 2, detail)",1942,plaster (prototype),260 cm,Sculptures,,,,1942_5.jpg,10825,825,publish
+catalogo,10829,1943 22,Senza titolo / (Untitled),circa 1943,terracotta,30 x 9 x 6 cm,Sculptures,,,,1943_22.jpg,10829,829,publish
+catalogo,10834,1948-1949 10,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,80 x 20 cm,Sculptures,,,,1948-1949_10.jpg,10834,834,publish
+catalogo,10835,1935 17,Scultura n. 25 / (Sculpture No. 25),1935 (1976),plexiglass,184 x 112 x 20 cm,Sculptures,,,,1935_17.jpg,10835,835,publish
+catalogo,10843,1945 31,Città / (City),circa 1945,terracotta,30 x 33 x 9 cm,Sculptures,,,,1945_31.jpg,10843,843,publish
+catalogo,10844,1943 27,Senza titolo / (Untitled) ,circa 1943,glazed ceramic,32 x 29 x    cm,Sculptures,,,,1943_27.jpg,10844,844,publish
+catalogo,10846,1947 3,La follia / (Madness),circa 1947,glazed polychrome ceramic,"57 x 19,5 x 17 cm",Sculptures,,,,1947_3.jpg,10846,846,publish
+catalogo,10847,1943 1,"""Si redimono i campi"" - Progetto per l'42  (Progetto n. 3, gruppo A, variante n. 4, particolare della Maternità) / ""The Fileds are liberated - Project for the E 42 (Project No. 3, group A, variant No. 4, Mother and Child, detail)",1943,marble,520 cm,Sculptures,,,,1943_1.jpg,10847,847,publish
+catalogo,10855,1933 20,Bambina che ascolta una conchiglia / (Little Girl Listening to a Shell),circa 1933 ,plaster,76 x 25 x 20 cm,Sculptures,,,,1933_20.jpg,10855,855,publish
+catalogo,10856,1942 6,"""Si fondano le citta'' - Progetto per l'E 42  (Progetto n. 3, gruppo B, variante n. 2, particolare) / ""The Cities are established"" - Project for the E 42 (Project No. 3, group A, variant No. 2, detail)",1942,plaster (prototype),260 cm,Sculptures,,,,1942_6.jpg,10856,856,publish
+catalogo,10862,1943 2,"""Si redimono i campi"" - Progetto per l'E 42  (Progetto n. 3, gruppo A, variante n. 4, particolare) / ""They Fields are liberated - Project for the E 42 (Project No. 3, group A, variant No. 4, detail)",1943,marble,520 cm,Sculptures,,,,1943_2.jpg,10862,862,publish
+catalogo,10864,1943 6,Senza titolo / (Untitled) ,circa 1943,plaster (prototype),14 x 12 x 11 cm,Sculptures,,,,1943_6.jpg,10864,864,publish
+catalogo,10866,1930 4,San Cristoforo / (Saint Christopher),circa 1930,slip cast luster ceramic (Richard Ginori edition - colours or in black and gold),h. 35 cm,Sculptures,,, ,1930_4.jpg,10866,866,publish
+catalogo,10868,1933 3,La cena in Emmaus / (The Supper at Emmaus),1933,plaster,85 x 65 x 30 cm,Sculptures,,,,1933_3.jpg,10868,868,publish
+catalogo,10869,1948-1949 14,Senza titolo / (Untitled) ,1948-1949,glazed polychrome ceramic,h. 76 x 26 base cm,Sculptures,,,,1948-1949_14.jpg,10869,869,publish
+catalogo,10874,1945 21,Senza titolo / (Untitled),circa 1945,terracotta,19 x 14 x 6 cm,Sculptures,,,,1945_21.jpg,10874,874,publish
+catalogo,10886,1940 1,Angelo / (Angel),1940,marble,,Sculptures,,,,1940_1.jpg,10886,886,publish
+catalogo,10891,1939-1940 3,La Pittura / (The Painting),1939-1940,plaster (prototype),103 x 52 x 43 cm,Sculptures,,,,1939-1940_3.jpg,10891,891,publish
+catalogo,10901,1939-1940 4,L'Architettura / (The Architecture),1939-1940,plaster (prototype),103 x 36 x 42 cm,Sculptures,,,,1939-1940_4.jpg,10901,901,publish
+catalogo,10903,1945 23,Senza titolo / (Untitled),circa 1945 ,terracotta,"34 x 10 x 9,5 cm",Sculptures,,,,1945_23.jpg,10903,903,publish
+catalogo,10906,1933 14,Senza titolo / (Untitled) ,circa 1933,painted terracotta,26 x 9 x 5 cm,Sculptures,,,,1933_14.jpg,10906,906,publish
+catalogo,10907,1948-1949 15,Senza titolo / (Untitled) ,1948-1949,glazed ceramic,80 x 20 cm,Sculptures,,,,1948-1949_15.jpg,10907,907,publish
+catalogo,10909,1943 8,Senza titolo / (Untitled),circa 1943,bronze  ,20 x 15 x 16 cm,Sculptures,,,Edition of 3,1943_8.jpg,10909,909,publish
+catalogo,10912,1950 2,L'angelo dell'Apocalisse / (Angel of the Apocalypse),1950,glazed polychrome ceramic,62 x 25 x 25 cm,Sculptures,,,,1950_2.jpg,10912,912,publish
+catalogo,10913,1942 4,"Si redimono i campi' - Progetto per l'E 42  (Progetto n. 3, gruppo A, variante n. 4, particolare) /  ""The Fields are liberated - Project for the E42 (Project No. 3, variant No. 4, detail)",1942,plaster (prototype),260 cm,Sculptures,,,,1942_4.jpg,10913,913,publish
+catalogo,10914,1933 29,La conversazione (Nudo di donna sdraiato) / The Conversation (Lying down Nude Woman),circa 1933,bronze on alabaster base,72 x 158 x 52 cm  ,Sculptures,,,,1933_29.jpg,10914,914,publish
+catalogo,10973,1945 1,I filosofi / (Philosophers),1945,terracotta,"23 x 17 x 11,5 cm; 21 x 14,5 x 13 cm",Sculptures,,, ,1945_1.jpg,10973,973,publish
+catalogo,10980,1937 1,Senza titolo / (Untitled) ,1937,marble (figure in stone),280 x 280  cm,Sculptures,,,,1937_1.jpg,10980,980,publish
+catalogo,10986,1945 25,Senza titolo / (Untitled),circa 1945,terracotta,17 x 8 x 7 cm,Sculptures,,,,1945_25.jpg,10986,986,publish
+catalogo,10994,1950 3,Cariatide / (Caryatid),1950,glazed polychrome ceramic,157 x 93 x 73 cm,Sculptures,,,,1950_3.jpg,10994,994,publish
+catalogo,10996,1950 7,Senza titolo / (Untitled) ,1950,glazed polychrome ceramic,54 x 27 x 27 cm,Sculptures,,,,1950_7.jpg,10996,996,publish
+catalogo,11006,1939-1940 7,La Pittura / (The Painting),1939-1940,plaster,,Sculptures,,,,1939-1940_7.jpg,11006,1006,publish
+catalogo,11009,1935 18,Scultura n. 25 / (Sculpture No. 25),1935 (1980),plaster,92 x 56 x 10 cm,Sculptures,,, ,1935_18.jpg,11009,1009,publish
+catalogo,11010,1949 1,Tomba Bicchierai (Croce) / Bicchierai Grave (Holy Cross),1949,iron,,Sculptures,,,,1949_1.jpg,11010,1010,publish
+catalogo,11024,1933 15,Senza titolo / (Untitled) ,circa 1933,plaster and wood,97 x 32 x 36 cm,Sculptures,,,,1933_15.jpg,11024,1024,publish
+catalogo,11029,1933 16,Senza titolo / (Untitled) ,circa 1933 ,plaster,75 x 33 x 26 cm,Sculptures,,,,1933_16.jpg,11029,1029,publish
+catalogo,11034,1934 5,Scultura n. 12 / (Sculpture No. 12),1934 (1976),plexiglass,114 x 115 x 38 cm,Sculptures,,,,1934_5.jpg,11034,1034,publish
+catalogo,11035,1945 41,Senza titolo / (Untitled),circa 1945 ,terracotta,40 cm,Sculptures,,,,1945_41.jpg,11035,1035,publish
+catalogo,11037,1951 8,Edicola Achille / (Achilles Aedicule),1951,green patina bronze casting ,220 cm,Sculptures,,, ,1951_8.jpg,11037,1037,publish
+catalogo,11038,1948 5 /5-1,Cicogna / (Stork),1948,glazed ceramic,66 x 28 x 25 cm,Sculptures,,,,1948_5_/5-1.jpg,11038,1038,publish
+catalogo,11043,1935 19,Scultura n. 15 / (Sculpture No. 15),1935 (1976),plexiglass,145 x 140 x 21 cm,Sculptures,,,Edition of 2,1935_19.jpg,11043,1043,publish
+catalogo,11052,1933 5,Senza titolo / (Untitled) ,1933,plaster,,Sculptures,,,,1933_5.jpg,11052,1052,publish
+catalogo,11060,1934 4,Scultura n. 11 / (Sculpture No. 11),1934 (1968),plaster,"80 x 70 x 14,5 cm",Sculptures,,,Edition of 2 + 1 AP,1934_4.jpg,11060,1060,publish
+catalogo,11065,1935 20,Scultura n. 14 / (Sculpture No. 14),1935 (1983),stainless steel,290 x 100 x 80 cm,Sculptures,,,,1935_20.jpg,11065,1065,publish
+catalogo,11073,1935 13,Scultura n. 21 / (Sculpture No. 21),1935 (1968),stainless steel and nickel-plated iron,55 x 35 x 35 cm,Sculptures,,,Edition of 2 + 1 AP,1935_13.jpg,11073,1073,publish
+catalogo,11090,1945 33,Teatrino / (Little Theater),circa 1945,terracotta,"21,5 x 12,5 x 8 cm",Sculptures,,, ,1945_33.jpg,11090,1090,publish
+catalogo,11097,1935 7,Scultura n. 24 / (Sculpture No. 24),1935,plaster and iron,"91 x 90 x 4,8 cm",Sculptures,,,,1935_7.jpg,11097,1097,publish
+catalogo,11115,1930-1931 1,Icaro che sfugge alle stelle / (Icarus Fleeing from Stars),1930-1931,mirror and nickel-plated iron,,Sculptures,,,  ,1930-1931_1.jpg,11115,1115,publish
+catalogo,11117,1939-1940 2,La Decorazione / (The Decoration),1939-1940,plaster (prototype),103 x 44 x 42 cm,Sculptures,,,,1939-1940_2.jpg,11117,1117,publish
+catalogo,11137,1935 11,Scultura n. 16 / (Sculpture No. 16),1935 (1968),plaster ,"90 x 90 x 6,3 cm",Sculptures,,,Edition of 3 + 1 AP,1935_11.jpg,11137,1137,publish
+catalogo,11138,1935 1,Scultura n. 14 / (Sculpture No. 14),1935,nickel-plated iron,100 x 35 x 28 cm,Sculptures,,,,1935_1.jpg,11138,1138,publish
+catalogo,11141,1934 2,Scultura n. 12 / (Sculpture No. 12),1934,plaster,"55 x 55 x 15,5 cm",Sculptures,,,,1934_2.jpg,11141,1141,publish
+catalogo,11142,1935 2,Scultura n. 15 / (Sculpture No. 15),1935,plaster,"76,5 x 69,5 x 8 cm",Sculptures,,, ,1935_2.jpg,11142,1142,publish
+catalogo,11145,1935 6,Scultura n. 23 / (Sculpture No. 23),1935,plaster,"91 x 90 x 6,5 cm",Sculptures,,,,1935_6.jpg,11145,1145,publish
+catalogo,11151,1935 5,Scultura n. 21 / (Sculpture No. 21),1935,nickel-plated iron,55 x 35 x 35 cm,Sculptures,,,   ,1935_5.jpg,11151,1151,publish
+catalogo,11153,1935 12,Scultura n. 17 / (Sculpture No. 17),1935 (1968),stainless steel ,"196,8 x 59,3 x 24 cm",Sculptures,,,Edition of 3 + 1 AP,1935_12.jpg,11153,1153,publish
+catalogo,11157,1942 1,"""Si redimono i campi"" - Progetto per l'E 42  (Progetto n. 3, gruppo A, variante n. 4) / ""The Fields are liberated - Project for the E 42 (Project No. 3, group A, variant No. 4)",1942,clay (prototype),260 cm,Sculptures,,,,1942_1.jpg,11157,1157,publish
+catalogo,11172,1943 9,Senza titolo / (Untitled),circa 1943 ,terracotta,20 x 12 x 16 cm,Sculptures,,,,1943_9.jpg,11172,1172,publish
+catalogo,11173,1945 36,Orfeo / (Orpheus) ,circa 1945,terracotta,"26,5 x 17 x 11,5 cm",Sculptures,,,,1945_36.jpg,11173,1173,publish
+catalogo,11184,1935 9,Scultura n. 14 / (Sculpture No. 14),1935 (1968),stainless steel  ,100 x 35 x 28 cm,Sculptures,,,Edition of 3 + 1 AP,1935_9.jpg,11184,1184,publish
+catalogo,11194,1943 26,Senza titolo / (Untitled),circa 1943 ,terracotta,"22 x 25,5 x 13 cm",Sculptures,,,,1943_26.jpg,11194,1194,publish
+catalogo,11199,1930 5,Volto / (Face),1930,painted plaster ,"22 x 13,5 x 16 cm",Sculptures,,,,1930_5.jpg,11199,1199,publish
+catalogo,11204,1935 4,Scultura n. 17 / (Sculpture No. 17),1935,nickel-plated iron,"197 x 47,9 x 24 cm",Sculptures,,,,1935_4.jpg,11204,1204,publish
+catalogo,11206,1939-1940 5,La Scultura / (The Sculpture),1939-1940,plaster,,Sculptures,,,,1939-1940_5.jpg,11206,1206,publish
+catalogo,11213,1950 9,Senza titolo / (Untitled) ,1950,glazed ceramic,75 x 25 x 27 cm,Sculptures,,,,1950_9.jpg,11213,1213,publish
+catalogo,11228,1942 3,"""Si redimono i campi"" - Progetto per l'E 42 (Progetto n. 3, gruppo A, variante n. 4, particolare della Maternità) / ""The Fields are liberated"" - Project for the E 42 (Project No. 3, group A, variant No. 4, Mother and Child, detail)",1942,plaster (prototype),260 cm,Sculptures,,,,1942_3.jpg,11228,1228,publish
+catalogo,11237,1939-1940 8,L'Architettura / (The Architecture),1939-1940,plaster,,Sculptures,,,,1939-1940_8.jpg,11237,1237,publish
+catalogo,11238,1943 14,Polimnia nuda / (Naked Polimnia),1943,bronzed plaster ,166 x 99 x 47 cm,Sculptures,,,,1943_14.jpg,11238,1238,publish
+catalogo,11242,1944 2,Lettera a Fontana / (Letter to Fontana),1944,glazed polychrome ceramic,"23,2 x 24 x 18,6 cm ",Sculptures,,,,1944_2.jpg,11242,1242,publish
+catalogo,11248,1945 38,Orfeo / (Orpheus) ,circa 1945 ,glazed ceramic,59 x 20 x 10 cm,Little Theaters,,, ,1945_38.jpg,11248,1248,publish
+catalogo,11256,1945 42,Senza titolo / (Untitled) ,circa 1945 ,terracotta,h. 37 cm,Sculptures,,,,1945_42.jpg,11256,1256,publish
+catalogo,11262,1935 10,Scultura n. 15 / (Sculpture No. 15),1935 (1968),plaster ,"71,8 x 70 x 10,3 cm",Sculptures,,,Edition of 2 + 1 AP ,1935_10.jpg,11262,1262,publish
+catalogo,11271,1949 3,Le mani / (The Hands),1949,painted terracotta and brass,35 x 29 x 9 cm,Little Theaters,,, ,1949_3.jpg,11271,1271,publish
+catalogo,11281,1930-1931 2,Teatrino / (Little Theater),1930-1931 (circa 1950),painted terracotta,"44,5 x 26,8 x 11 cm",Little Theaters,,,,1930-1931_2.jpg,11281,1281,publish
+catalogo,11283,1935 21,Scultura n. 21 / (Sculpture No. 21),1935 (1983),stainless steel,150 x 100 x 100 cm,Sculptures,,,,1935_21.jpg,11283,1283,publish
+catalogo,11287,1934 1,Scultura n. 11 / (Sculpture No. 11),1934,plaster,"80 x 70 x 14,5 cm",Sculptures,,,,1934_1.jpg,11287,1287,publish
+catalogo,11340,1939-1940 6,La Decorazione / (The Decoration),1939-1940,plaster,,Sculptures,,,,1939-1940_6.jpg,11340,1340,publish
+catalogo,11346,1935 8,Scultura n. 25 / (Sculpture No. 25),1935,plaster,92 x 56 x 10 cm,Sculptures,,,,1935_8.jpg,11346,1346,publish
+catalogo,11378,1944 1,Storia di Arlecchino / (History of Harlequin),1944,glazed polychrome ceramic ,"30,4 x 35 x 12,5 cm",Sculptures,,,  ,1944_1.jpg,11378,1378,publish
+catalogo,11382,1933-1934 1,Senza titolo / (Untitled),1933-1934,"marble, painted terracotta, concrete, ceramic, iron, enamel and golden leaf  ","182,7 x 61,3 x 21,6 cm",Sculptures,,,,1933-1934_1.jpg,11382,1382,publish
+catalogo,11385,1944 4,Solo coi cerchi / (Alone with the Circles),1944,terracotta,43 x 28 x 24 cm,Little Theaters,,, ,1944_4.jpg,11385,1385,publish
+catalogo,11390,1945 32,Il diavolo che tenta gli intellettuali / (The Devil that temps the Intellectuals),circa 1945 ,painted terracotta,"51,5 x 50,8 x 12,2 cm",Little Theaters,,,,1945_32.jpg,11390,1390,publish
+catalogo,11392,1935 15,Scultura n. 24 / (Sculpture No. 24),1935 (1968),plaster and iron,"90 x 90 x 4,8 cm",Sculptures,,,Edition of 3 + 1 AP ,1935_15.jpg,11392,1392,publish
+catalogo,11394,1935 14,Scultura n. 23 / (Sculpture No. 23),1935 (1968),plaster ,"90 x 90 x 6,5 cm",Sculptures,,,Edition of 3 + 1 AP ,1935_14.jpg,11394,1394,publish
+catalogo,11395,1936 1,Costante Uomo / (Constant Man),1936,plaster,225 x 55 x 31 cm ,Sculptures,,,,1936_1.jpg,11395,1395,publish
+catalogo,11396,1935 3,Scultura n. 16 / (Sculpture No. 16),1935,plaster,90 x 90 cm,Sculptures,,,  ,1935_3.jpg,11396,1396,publish
+catalogo,11397,1934 6,Scultura n. 12 / (Sculpture No. 12),1934 (1968),plaster ,"55 x 55 x 15,5 cm",Sculptures,,,Edition of 3 + 1 AP ,1934_6.jpg,11397,1397,publish
+catalogo,11398,1947 2B,Senza titolo / (Untilted),1947,clay,40 x 50 cm ,bas reliefs,plaster/others,,,1947_2B.jpg,11398,1398,publish
+catalogo,11399,1929-1930 1B,Senza titolo / (Untitled),1929-1930,bronze,Ø 36 cm ,bas reliefs,plaster/others,,,1929-1930_1B.jpg,11399,1399,publish
+catalogo,11401,1945 4B,Senza titolo / (Untitled),circa 1945,painted clay,42 x 62 x 5 cm,bas reliefs,plaster/others,,,1945_4B.jpg,11401,1401,publish
+catalogo,11402,1945 5B,Senza titolo / (Untitled),circa 1945,clay,70 x 50 cm ,bas reliefs,plaster/others,,,1945_5B.jpg,11402,1402,publish
+catalogo,11403,1945 7B,Senza titolo / (Untitled),circ 1945,glazed ceramic,39 x 65 cm,bas reliefs,ceramic,,,1945_7B.jpg,11403,1403,publish
+catalogo,11405,1942 1B,Senza titolo / (Untitled),circa 1942,terracotta,80 x 60 cm ,bas reliefs,plaster/others,,,1942_1B.jpg,11405,1405,publish
+catalogo,11407,1947 6B,Senza titolo / (Untitled),1947,clay,50 x 63 cm ,bas reliefs,plaster/others,,,1947_6B.jpg,11407,1407,publish
+catalogo,11408,1944 1B,Senza titolo / (Untitled),circa 1944 ,clay,40 x 70 cm ,bas reliefs,plaster/others,,,1944_1B.jpg,11408,1408,publish
+catalogo,11445,1945 6B,Senza titolo / (Untitled),circa 1945,plaster,"35 x 50 x 3,5 cm",bas reliefs,plaster/others,,,1945_6B.jpg,11445,1445,publish
+catalogo,11446,1946 1B,Le donne spaventate dagli uccelli / (The Women frightened by the Birds),1946,painted clay,"37 x 89,5 x 14 cm ",bas reliefs,plaster/others,,,1946_1B.jpg,11446,1446,publish
+catalogo,11447,1946 3B,Senza titolo / (Untitled),circa 1946,clay,32 x 85 x 13 cm,bas reliefs,plaster/others,,,1946_3B.jpg,11447,1447,publish
+catalogo,11448,1929 1B,Ritratto (della sorella Renata Pollini) / Portrait (of the Sister Renata Pollini),circa 1929,plaster,"40,5 x 30,5 x 2 cm",bas reliefs,plaster/others,,,1929_1B.jpg,11448,1448,publish
+catalogo,11449,1945 3B,Senza titolo / (Untitled),circa 1945,glazed ceramic,50 x 80 cm ,bas reliefs,ceramic,,,1945_3B.jpg,11449,1449,publish
+catalogo,11451,1947 5B,Senza titolo / (Untitled),1947,clay,"49 x 79 x 6,5 cm",bas reliefs,plaster/others,, ,1947_5B.jpg,11451,1451,publish
+catalogo,11457,1936 1B,Veneranda Giovanna Maria della Croce / (Venerating Joanna Mary at the Holy Cross),1936,bronze and golden mosaic,,bas reliefs,plaster/others,,,1936_1B.jpg,11457,1457,publish
+catalogo,11458,1947 7B,Senza titolo / (Untitled),1947,clay,50 x 40 cm ,bas reliefs,plaster/others,,,1947_7B.jpg,11458,1458,publish
+catalogo,11459,1947 9B,Il castello / (The Castle),1947,painted clay,"84 x 92 x 11,5 cm",bas reliefs,plaster/others,,,1947_9B.jpg,11459,1459,publish
+catalogo,11462,1947 4B,Senza titolo / (Untitled),1947,painted clay,65 x 93 cm,bas reliefs,plaster/others,,,1947_4B.jpg,11462,1462,publish
+catalogo,11463,1950 1B,Il leopardo che guarda la laguna / (The Leopard watching the Lagoon),1950,plaster and mixed media,40 x 54 cm,bas reliefs,plaster/others,,,1950_1B.jpg,11463,1463,publish
+catalogo,11465,1948 8B,Senza titolo / (Untitled),circa 1948,plaster and mixed media,33 x 75 cm,bas reliefs,plaster/others,,,1948_8B.jpg,11465,1465,publish
+catalogo,11467,1946 7B,Senza titolo / (Untitled),circa 1946,glazed polychrome ceramic,36 x 66 cm,bas reliefs,ceramic,,,1946_7B.jpg,11467,1467,publish
+catalogo,11483,1933 1B,Amphione ,circa 1933 ,terracotta,35 x 50 cm ,bas reliefs,plaster/others,,   ,1933_1B.jpg,11483,1483,publish
+catalogo,11488,1947 1B,Senza titolo / (Untitled),1947,painted clay,28 x 46 x 3 cm,bas reliefs,plaster/others,,,1947_1B.jpg,11488,1488,publish
+catalogo,11491,1948 3B,Edicola Cardarelli / (Cardarelli Aedicule ),1948,marble,,bas reliefs,plaster/others,,,1948_3B.jpg,11491,1491,publish
+catalogo,11492,1948 4B ,Edicola Rossi / (Rossi Aedicule),1948,marble (outside bas relief); golden and glazed bronze (altarpiece),,bas reliefs,plaster/others,,,1948_4B_.jpg,11492,1492,publish
+catalogo,11497,1948 5B,Senza titolo / (Untitled),1948,painted clay,"52 x 79,5 cm",bas reliefs,plaster/others,,,1948_5B.jpg,11497,1497,publish
+catalogo,11540,1947 3B / 3B-1,Senza titolo / (Untitled) ,1947,painted clay,26 x 45 x 3 cm,bas reliefs,plaster/others,,,1947_3B_/_3B-1.jpg,11540,1540,publish
+catalogo,11598,1948 1B,La Resurrezione (Edicola Cardarelli) / The Resurrection (Cardarelli Aedicule),1948,plaster (prototype),,bas reliefs,plaster/others,,  ,1948_1B.jpg,11598,1598,publish
+catalogo,11728,1929-1930 2B,Ritratto (della madre Albina Fait) / Portrait (of the Mother Albina Fait),1929-30,bronze,Ø 33 cm,bas reliefs,plaster/others,,,1929-1930_2B.jpg,11728,1728,publish
+catalogo,11786,1942 2B,Senza titolo / (Untitled),circa 1942,terracotta,50 x 60 cm ,bas reliefs,plaster/others,,,1942_2B.jpg,11786,1786,publish
+catalogo,11788,1945 2B,Senza titolo / (Untitled),circa 1945,painted clay,"50 x 70 x 8,5 cm",bas reliefs,plaster/others,, ,1945_2B.jpg,11788,1788,publish
+catalogo,11795,1948 2B,La Resurrezione / (The Resurrection),1948,plaster (prototype for Aedicule Cardarelli),,bas reliefs,plaster/others,, ,1948_2B.jpg,11795,1795,publish
+catalogo,11797,1948 6B,Senza titolo / (Untitled),1948,painted clay,52 x 95 cm,bas reliefs,plaster/others,,,1948_6B.jpg,11797,1797,publish
+catalogo,11798,1948 7B,Senza titolo / (Untitled),1948,painted clay,54 x 53 cm,bas reliefs,plaster/others,,,1948_7B.jpg,11798,1798,publish
+catalogo,11800,1946 6B,Senza titolo / (Untitled),circa 1946,glazed ceramic,45 x 75 x 3 cm,bas reliefs,ceramic,,,1946_6B.jpg,11800,1800,publish
+catalogo,11803,1947 8B,Senza titolo / (Untitled),1947,painted clay,"45,5 x 87,5 x 6 cm",bas reliefs,plaster/others,,,1947_8B.jpg,11803,1803,publish
+catalogo,11818,1946-1947 1B,Edicola Cella / (Aedicule),1946-1947,bronze,,bas reliefs,plaster/others,,,1946-1947_1B.jpg,11818,1818,publish
+catalogo,11820,1946 2B,Dopoguerra / (Postwar Period),1946,painted clay,44 x 93 x 6 cm,bas reliefs,plaster/others,, ,1946_2B.jpg,11820,1820,publish
+catalogo,11821,1946 4B,Senza titolo / (Untitled),circa 1946 ,painted clay,"54 x 67 x 6,5 cm",bas reliefs,plaster/others,, ,1946_4B.jpg,11821,1821,publish
+catalogo,11823,1946 5B,Senza titolo / (Untitled),circa 1946,painted clay,"49,5 x 87,5 x 7 cm",bas reliefs,plaster/others,,,1946_5B.jpg,11823,1823,publish
+catalogo,11825,1933 2B,Il silenzio / (The Silence) ,1933,plaster,87 x 68 x 9 cm,bas reliefs,plaster/others,,,1933_2B.jpg,11825,1825,publish
+catalogo,11935,1932 5,Madonna con Bambino / (Madonna with Child),1932,majolica,"35,5 x 10 x 13 cm",Sculptures,,,,1932_5.jpg,11935,1935,publish
+catalogo,11948,1950 22,Senza titolo / (Untitled),circa 1950 ,glazed polychrome ceramic ,26 x 9 cm,Sculptures,,,,1950_22.jpg,11948,1948,publish
+catalogo,11952,1948 9,Senza titolo / (Untitled),circa 1948 ,glazed polychrome ceramic ,83 x 35 x 30 cm,Sculptures,,,,1948_9.jpg,11952,1952,publish
+catalogo,11953,1949 4,L'Inverno / (The Winter),1949,glazed polychrome ceramic ,"59 x 18,4 x 16,5 cm",Sculptures,,,,1949_4.jpg,11953,1953,publish
+catalogo,11954,1949 5,La Primavera / (The Spring),1949,glazed polychrome ceramic ,57 x 20 x 18 cm,Sculptures,,,,1949_5.jpg,11954,1954,publish
+catalogo,11955,1949 6,L'Estate / (The Summer),1949,glazed polychrome ceramic ,"57,5 x 22,3 x 20,2 cm",Sculptures,,,,1949_6.jpg,11955,1955,publish
+catalogo,11956,1949 7,L'Autunno / (The Autumn),1949,glazed polychrome ceramic ,"58,5 x 20,7 x 18,8 cm",Sculptures,,,,1949_7.jpg,11956,1956,publish
+catalogo,11958,1950 1,Senza titolo / (Untitled) ,1950 ,glazed ceramic,43 x 19 x 16 cm,Sculptures,,,,1950_1.jpg,11958,1958,publish
+catalogo,11960,1950 23,Pulcinella ,circa 1950,glazed polychrome ceramic,77 x 35 x 18 cm,Sculptures,,,,1950_23.jpg,11960,1960,publish
+catalogo,11961,1933 26,Dafne / (Daphne),circa 1933,glazed polychrome ceramic,"46,5 x 24 x 12 cm",Sculptures,,,,1933_26.jpg,11961,1961,publish
+catalogo,12050,VA 071,Vaso / (Vase),1948-1949,glazed polychrome ceramic ,55 x 22 x 18 cm,Ceramics,vases,cat vase,,VA_071.jpg,12050,2050,publish
+catalogo,12075,BE 016,Giraffa / (Giraffe),circa 1960,glazed polychrome ceramic ,32 x 25 x 14 cm,Ceramics,Animals,,,BE_016.jpg,12075,2075,publish
+catalogo,12096,AC 005,Acquasantiera / (Stoup),circa 1950,glazed polychrome ceramic ,"20,5 x 20 x 7 cm",Ceramics,sacred,,,AC_005.jpg,12096,2096,publish
+catalogo,12117,1948 12,Gallo / (Rooster) ,circa 1948 ,glazed polychrome ceramic ,89 x 37 x 18 cm,Sculptures,,,,1948_12.jpg,12117,2117,publish
+catalogo,12119,1948 11,Gallo / (Rooster) ,circa 1948 ,glazed polychrome ceramic ,94 x 37 x 20 cm,Sculptures,,,,1948_11.jpg,12119,2119,publish
+catalogo,12121,ASP 005,Angelo / (Angel),circa 1950 ,glazed polychrome ceramic,28 x 21 cm,Ceramics,sacred,,,ASP_005.jpg,12121,2121,publish
+catalogo,12124,VA 331,Vaso / (Vase),circa 1930 ,glazed polychrome ceramic ,"47 x 14,6 x 9,2 cm",Ceramics,Vases,,,VA_331.jpg,12124,2124,publish
+catalogo,12125,VA 332,Vaso / (Vase),circa 1930 ,glazed polychrome ceramic ,"46,5 x 14,3 x 9 cm",Ceramics,Vases,,,VA_332.jpg,12125,2125,publish
+catalogo,12126,VA 328,Vaso / (Vase),circa 1930 ,glazed polychrome ceramic ,35 x 20 x 12 cm,Ceramics,Vases,,,VA_328.jpg,12126,2126,publish
+catalogo,12136,1950-1951 3,Senza titolo / (Untitled),1950-1951,glazed polychrome ceramic ,,Sculptures,,,,1950-1951_3.jpg,12136,2136,publish
+catalogo,12149,VA 329,Vaso / (Vase),circa 1938,glazed polychrome ceramic ,h. 15 cm,Ceramics,vases,drape vase,,VA_329.jpg,12149,2149,publish
+catalogo,12151,VA 330,Vaso / (Vase),circa 1930,glazed polychrome ceramic ,"47 x 14,5 x 8,8 cm",Ceramics,Vases,,,VA_330.jpg,12151,2151,publish
+catalogo,12164,1949 8,Kore ,circa 1949,glazed polychrome ceramic ,102 x 22 x 20 cm,Sculptures,,,,1949_8.jpg,12164,2164,publish
+catalogo,12165,VA 086,Vaso / (Vase),1950,glazed polychrome ceramic ,26 x 22 x 14 cm,Ceramics,vases,high cone vase,,VA_086.jpg,12165,2165,publish
+catalogo,12204,Cb 1,Coppa / (Bowl),circa 1948 ,glazed polychrome ceramic,h. 17 x Ø 16 cm,Ceramics,Bowls,, ,Cb_1.jpg,12204,2204,publish
+catalogo,12258,1950 7B,Senza titolo / (Untitled),circa 1950 ,glazed polychrome ceramic ,50 x 70 cm,bas reliefs,ceramic,,,1950_7B.jpg,12258,2258,publish
+catalogo,12266,1933 27,Dafne / (Daphne) ,circa 1933 ,glazed black ceramic,"49 x 12,5 x 24,8 cm",Sculptures,,,,1933_27.jpg,12266,2266,publish
+catalogo,12269,TE 001,Servizio da tè / (Tea Set),circa 1940,glazed polychrome ceramic ,"cup: 6 x Ø 10 cm; saucer: 2 x Ø 12,5 cm",Ceramics,coffee and tea set,,,TE_001.jpg,12269,2269,publish
+catalogo,12270,AC 015,Acquasantiera / (Stoup),circa 1948,glazed polychrome ceramic ,"221,3 x 20,5 x 8,3 cm",Ceramics,sacred,,     ,AC_015.jpg,12270,2270,publish
+catalogo,12271,VA 066,Vaso / (Vase),circa 1949,glazed polychrome ceramic ,110 x 45 x 35 cm,Ceramics,vases,bishop vase,,VA_066.jpg,12271,2271,publish
+catalogo,12276,1949 9,Senza titolo / (Untitled),1949,glazed ceramic,42 x 17 cm,Sculptures,,,,1949_9.jpg,12276,2276,publish
+catalogo,12277,1949 10,Senza titolo / (Untitled),1949,glazed ceramic,"45 x 12 x 8,5 cm",Sculptures,,,,1949_10.jpg,12277,2277,publish
+catalogo,12335,LA 048,Lampada / (Lamp),circa 1955 ,glazed polychrome ceramic ,"h. 38 x Ø 10,5 cm",Ceramics,lamps,,,LA_048.jpg,12335,2335,publish
+catalogo,12369,1950 24-C 17,Arlecchino / (Harlequin),1950,glazed ceramic,71 x 28 cm,Sculptures,,,,1950_24-C_17.jpg,12369,2369,publish
+catalogo,12375,1945 8B,Senza titolo / (Untitled),circa 1945  ,glazed polychrome ceramic ,60 x 50 cm,bas reliefs,ceramic,,,1945_8B.jpg,12375,2375,publish
+catalogo,12379,BA 001,Senza titolo / (Untitled),circa 1945 ,glazed ceramic ,45 x 50 cm,bas reliefs,ceramic,,,BA_001.jpg,12379,2379,publish
+catalogo,12407,VA 072,Vaso / (Vase),1950,glazed polychrome ceramic ,21 x 10 x 7 cm,Ceramics,vases,high drape vase,,VA_072.jpg,12407,2407,publish
+catalogo,12414,VA 076,Vaso / (Vase),1950,glazed polychrome ceramic ,"26 x 22,8 x 14,5 cm",Ceramics,vases,low cone vase,,VA_076.jpg,12414,2414,publish
+catalogo,12423,VA 080,Vaso / (Vase),1950,glazed polychrome ceramic ,"26,5 x 23,5 x 12 cm",Ceramics,vases,cone vase, ,VA_080.jpg,12423,2423,publish
+catalogo,12427,VA 083,Vaso / (Vase),1950,glazed polychrome ceramic ,"18,3 x 18,5 x 11 cm",Ceramics,vases,low cone vase,,VA_083.jpg,12427,2427,publish
+catalogo,12428,VA 084,Vaso / (Vase),1950,glazed polychrome ceramic ,19 x 19 x 10 cm,Ceramics,vases,low cone vase,,VA_084.jpg,12428,2428,publish
+catalogo,12429,VA 085,Vaso / (Vase),1950,glazed polychrome ceramic ,"18,5 x 19 x 10 cm",Ceramics,vases,low cone vase,,VA_085.jpg,12429,2429,publish
+catalogo,12442,VA 088,Vaso / (Vase),1948-1949,glazed polychrome ceramic ,42 x 33 cm,Ceramics,vases,double egg vase with drape,,VA_088.jpg,12442,2442,publish
+catalogo,12444,VA 089,Vaso / (Vase),1948-1949,glazed polychrome ceramic ,41 x 37 x 29 cm,Ceramics,vases,double egg vase with drape,,VA_089.jpg,12444,2444,publish
+catalogo,12446,VA 091,Vaso / (Vase),1948-1949,glazed polychrome ceramic ,40 x 45 x 40 cm,Ceramics,vases,double egg vase with drape,,VA_091.jpg,12446,2446,publish
+catalogo,12465,VA 102,Vaso / (Vase),circa 1948,glazed polychrome ceramic ,h. 28 x Ø 18 cm,Ceramics,vases,tube vase,,VA_102.jpg,12465,2465,publish
+catalogo,12473,1948 9B,Senza titolo / (Untitled),circa 1948 ,glazed polychrome ceramic ,50 x 85 cm,bas reliefs,ceramic,,,1948_9B.jpg,12473,2473,publish
+catalogo,12555,VA 176,Vaso / (Vase),1950,glazed polychrome ceramic ,32 x 14 x 11 cm,ceramics,vases,mushroom-shaped vase,,VA_176.jpg,12555,2555,publish
+catalogo,12560,1945 45,Teatrino / (Little Theater),1945,glazed ceramic,35 x 40 cm,Little Theaters,,,,1945_45.jpg,12560,2560,publish
+catalogo,12597,VA 213,Vaso / (Vase),1950,glazed polychrome ceramic ,h. 35 x Ø 7 cm,ceramics,vases,colletto vase,,VA_213.jpg,12597,2597,publish
+catalogo,12620,VA 236,Vaso / (Vase),circa 1949 ,glazed polychrome ceramic ,h. 41 x Ø 18 cm,ceramics,vases,,,VA_236.jpg,12620,2620,publish
+catalogo,12638,VA 245,Vaso / (Vase),1930,glazed ceramic,"34 x 20 x 13,5 cm",ceramics,vases,leaf vase,,VA_245.jpg,12638,2638,publish
+catalogo,12641,VA 247,Vaso / (Vase),1945,glazed polychrome ceramic ,h. 19 x Ø 9 cm,ceramics,Vases,,  ,VA_247.jpg,12641,2641,publish
+catalogo,12698,TE 003,Servizio da tè / (Tea Set),circa 1948,glazed polychrome ceramic ,saucer: 2 x 12 cm; cup: 5 x 10 cm,Ceramics,coffee and tea set,,,TE_003.jpg,12698,2698,publish
+catalogo,12702,TE 007,Servizio da tè / (Tea Set),circa 1948,glazed polychrome ceramic ,"cup: Ø 5 cm; saucer: Ø 12,5 cm ",Ceramics,coffee and tea set,,,TE_007.jpg,12702,2702,publish
+catalogo,12714,VA 272,Vaso / (Vase),1950, glazed polychrome ceramic                                                                                                                                                                                                   ,55 x 13 Ø cm,Ceramics,Vases,,,VA_272.jpg,12714,2714,publish
+catalogo,12756,VA 282,Vaso / (Vase),circa 1948 ,glazed polychrome ceramic ,h. 50 x Ø 30 cm,ceramics,Vases,umbrella stand,,VA_282.jpg,12756,2756,publish
+catalogo,12757,VA 283,Vaso / (Vase),circa 1948,glazed polychrome ceramic ,h. 44 x Ø 28 cm,ceramics,Vases,umbrella stand,,VA_283.jpg,12757,2757,publish
+catalogo,12796,CC 2,Coppa / (Bowl),circa 1945 ,glazed polychrome ceramic ,28 x Ø 17 cm ,Ceramics,Bowls,,,CC_2.jpg,12796,2796,publish
+catalogo,12834,AC 001,Acquasantiera / (Stoup),1950,glazed polychrome ceramic ,18 x 17 x 7 cm,ceramics,sacred,,,AC_001.jpg,12834,2834,publish
+catalogo,12850,ONU 004,Bambini / (Children),1950,glazed ceramic,9 x 9 x 9 cm,ceramics,Onu ,,,ONU_004.jpg,12850,2850,publish
+catalogo,12851,ONU 005,Bambini / (Children),1950,glazed ceramic,7 x 11 x 4 cm,ceramics,Onu,,,ONU_005.jpg,12851,2851,publish
+catalogo,12852,ONU 006,Bambini / (Children),1950,glazed polychrome ceramic ,8 x 15 x 5 cm,ceramics,Onu ,,,ONU_006.jpg,12852,2852,publish
+catalogo,12871,ONU 024,Bambini / (Children),1950,glazed polychrome ceramic ,23 x 18 x 7 cm,ceramics,Onu,,,ONU_024.jpg,12871,2871,publish
+catalogo,12877,ONU 029,Bambini / (Children),1950,glazed ceramic,16 x 17 cm,ceramics,Onu,,,ONU_029.jpg,12877,2877,publish
+catalogo,12882,ONU 034,Bambini / (Children),1950,glazed ceramic,18 x 17 cm.,ceramics,Onu,,,ONU_034.jpg,12882,2882,publish
+catalogo,12973,CR 004,Cartoccio / (Cartoccio Bowl),circa 1930 ,glazed polychrome ceramic ,"25,5 x 38 x 35 cm",Ceramics,cartoccio,,,CR_004.jpg,12973,2973,publish
+catalogo,12978,CR 005,Cartoccio / (Cartoccio Bowl),circa 1930 ,glazed ceramic,"24,5 x 34 x 28 cm",Ceramics,cartoccio,,,CR_005.jpg,12978,2978,publish
+catalogo,12979,CR 006,Cartoccio / (Cartoccio Bowl),circa 1930 ,glazed polychrome ceramic                                                                                                                                                                                                                          ,30 x 25 cm,Ceramics,cartoccio,,,CR_006.jpg,12979,2979,publish
+catalogo,12990,BE 019,Cavallino / (Little Horse),circa 1950 ,glazed ceramic,"23,5 x 6 x 15 cm",Ceramics,Animals,,,BE_019.jpg,12990,2990,publish
+catalogo,12992,BE 020,Cavallino / (Little Horse),circa 1950 ,glazed ceramic,"23,5 x 15 x 8,2 cm",Ceramics,Animals,,,BE_020.jpg,12992,2992,publish
+catalogo,12996,BE 024,Cavallino / (Little Horse),circa 1950 ,glazed polychrome ceramic                                                                                                                                                                                                                          ,19 x 13 x 5 cm.,Ceramics,Animals,,,BE_024.jpg,12996,2996,publish
+catalogo,12998,ONU 042,Bambini / (Children),1950,glazed polychrome ceramic ,"13 x 17,5 cm",ceramics,Onu,,,ONU_042.jpg,12998,2998,publish
+catalogo,13009,BE 037,Cavallino / (Little Horse),circa 1950 ,glazed polychrome ceramic                                                                                                                                                                                                                       ,"26,5 x 17 cm",ceramics,Animals,,,BE_037.jpg,13009,3009,publish
+catalogo,13019,VA 353,Vaso / (Vase),circa 1945 ,glazed polychrome ceramic ,43 x 29 x 27 cm,ceramics,vases,umbrella stand, ,VA_353.jpg,13019,3019,publish
+catalogo,13040,BE 059,Gallo / (Rooster),circa 1950,glazed polychrome ceramic ,26 x 15 x 13 cm,ceramics,Animals,,,BE_059.jpg,13040,3040,publish
+catalogo,13041,BE 060,Gallo / (Rooster),circa 1950,glazed polychrome ceramic                                                                                                                                                                                                                           ,23 x 13 x 10 cm,ceramics,Animals,,,BE_060.jpg,13041,3041,publish
+catalogo,13056,BE 075,Leone / (Lion),circa 1945 ,glazed polychrome ceramic ,6 x 10 cm,ceramics,Animals,,,BE_075.jpg,13056,3056,publish
+catalogo,13087,BE 076,Tricheco / (Walrus),1932,glazed ceramic                                                                                                                                                                                                              ,"38,5 x 27,5 x15 cm",ceramics,Animals,,,BE_076.jpg,13087,3087,publish
+catalogo,13088,BE 077,Tricheco / (Walrus),1930,glazed ceramic                                                                                                                                                                                                              ,"41 x 12,5 x 25,5",ceramics,Animals,,,BE_077.jpg,13088,3088,publish
+catalogo,13089,BE 078,Lama / (Llama),1930,glazed ceramic                                                                                                                                                                                                              ,"20,5 x 5 x 12,5 cm",ceramics,Animals,,,BE_078.jpg,13089,3089,publish
+catalogo,13090,BE 079,Pesce / (Fish),circa 1930,glazed ceramic                                                                                                                                                                                                              ,"17,5 x 39,5 x 12 cm",ceramics,Animals,,,BE_079.jpg,13090,3090,publish
+catalogo,13091,BE 080,Pesce / (Fish),circa 1930,glazed ceramic                                                                                                                                                                                                              ,18 x 44 x 11 cm.,ceramics,Animals,,,BE_080.jpg,13091,3091,publish
+catalogo,13146,Ocl 011,Collana / (Necklace),1950,glazed ceramic                                                                                                                                                                                                              ,,ceramics,jewellery,,,Ocl_011.jpg,13146,3146,publish
+catalogo,13147,Ocl 012,Collana / (Necklace),1950,glazed ceramic                                                                                                                                                                                                              ,,ceramics,jewellery,,,Ocl_012.jpg,13147,3147,publish
+catalogo,13188,BE 085,Il babbuino e le bocce / (The Baboon and the Boules),circa 1930 ,porcelain (celadon),"18,2 x 16,5 cm",ceramics,Animals,,,BE_085.jpg,13188,3188,publish
+catalogo,13312,TAV 49 001a,Senza titolo / (Untitled) ,circa 1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,,,TAV_49_001a.jpg,13312,3312,publish
+catalogo,13313,TAV 49 001b,Senza titolo / (Untitled) ,1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,,,TAV_49_001b.jpg,13313,3313,publish
+catalogo,13314,TAV 49 002_a,Senza titolo / (Untitled) ,1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,,  ,TAV_49_002_a.jpg,13314,3314,publish
+catalogo,13315,TAV 49 002_b,Senza titolo / (Untitled) ,1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,, ,TAV_49_002_b.jpg,13315,3315,publish
+catalogo,13316,TAV 49 002_c,Senza titolo / (Untitled) ,1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,, ,TAV_49_002_c.jpg,13316,3316,publish
+catalogo,13317,TAV 49 002_d,Senza titolo / (Untitled),1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,, ,TAV_49_002_d.jpg,13317,3317,publish
+catalogo,13318,TAV 49 002_e,Senza titolo / (Untitled),1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,, ,TAV_49_002_e.jpg,13318,3318,publish
+catalogo,13319,TAV 49 002_f,Senza titolo / (Untitled),1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,, ,TAV_49_002_f.jpg,13319,3319,publish
+catalogo,13320,TAV 49 002_g,Senza titolo / (Untitled),1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,, ,TAV_49_002_g.jpg,13320,3320,publish
+catalogo,13321,TAV 49 002_h,Senza titolo / (Untitled),1949,glazed polychrome ceramic ,58 x 38 cm,Ceramics,others,,,TAV_49_002_h.jpg,13321,3321,publish
+catalogo,13350,VA 358,Vaso / (Vase),circa 1940 ,terracotta and white enamel,h. 23 x 12 cm,Ceramics,others,,,VA_358.jpg,13350,3350,publish
+catalogo,13394,T 50 004,Senza titolo / (Untitled) ,1950,"watercolour, pastel and burnt paper collage on paper",996 x 696 mm,works on paper/canvas,mixed media,,,T_50_004.jpg,13394,3394,publish
+catalogo,13395,T 50 007,Senza titolo / (Untitled) ,1950,"watercolour, pastel, burn marks and burnt paper collage on paper",700 x 1000 mm,works on paper/canvas,mixed media,,,T_50_007.jpg,13395,3395,publish
+catalogo,13431,T 46 001,Orfeo / (Orpheus),circa 1946,polychrome wax crayon and charcoal on paper ,703 x 1000 mm,works on paper/canvas,mixed media,,,T_46_001.jpg,13431,3431,publish
+catalogo,13432,T 46 002,Orfeo / (Orpheus),circa 1946,polychrome wax crayon on paper ,703 x 1000 mm,works on paper/canvas,mixed media,,,T_46_002.jpg,13432,3432,publish
+catalogo,13443,T 50 006,Senza titolo / (Untitled) ,1950,"tempera, polychrome pastel and oil on cardboard",700 x 1000 mm,works on paper/canvas,mixed media,,,T_50_006.jpg,13443,3443,publish
+catalogo,13603,TZO 1950 112,Senza titolo / (Untitled) ,circa 1948,"tempera, ink and pencil on paper",482 x  661 mm,works on paper/canvas,paintings,,,TZO_1950_112.jpg,13603,3603,publish
+catalogo,13604,T 48 005,Senza titolo / (Untitled) ,circa 1948,tempera on cardboard,472 x 700 mm,works on paper/canvas,mixed media ,,,T_48_005.jpg,13604,3604,publish
+catalogo,13605,TZO 1950 114,Senza titolo / (Untitled) ,circa 1948,mixed media on paper,440 x 660 mm,works on paper/canvas,paintings,,,TZO_1950_114.jpg,13605,3605,publish
+catalogo,13606,TZO 1950 113,Senza titolo / (Untitled),circa 1948,"tempera, watercolour, pencil and ink on paper",415 x 664 mm,works on paper/canvas,paintings,,,TZO_1950_113.jpg,13606,3606,publish
+catalogo,13608,DIS 35 001,Disegno / (Drawing),1935,pencil on paper ,308 x 237 mm,works on paper/canvas,drawings,,   ,DIS_35_001.jpg,13608,3608,publish
+catalogo,13609,DIS 34 002,Disegno / (Drawing),1934,pencil on paper ,346 x 246 mm,works on paper/canvas,drawings,, ,DIS_34_002.jpg,13609,3609,publish
+catalogo,13610,DIS 35 003,Disegno / (Drawing),1935,pencil on paper ,287 x 187 mm,works on paper/canvas,drawings,, ,DIS_35_003.jpg,13610,3610,publish
+catalogo,13611,DIS 35 005,Disegno / (Drawing),1935,pencil on paper ,337 x 225 mm,works on paper/canvas,drawings,, ,DIS_35_005.jpg,13611,3611,publish
+catalogo,13612,DIS 35 012,Disegno / (Drawing),1935,pencil on paper ,224 x 193 mm,works on paper/canvas,drawings,,  ,DIS_35_012.jpg,13612,3612,publish
+catalogo,13613,DIS 35 007,Disegno / (Drawing),1935,pencil on music paper ,332 x 233 mm,works on paper/canvas,drawings,, ,DIS_35_007.jpg,13613,3613,publish
+catalogo,13614,DIS 33 008,Disegno / (Drawing),1933,pencil on paper ,215 x 150 mm,works on paper/canvas,drawings,,,DIS_33_008.jpg,13614,3614,publish
+catalogo,13638,DIS 33 001,Disegno / (Drawing),1933,conté and sanguine pencil on paper ,306 x 209 mm,works on paper/canvas,drawings,,,DIS_33_001.jpg,13638,3638,publish
+catalogo,13664,DIS 35 015,Disegno / (Drawing),1935,pencil on paper ,335 x 220 mm,works on paper/canvas,drawings,,,DIS_35_015.jpg,13664,3664,publish
+catalogo,13665,DIS 34 016,Disegno / (Drawing),1934,pencil on paper ,225 x 190 mm,works on paper/canvas,drawings,,,DIS_34_016.jpg,13665,3665,publish
+catalogo,13666,DIS 33 010,Disegno / (Drawing),1933,conté pencil on tissue paper,277 x 217 mm,works on paper/canvas,drawings,, ,DIS_33_010.jpg,13666,3666,publish
+catalogo,13667,DIS 34 007,Disegno / (Drawing),1934,pencil on paper,"312 x 200 mm; frame 63 x 53,5 cm",works on paper/canvas,drawings,, ,DIS_34_007.jpg,13667,3667,publish
+catalogo,13802,BE 087,Cavallino / (Little Horse),circa 1950,glazed ceramic,,Ceramics,Animals,,,BE_087.jpg,13802,3802,publish
+catalogo,13860,1945 49,Senza titolo / (Untitled),circa 1945 ,terracotta,"22 x 7,5 x 10 cm",Sculptures,,,,1945_49.jpg,13860,3860,publish
+catalogo,13871,BE 088,Sol leone / (Sun Lion),circa 1944 ,terracotta,"8,5 x 10 x 8 cm",ceramics,Animals,,,BE_088.jpg,13871,3871,publish
+catalogo,13874,BE 089,Sol leone / (Sun Lion),circa 1944,terracotta,5 x 6 x 5 cm,ceramics,Animals,,,BE_089.jpg,13874,3874,publish
+catalogo,13875,BE 090,Sol leone / (Sun Lion),circa 1944 ,terracotta,"13 x 19,5 x 16 cm",ceramics,Animals,,,BE_090.jpg,13875,3875,publish
+catalogo,13876,BE 092,Sol leone / (Sun Lion),circa 1944,terracotta,"8 x 12,5 x 8 cm",ceramics,Animals,,,BE_092.jpg,13876,3876,publish
+catalogo,13877,BE 093,Sol leone / (Sun Lion),circa 1945,terracotta,7 x 11 x 7 cm,ceramics,Animals,,,BE_093.jpg,13877,3877,publish
+catalogo,13878,BE 094,Sol leone / (Sun Lion),circa 1945,terracotta,13 x 14 x 15 cm,ceramics,Animals,,,BE_094.jpg,13878,3878,publish
+catalogo,13879,BE 095,Sol leone / (Sun Lion),circa 1947,terracotta,9 x 14 x 8 cm,ceramics,Animals,,,BE_095.jpg,13879,3879,publish
+catalogo,13882,BE 097,Sol leone / (Sun Lion),circa 1947,terracotta,"13,5 x 21 x 14 cm",ceramics,Animals,,,BE_097.jpg,13882,3882,publish
+catalogo,13884,BE 091,Sol leone / (Sun Lion),circa 1944,terracotta,"7,5 x 10,5 x 7 cm",ceramics,Animals,,,BE_091.jpg,13884,3884,publish
+catalogo,13887,KF 011,Tazzina da caffè / (Coffee Cup),1950,glazed polychrome ceramic,"saucer: Ø 11,7 cm; cup: h. 7 cm",Ceramics,coffee and tea set,,,KF_011.jpg,13887,3887,publish
+catalogo,13959,BE 101,Cavallino / (Little Horse),circa 1950,terracotta,20 x 18 x 8 cm,ceramics,Animals,,,BE_101.jpg,13959,3959,publish
+catalogo,13960,BE 102,Cavallino / (Little Horse),circa 1950,terracotta,"20 x 14,3 x 6 cm",ceramics,Animals,,,BE_102.jpg,13960,3960,publish
+catalogo,13961,BE 103,Sol leone / (Sun Lion),circa 1947,terracotta,"11,5 x 10 x 23 cm",ceramics,Animals,,,BE_103.jpg,13961,3961,publish
+catalogo,13971,1943 29,Senza titolo / (Untitled),circa 1943,clay ,"27 x 15 x 12,5 cm",Sculptures,,,,1943_29.jpg,13971,3971,publish
+catalogo,13974,1944 5,Senza titolo / (Untitled),circa 1944,terracotta,18 x 13 x 12 cm,Sculptures,,,,1944_5.jpg,13974,3974,publish
+catalogo,13976,1933 28,La cena in Emmaus / (The Supper at Emmaus) ,circa 1933,terracotta,85 x 52 x 35 cm,Sculptures,,,,1933_28.jpg,13976,3976,publish
+catalogo,14022,DIS 28 005,Disegno / (Drawing),1928,pencil on paper,"32,5 x 23,5 cm",works on paper/canvas,drawings,, ,DIS_28_005.jpg,14022,4022,publish
+catalogo,14023,DIS 29 006,Disegno / (Drawing),1929,"black, brown and orange wax crayon, black pen, white tempera and pencil on paper","33,8 x 24,1 cm",works on paper/canvas,drawings,,  ,DIS_29_006.jpg,14023,4023,publish
+catalogo,14024,DIS 32 006,Disegno / (Drawing),1932,pencil and watercolour on tissue paper,"31,4 x 20,9 cm",works on paper/canvas,drawings,, ,DIS_32_006.jpg,14024,4024,publish
+catalogo,14027,DIS 30 001,La visitazione / (The Visitation),1930,pencil and black wax crayon on paper,"29,2 x 24,2 cm",works on paper/canvas,drawings,, ,DIS_30_001.jpg,14027,4027,publish
+catalogo,14028,DIS 30 010,La visitazione / (The Visitation),1930,pencil and india ink on paper,"28,1 x 22,3 cm",works on paper/canvas,drawings,,,DIS_30_010.jpg,14028,4028,publish
+catalogo,14029,DIS 34 013,"Disegno - Progetto per scultura ""Paesaggio dimenticato"" / (Drawing - Project for Sculpture ""Forgotten Landscape"")",1934,pencil on paper,"31 x 21,5 cm",works on paper/canvas,drawings,, ,DIS_34_013.jpg,14029,4029,publish
+catalogo,14096,T 50 002,Senza titolo / (Untitled),1950,tempera and polychrome pastel on paper mounted on canvas ,600 x 700 mm,works on paper/canvas,mixed media,,,T_50_002.jpg,14096,4096,publish
+catalogo,14097,T 50 003,Senza titolo / (Untitled),1950,"watercolour, tempera, pastel and collage on paper mounted on canvas ",500 x 700 mm,works on paper/canvas,mixed media,,,T_50_003.jpg,14097,4097,publish
+catalogo,14115,DIS 32 012,Disegno / (Drawing),1932,conté pencil on paper,290 x 228 mm,works on paper/canvas,drawings,,,DIS_32_012.jpg,14115,4115,publish
+catalogo,14158,T 45 002,Senza titolo / (Untitled),circa 1945 ,colour pastel and pencil on paper,480 x 695 mm,works on paper/canvas,mixed media,,,T_45_002.jpg,14158,4158,publish
+catalogo,14438,T 48 007,Senza titolo / (Untitled),circa 1948 ,oil on canvas,600 x 800 mm,works on paper/canvas,mixed media,,,T_48_007.jpg,14438,4438,publish
+catalogo,14495,DIS 26 008,Disegno / (Drawing),1926,pencil on paper,283 x 224 mm,works on paper/canvas,drawings,,  ,DIS_26_008.jpg,14495,4495,publish
+catalogo,14499,DIS 28 014,Disegno / (Drawing),1928,ink on paper,278 x 219 mm,works on paper/canvas,drawings,,  ,DIS_28_014.jpg,14499,4499,publish
+catalogo,14500,DIS 28 017,Disegno / (Drawing),1928,pastel and conté pencil on paper,296 x 208 mm,works on paper/canvas,drawings,, ,DIS_28_017.jpg,14500,4500,publish
+catalogo,14506,DIS 28 018,Teatrino / (Little Theater),1928,pencil on paper,288 x 208 mm,works on paper/canvas,drawings,, ,DIS_28_018.jpg,14506,4506,publish
+catalogo,14509,DIS 29 017,Disegno / (Drawing),1929,pencil on paper,285 x 225 mm,works on paper/canvas,drawings,,,DIS_29_017.jpg,14509,4509,publish
+catalogo,14512,DIS 29 018,Disegno / (Drawing),1929,pencil and charcoal on paper,284 x 222 mm,works on paper/canvas,drawings,,,DIS_29_018.jpg,14512,4512,publish
+catalogo,14531,DIS 24 004,Disegno / (Drawing),1924,pencil on paper,280 x 216 mm,works on paper/canvas,drawings,, ,DIS_24_004.jpg,14531,4531,publish
+catalogo,14532,DIS 26 005,"Hermes, Euridice, Orfeo / (Hermes, Eurydice, Orpheus)",1926,brown wax crayon on paper ,298 x 213 mm ,works on paper/canvas,drawings,, ,DIS_26_005.jpg,14532,4532,publish
+catalogo,14533,DIS 26 007,Beati i morti / (Blessed Dead),1926,pencil and ink on paper,284 x 224 mm,works on paper/canvas,drawings,, ,DIS_26_007.jpg,14533,4533,publish
+catalogo,14534,DIS 26 010,Disegno / (Drawing),1926,pencil on paper,284 x 222 mm,works on paper/canvas,drawings,,  ,DIS_26_010.jpg,14534,4534,publish
+catalogo,14567,1933 30,La conversazione - Nudo di donna seduto / (The Conversation - Seated Nude Woman) ,1933,bronze on rough stone ,164 x 58 x 60 cm,sculptures,,,,1933_30.jpg,14567,4567,publish
+catalogo,14882,DIS 29 002,Disegno / (Drawing) ,1929,grease pencil on paper,320 x 240 mm,works on paper/canvas,drawings,, ,DIS_29_002.jpg,14882,4882,publish
+catalogo,14991,DIS 28 011,Disegno / (Drawing) ,circa 1928 ,pencil and black wax crayon on paper,250 x 358 mm,works on paper/canvas,drawings,,  ,DIS_28_011.jpg,14991,4991,publish
+catalogo,14993,DIS 30 002,Orfeo / (Orpheus),1930,black wax crayon on paper,295 x 207 mm,works on paper/canvas,drawings,,  ,DIS_30_002.jpg,14993,4993,publish
+catalogo,14994,DIS 26 009,Disegno / (Drawing) ,1926,pencil and charcoal on paper,280 x 225 mm,works on paper/canvas,drawings,,  ,DIS_26_009.jpg,14994,4994,publish
+catalogo,14995,DIS 34 009,Disegno / (Drawing) ,1934,pencil on paper,311 x 214 mm,works on paper/canvas,drawings,, ,DIS_34_009.jpg,14995,4995,publish
+catalogo,14996,DIS 27 003,Disegno / (Drawing) ,1927,pencil and brown india ink on paper,285 x 223 mm,works on paper/canvas,drawings,, ,DIS_27_003.jpg,14996,4996,publish
+catalogo,14997,DIS 35 004,Disegno / (Drawing) ,1935,pencil on paper,340 x 230 mm,works on paper/canvas,drawings,, ,DIS_35_004.jpg,14997,4997,publish
+catalogo,14999,DIS 30 008,Disegno / (Drawing) ,1930,pencil and pastel on paper ,291 x 232 mm,works on paper/canvas,drawings,, ,DIS_30_008.jpg,14999,4999,publish
+catalogo,15000,DIS 32 001,Disegno / (Drawing) ,1932,pencil on tissue paper,274 x 215 mm,works on paper/canvas,drawings,, ,DIS_32_001.jpg,15000,5000,publish
+catalogo,15205,1948 14,Testina / (Little Head) ,circa 1948,terracotta (detail),4 x 3 cm,sculptures,,,,1948_14.jpg,15205,5205,publish
+catalogo,15306,T 51 002,I Viaggi / (The Journeys),1951,"tempera, crayon and burn marks on paper",350 x 250 mm,works on paper/canvas,mixed media,,   ,T_51_002.jpg,15306,5306,publish
+catalogo,15336,1945 52,Senza titolo / (Untitled),1945,"terracotta, powder coating glass",63 x 18 x 20 cm,Sculptures,,,,1945_52.jpg,15336,5336,publish
+catalogo,15428,Ofr 016,Cornice / (Frame),1950,glazed polychrome ceramic,65 x 60 cm,ceramics,frames,,,Ofr_016.jpg,15428,5428,publish
+catalogo,15606,1948 13,Testina / (Little Head),circa 1948,glazed ceramic (detail),7 x 5 cm,sculptures,,,   ,1948_13.jpg,15606,5606,publish
+catalogo,15609,VA 388,Vaso / (Vase),1950,glazed polychrome ceramic,"50,7 x 12 x 11,4 cm",ceramics,vases,hourglass vase,,VA_388.jpg,15609,5609,publish
+catalogo,15644,BE 109,Gallo / (Rooster),1950,glazed polychrome ceramic,"10,8 x 14 cm",ceramics,animals,,  ,BE_109.jpg,15644,5644,publish
+catalogo,15781,1948 4Ba,Edicola Rossi / (Rossi Aedicule) ,1948,marble (outside bas relief); golden and glazed bronze (altarpiece),,bas reliefs,plaster/others,,,1948_4Ba.jpg,15781,5781,publish
+catalogo,15800,1936 2,Madonna / (Madonna),1936,bronze (halo in brass),"49,5 x 12,5 x 9 cm;  base: 7,8 x 17 x 13,5 cm",Sculptures,,,     ,1936_2.jpg,15800,5800,publish
+catalogo,15861,DIS 31 006,Allegoria / (Allegory),1931,watercolour ink on paper,240 x 252 mm,works on paper/canvas,drawings,,,DIS_31_006.jpg,15861,5861,publish
+catalogo,15862,T 45 001,Senza titolo / (Untitled),1945,"pencil, ink, tempera and burn marks on paper",300 x 440 mm,works on paper/canvas,mixed media,,    ,T_45_001.jpg,15862,5862,publish
+catalogo,15882,T 48 008,Senza titolo / (Untitled),circa 1948 ,polychrome ink and pencil on paper ,350 x 247 mm,works on paper/canvas,mixed media,, ,T_48_008.jpg,15882,5882,publish
+catalogo,15926,DIS 34 017,Disegno / (Drawing),1934,pencil on paper ,380 x 280 mm,works on paper/canvas,drawings,,   ,DIS_34_017.jpg,15926,5926,publish
+catalogo,15953,DIS 32 002,Disegno / (Drawing),1932,ink and pencil on tissue paper,279 x 217 mm,works on paper/canvas,drawings,, ,DIS_32_002.jpg,15953,5953,publish
+catalogo,15954,DIS 33 021,Disegno / (Drawing),1933,pencil and ink on tissue paper,280 x 215 mm,works on paper/canvas,drawings,,  ,DIS_33_021.jpg,15954,5954,publish
+catalogo,15955,DIS 32 007,Disegno / (Drawing),1932,pencil and red pastel on tissue paper,278 x 200 mm,works on paper/canvas,drawings,, ,DIS_32_007.jpg,15955,5955,publish
+catalogo,15956,DIS 33 007,Disegno / (Drawing),1933,conté pencil on paper,215 x 150 mm,works on paper/canvas,drawings,, ,DIS_33_007.jpg,15956,5956,publish
+catalogo,15957,DIS 32 011,Disegno / (Drawing),1932,pencil on tissue paper,300 x 210 mm,works on paper/canvas,drawings,, ,DIS_32_011.jpg,15957,5957,publish
+catalogo,15958,DIS 33 005,Disegno / (Drawing),1933,pencil on paper,249 x 162 mm,works on paper/canvas,drawings,, ,DIS_33_005.jpg,15958,5958,publish
+catalogo,15959,DIS 33 006,Disegno / (Drawing),1933,pencil on paper ,280 x 225 mm,works on paper/canvas,drawings,,  ,DIS_33_006.jpg,15959,5959,publish
+catalogo,15961,DIS 33 009,Disegno / (Drawing),1933,conté pencil on paper,210 x 140 mm,works on paper/canvas,drawings,, ,DIS_33_009.jpg,15961,5961,publish
+catalogo,15962,DIS 34 001,Disegno / (Drawing),1934,pencil on paper,280 x 195 mm,works on paper/canvas,drawings,, ,DIS_34_001.jpg,15962,5962,publish
+catalogo,15963,DIS 34 004,Disegno / (Drawing),1934,conté pencil on paper ,240 x 190 mm,works on paper/canvas,drawings,, ,DIS_34_004.jpg,15963,5963,publish
+catalogo,15964,DIS 33 011,Disegno / (Drawing),1933,pencil on paper,270 x 215 mm,works on paper/canvas,drawings,, ,DIS_33_011.jpg,15964,5964,publish
+catalogo,15965,DIS 34 008,Disegno / (Drawing),1934,pencil on paper,270 x 190 mm,works on paper/canvas,drawings,, ,DIS_34_008.jpg,15965,5965,publish
+catalogo,15966,DIS 34 011,Disegno / (Drawing),1934,pencil on paper,350 x 245 mm,works on paper/canvas,drawings,, ,DIS_34_011.jpg,15966,5966,publish
+catalogo,15968,DIS 34 014,Disegno / (Drawing),1934,conté pencil on paper ,285 x 225 mm,works on paper/canvas,drawings,, ,DIS_34_014.jpg,15968,5968,publish
+catalogo,15970,DIS 34 019,Disegno - Progetto per scultura / (Drawing - Project for Sculpture),1934,india ink on paper,260 x 223 mm,works on paper/canvas,drawings,,  ,DIS_34_019.jpg,15970,5970,publish
+catalogo,15974,DIS 32 008,Disegno / (Drawing),1932,pencil and ink on paper,300 x 212 mm,works on paper/canvas,drawings,,  ,DIS_32_008.jpg,15974,5974,publish
+catalogo,15975,DIS 34 022,Disegno / (Drawing),1934,pencil on paper,330 x 250 mm,works on paper/canvas,drawings,,,DIS_34_022.jpg,15975,5975,publish
+catalogo,15977,DIS 33 012,Disegno / (Drawing),circa 1933 ,pencil on paper,300 x 205 mm,works on paper/canvas,drawings,,,DIS_33_012.jpg,15977,5977,publish
+catalogo,15978,DIS 33 013,Disegno / (Drawing),1933,pencil on paper ,280 x 180 mm,works on paper/canvas,drawings,,,DIS_33_013.jpg,15978,5978,publish
+catalogo,15980,DIS 36 005,Disegno / (Drawing),1936,pencil on paper,314 x 209 mm,works on paper/canvas,drawings,, ,DIS_36_005.jpg,15980,5980,publish
+catalogo,15987,DIS 32 015,Disegno / (Drawing),1932,pencil on paper,"291 x 2,8 mm",works on paper/canvas,drawings,,  ,DIS_32_015.jpg,15987,5987,publish
+catalogo,15993,DIS 33 018,Disegno / (Drawing),1933,pencil on paper ,200 x 145 mm,works on paper/canvas,drawings,,  ,DIS_33_018.jpg,15993,5993,publish
+catalogo,15995,DIS 34 034,Disegno / (Drawing),1934,pencil on paper ,204 x 149 mm,works on paper/canvas,drawings,,  ,DIS_34_034.jpg,15995,5995,publish
+catalogo,16007,DIS 35 006,Disegno / (Drawing),1935,pencil on paper ,212 x 333 mm,works on paper/canvas,drawings,,,DIS_35_006.jpg,16007,6007,publish
+catalogo,16008,DIS 35 009,Disegno / (Drawing),1935,pencil on paper,235 x 205 mm,works on paper/canvas,drawings,, ,DIS_35_009.jpg,16008,6008,publish
+catalogo,16009,DIS 35 010,Disegno / (Drawing),1935,pencil on paper,190 x 210 mm,works on paper/canvas,drawings,,,DIS_35_010.jpg,16009,6009,publish
+catalogo,16010,DIS 35 014,Disegno / (Drawing),1935,pencil on paper,280 x 190 mm,works on paper/canvas,drawings,,,DIS_35_014.jpg,16010,6010,publish
+catalogo,16012,DIS 36 002,Disegno / (Drawing),1936,pencil on paper,340 x 225 mm,works on paper/canvas,drawings,,,DIS_36_002.jpg,16012,6012,publish
+catalogo,16013,DIS 25 008,Orfeo / (Orpheus),circa 1925 ,pencil and ink on paper,283 x 223 mm,works on paper/canvas,drawings,, ,DIS_25_008.jpg,16013,6013,publish
+catalogo,16014,DIS 36 017,Disegno - Progetto per scultura / (Drawing - Project for Sculpture),1936,pencil and ink on paper,350 x 248 mm,works on paper/canvas,drawings,,,DIS_36_017.jpg,16014,6014,publish
+catalogo,16015,DIS 32 013,Disegno - Progetto per scultura / (Drawing - Project for Sculpture),1932,black pencil on paper,290 x 227 mm,works on paper/canvas,drawings,, ,DIS_32_013.jpg,16015,6015,publish
+catalogo,16018,T 46 003,Senza titolo / (Untitled),circa 1946 ,"pencil, watercolour and pastel on paper",350 x 500 mm,works on paper/canvas,mixed media,, ,T_46_003.jpg,16018,6018,publish
+catalogo,16060,CT 273,Coppetta / (Little Bowl),1950,glazed polychrome ceramic,"6,4 x Ø 14,5 cm",ceramics,bowls,,,CT_273.jpg,16060,6060,publish
+catalogo,16063,DIS 29 008,Disegno / (Drawing),1929,pencil and india ink on paper,283 x 223 mm,works on paper/canvas,drawings,,,DIS_29_008.jpg,16063,6063,publish
+catalogo,16064,DIS 30 004,Orfeo / (Orpheus),1930,"pencil, pastel and tempera on paper",295 x 210 mm,works on paper/canvas,drawings,,,DIS_30_004.jpg,16064,6064,publish
+catalogo,16087,DIS 29 016,Disegno / (Drawing),1929,pencil on paper ,170 x 155 mm,works on paper/canvas,drawings,, ,DIS_29_016.jpg,16087,6087,publish
+catalogo,16088,DIS 28 016,Disegno / (Drawing),circa 1928 ,conté pencil on paper,310 x 210 mm,works on paper/canvas,drawings,, ,DIS_28_016.jpg,16088,6088,publish
+catalogo,16089,DIS 19 003,Disegno / (Drawing),1919,pencil and ink on paper,220 x 135 mm,works on paper/canvas,drawings,, ,DIS_19_003.jpg,16089,6089,publish
+catalogo,16093,DIS 22 001,Disegno / (Drawing),1922,pencil on paper,235 x 155 mm,works on paper/canvas,drawings,, ,DIS_22_001.jpg,16093,6093,publish
+catalogo,16094,DIS 18 001,Disegno / (Drawing),1918,pencil on paper,315 x 210 mm,works on paper/canvas,drawings,, ,DIS_18_001.jpg,16094,6094,publish
+catalogo,16095,DIS 18 002,Disegno / (Drawing),1918,charcoal and pencil on paper,322 x 223 mm,works on paper/canvas,drawings,, ,DIS_18_002.jpg,16095,6095,publish
+catalogo,16096,DIS 19 001,Il viaggio / (The Journey),1919,conté pencil and watercolour on paper,340 x 210 mm,works on paper/canvas,drawings,, ,DIS_19_001.jpg,16096,6096,publish
+catalogo,16097,DIS 19 002,Preghiera / (The Prayer),1919,conté pencil on paper,333 x 270 mm,works on paper/canvas,drawings,,,DIS_19_002.jpg,16097,6097,publish
+catalogo,16098,DIS 24 001,Orfeo / (Orpheus),1924,charcoal on paper ,322 x 222 mm,works on paper/canvas,drawings,, ,DIS_24_001.jpg,16098,6098,publish
+catalogo,16099,DIS 24 003,Disegno / (Drawing),1924,"india ink, watercolour and pencil on paper",300 x 210 mm,works on paper/canvas,drawings,,  ,DIS_24_003.jpg,16099,6099,publish
+catalogo,16100,DIS 19 004,Disegno / (Drawing),1919,charcoal and watercolour ink on paper,320 x 220 mm,works on paper/canvas,drawings,, ,DIS_19_004.jpg,16100,6100,publish
+catalogo,16101,DIS 25 001,Disegno / (Drawing),circa 1925 ,pencil on paper,280 x 220 mm,works on paper/canvas,drawings,,  ,DIS_25_001.jpg,16101,6101,publish
+catalogo,16102,DIS 25 002,Disegno / (Drawing),1925,pencil on paper,230 x 337 mm,works on paper/canvas,drawings,,  ,DIS_25_002.jpg,16102,6102,publish
+catalogo,16103,DIS 25 003,Disegno / (Drawing),1925,brush point india ink on paper ,320 x 230 mm,works on paper/canvas,drawings,,  ,DIS_25_003.jpg,16103,6103,publish
+catalogo,16104,DIS 25 004,Disegno / (Drawing),circa 1925 ,pencil on paper,340 x 250 mm,works on paper/canvas,drawings,, ,DIS_25_004.jpg,16104,6104,publish
+catalogo,16105,DIS 25 005,Disegno / (Drawing),1925,pencil on paper,310 x 210 mm,works on paper/canvas,drawings,, ,DIS_25_005.jpg,16105,6105,publish
+catalogo,16106,DIS 25 006,Disegno / (Drawing),1925,charcoal on paper,200 x 160 mm,works on paper/canvas,drawings,,,DIS_25_006.jpg,16106,6106,publish
+catalogo,16107,DIS 26 001,Disegno / (Drawing),1926,pencil and ink on paper,290 x 200 mm,works on paper/canvas,drawings,, ,DIS_26_001.jpg,16107,6107,publish
+catalogo,16108,DIS 26 002,Disegno / (Drawing),1926,pencil and ink on paper,280 x 190 mm,works on paper/canvas,drawings,, ,DIS_26_002.jpg,16108,6108,publish
+catalogo,16109,DIS 26 003,Morte di Orfeo / (Death of Orpheus),1926,conté pencil and sanguine pencil on paper ,287 x 202 mm,works on paper/canvas,drawings,,   ,DIS_26_003.jpg,16109,6109,publish
+catalogo,16110,DIS 26 004,Disegno / (Drawing),1926,pencil on paper,282 x 223 mm,works on paper/canvas,drawings,, ,DIS_26_004.jpg,16110,6110,publish
+catalogo,16111,DIS 26 006,Disegno / (Drawing),1926,pencil on paper,285 x 225 mm,works on paper/canvas,drawings,, ,DIS_26_006.jpg,16111,6111,publish
+catalogo,16113,DIS 27 001,Disegno / (Drawing),1927,pencil and ink on paper,330 x 220 mm,works on paper/canvas,drawings,,  ,DIS_27_001.jpg,16113,6113,publish
+catalogo,16114,DIS 27 002,Disegno / (Drawing),1927,"watercolour ink, conté pencil and pastel on paper",300 x 210 mm,works on paper/canvas,drawings,,  ,DIS_27_002.jpg,16114,6114,publish
+catalogo,16115,DIS 27 004,Disegno / (Drawing),1927,india ink on paper,300 x 213 mm,works on paper/canvas,drawings,, ,DIS_27_004.jpg,16115,6115,publish
+catalogo,16116,DIS 27 005,Disegno / (Drawing),1927,"pencil, ink and watercolour on paper",278 x 217 mm,works on paper/canvas,drawings,,   ,DIS_27_005.jpg,16116,6116,publish
+catalogo,16117,DIS 27 006,Disegno / (Drawing),1927,"black, red and ocra pencil, ink, pastel and india ink on paper",284 x 224 mm,works on paper/canvas,drawings,, ,DIS_27_006.jpg,16117,6117,publish
+catalogo,16118,DIS 27 007,Disegno / (Drawing),1927,pen on paper (recto); pen on paper (verso),318 x 218 mm,works on paper/canvas,drawings,,   ,DIS_27_007.jpg,16118,6118,publish
+catalogo,16119,DIS 33 030,Orfeo / (Orpheus),circa 1933 ,ink on paper,280 x 220 mm,works on paper/canvas,drawings,, ,DIS_33_030.jpg,16119,6119,publish
+catalogo,16120,DIS 27 009,Disegno / (Drawing),1927,ink on paper,280 x 225 mm,works on paper/canvas,drawings,, ,DIS_27_009.jpg,16120,6120,publish
+catalogo,16121,T 27 001,Senza titolo / (Untitled),1927,"watercolour, pencil and ink on paper",336 x 220 mm,works on paper/canvas,mixed media,,  ,T_27_001.jpg,16121,6121,publish
+catalogo,16122,DIS 42 001,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942 ,pencil and charcoal on paper,335 x 242 mm,works on paper/canvas,drawings,,,DIS_42_001.jpg,16122,6122,publish
+catalogo,16123,DIS 42 002,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942 ,pencil and charcoal on paper,330 x 240 mm,works on paper/canvas,drawings,,     ,DIS_42_002.jpg,16123,6123,publish
+catalogo,16124,DIS 42 003,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942 ,pencil and charcoal on paper (recto and verso),334 x 240 mm,works on paper/canvas,drawings,,      ,DIS_42_003.jpg,16124,6124,publish
+catalogo,16128,DIS 42 004,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942 ,pencil and charcoal on paper,334 x 240 mm,works on paper/canvas,drawings,,  ,DIS_42_004.jpg,16128,6128,publish
+catalogo,16129,DIS 42 005,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942 ,pencil and charcoal on paper,333 x 242 mm,works on paper/canvas,drawings,,,DIS_42_005.jpg,16129,6129,publish
+catalogo,16130,DIS 42 006,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942 ,pencil and charcoal on paper,334 x 242 mm,works on paper/canvas,drawings,,,DIS_42_006.jpg,16130,6130,publish
+catalogo,16131,DIS 42 007,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942,pencil and charcoal on paper,332 x 240 mm,works on paper/canvas,drawings,,   ,DIS_42_007.jpg,16131,6131,publish
+catalogo,16132,DIS 42 008,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942,pencil and charcoal (recto and verso),333 x 240 mm,works on paper/canvas,drawings,,   ,DIS_42_008.jpg,16132,6132,publish
+catalogo,16133,DIS 42 009,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942,pencil and charcoal on paper,326 x 240 mm,works on paper/canvas,drawings,,    ,DIS_42_009.jpg,16133,6133,publish
+catalogo,16134,DIS 42 010,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942,pencil and charcoal on paper,340 x 235 mm,works on paper/canvas,drawings,,   ,DIS_42_010.jpg,16134,6134,publish
+catalogo,16139,DIS 28 001,Disegno / (Drawing),1928 + 1945,pencil on paper ,330 x 240 mm,works on paper/canvas,drawings,,  ,DIS_28_001.jpg,16139,6139,publish
+catalogo,16140,DIS 28 002,Teatrino / (Little Theater),1928,"indian ink, pencil and pastel on paper",320 x 202 mm,works on paper/canvas,drawings,, ,DIS_28_002.jpg,16140,6140,publish
+catalogo,16141,DIS 28 003/28 003-1,Disegno / (Drawing),1928,black india ink on cardboard (recto and verso),295 x 195 mm,works on paper/canvas,drawings,,   ,DIS_28_003/28_003-1.jpg,16141,6141,publish
+catalogo,16142,DIS 28 004,Disegno / (Drawing),1928,"pencil, ink and pastel on paper ",290 x 200 mm,works on paper/canvas,drawings,, ,DIS_28_004.jpg,16142,6142,publish
+catalogo,16146,DIS 42 005 bis,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942,pencil and charcoal on paper,333 x 240 mm,works on paper/canvas,drawings,,,DIS_42_005_bis.jpg,16146,6146,publish
+catalogo,16161,DIS 28 006,Disegno / (Drawing),1928,pencil on paper,350 x 255 mm,works on paper/canvas,drawings,,  ,DIS_28_006.jpg,16161,6161,publish
+catalogo,16162,DIS 28 007,Morte di Orfeo / (Death of Orpheus),circa 1928 ,india ink on paper,298 x 213 mm,works on paper/canvas,drawings,,   ,DIS_28_007.jpg,16162,6162,publish
+catalogo,16163,DIS 28 008,Disegno / (Drawing),1928,india ink on paper,298 x 212 mm,works on paper/canvas,drawings,, ,DIS_28_008.jpg,16163,6163,publish
+catalogo,16164,DIS 28 009,Disegno / (Drawing),1928,pencil on paper,303 x 202 mm,works on paper/canvas,drawings,, ,DIS_28_009.jpg,16164,6164,publish
+catalogo,16165,DIS 28 010,Nudo / (Nude),1928,charcoal on paper,309 x 212 mm,works on paper/canvas,drawings,, ,DIS_28_010.jpg,16165,6165,publish
+catalogo,16166,DIS 28 012,Autoritratto / (Self-Portrait),1928,pencil on paper,287 x 227 mm,works on paper/canvas,drawings,, ,DIS_28_012.jpg,16166,6166,publish
+catalogo,16167,DIS 28 013,Disegno / (Drawing),1928,pencil and watercolour on paper,226 x 206 mm,works on paper/canvas,drawings,, ,DIS_28_013.jpg,16167,6167,publish
+catalogo,16168,DIS 28 015,Disegno / (Drawing),1928,india ink on paper,285 x 225 mm,works on paper/canvas,drawings,, ,DIS_28_015.jpg,16168,6168,publish
+catalogo,16169,DIS 29 001,Ippolito e Fedra / (Hippolytus and Phaedra),1929,matita conté and india ink on paper,330 x 220 mm,works on paper/canvas,drawings,,  ,DIS_29_001.jpg,16169,6169,publish
+catalogo,16170,DIS 29 003,Ippolito e Fedra / (Hippolytus and Phaedra),1929,pencil on paper,280 x 210 mm,works on paper/canvas,drawings,,,DIS_29_003.jpg,16170,6170,publish
+catalogo,16171,DIS 29 004,Disegno / (Drawing),1929,pencil and colour pencil on paper ,290 x 230 mm,works on paper/canvas,drawings,,,DIS_29_004.jpg,16171,6171,publish
+catalogo,16172,DIS 29 005,Ippolito e Fedra / (Hippolytus and Phaedra),1929,"wax crayon, pencil and ink on paper ",340 x 220 mm,works on paper/canvas,drawings,, ,DIS_29_005.jpg,16172,6172,publish
+catalogo,16173,DIS 29 007,Disegno / (Drawing),1929,"pastel, pencil, ink and charcoal on paper ",330 x 225 mm,works on paper/canvas,drawings,,,DIS_29_007.jpg,16173,6173,publish
+catalogo,16174,T 29 002,Senza titolo / (Untitled),1929,"polychrome pastel, watercolour and pencil on paper",300 x 210 mm,works on paper/canvas,mixed media,, ,T_29_002.jpg,16174,6174,publish
+catalogo,16175,DIS 29 010,Disegno / (Drawing),1929,"india ink, pastel, watercolour pastel and pencil on paper ",275 x 215 mm,works on paper/canvas,drawings,,,DIS_29_010.jpg,16175,6175,publish
+catalogo,16176,DIS 29 011,Disegno / (Drawing),1929,pencil and ink on paper,212 x 312 mm,works on paper/canvas,drawings,,,DIS_29_011.jpg,16176,6176,publish
+catalogo,16177,DIS 29 012,Disegno / (Drawing),1929,pencil on paper,212 x 306 mm,works on paper/canvas,drawings,,,DIS_29_012.jpg,16177,6177,publish
+catalogo,16178,DIS 29 013,Disegno / (Drawing),1929,pencil on paper,325 x 242 mm,works on paper/canvas,drawings,,,DIS_29_013.jpg,16178,6178,publish
+catalogo,16179,DIS 29 014,Disegno / (Drawing),1929,ink on paper,320 x 218 mm,works on paper/canvas,drawings,,,DIS_29_014.jpg,16179,6179,publish
+catalogo,16180,DIS 42 014,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),circa 1942 ,pencil on paper,328 x 240 mm,works on paper/canvas,drawings,,,DIS_42_014.jpg,16180,6180,publish
+catalogo,16181,T 29 001,Senza titolo / (Untitled),1929,"watercolour, pastel and pencil on paper",310 x 210 mm,works on paper/canvas,mixed media,,,T_29_001.jpg,16181,6181,publish
+catalogo,16182,DIS 30 005,Disegno / (Drawing),1930,black pencil on paper,283 x 223 mm,works on paper/canvas,drawings,,,DIS_30_005.jpg,16182,6182,publish
+catalogo,16183,DIS 30 007,Disegno / (Drawing),1930,ink on paper,284 x 225 mm,works on paper/canvas,drawings,, ,DIS_30_007.jpg,16183,6183,publish
+catalogo,16184,DIS 30 009,Disegno / (Drawing),1930,ink on paper,276 x 214 mm,works on paper/canvas,drawings,,,DIS_30_009.jpg,16184,6184,publish
+catalogo,16185,DIS 30 006/30 006-1,Disegno / (Drawing),1930,ink on paper (recto); pencil and ink on paper (verso),285 x 227 mm,works on paper/canvas,drawings,, ,DIS_30_006/30_006-1.jpg,16185,6185,publish
+catalogo,16186,DIS 30 016,La visitazione / (The Visitation),circa 1930 ,pencil on cardboard,290 x 237 mm,works on paper/canvas,drawings,,,DIS_30_016.jpg,16186,6186,publish
+catalogo,16187,DIS 30 012,Bambina che ascolta una conchiglia / (Girl Listening a Shell),1930,ink on paper,296 x 210 mm,works on paper/canvas,drawings,,  ,DIS_30_012.jpg,16187,6187,publish
+catalogo,16188,DIS 30 013,La visitazione / (The Visitation),circa 1930 + 1950 ,"pencil, charcoal, ink and pastel on paper",285 x 223 mm,works on paper/canvas,drawings,, ,DIS_30_013.jpg,16188,6188,publish
+catalogo,16189,DIS 31 001,Disegno / (Drawing),1931,pencil on paper,223 x 284 mm,works on paper/canvas,drawings,,,DIS_31_001.jpg,16189,6189,publish
+catalogo,16192,DIS 31 004,"Disegno ""Teatrino"" / (Drawing ""Little Theater"")",1931,pencil on paper ,285 x 224 mm,works on paper/canvas,drawings,,,DIS_31_004.jpg,16192,6192,publish
+catalogo,16194,DIS 33 002,Disegno / (Drawing),1933,pencil and watercolour on paper,310 x 240 mm,works on paper/canvas,drawings,,,DIS_33_002.jpg,16194,6194,publish
+catalogo,16195,DIS 33 004,Disegno / (Drawing),1933,pencil on paper,280 x 190 mm,works on paper/canvas,drawings,,,DIS_33_004.jpg,16195,6195,publish
+catalogo,16196,DIS 34 005,Disegno / (Drawing),1934,pencil on paper ,230 x 190 mm,works on paper/canvas,drawings,, ,DIS_34_005.jpg,16196,6196,publish
+catalogo,16197,DIS 34 010,Disegno / (Drawing),1934,pencil on paper,,works on paper/canvas,drawings,, ,DIS_34_010.jpg,16197,6197,publish
+catalogo,16199,DIS 39 001,Orfeo / (Orpheus),circa 1939,pen on paper,350 x 237 mm,works on paper/canvas,drawings,,,DIS_39_001.jpg,16199,6199,publish
+catalogo,16200,DIS 42 011,Disegno - Illustrazione per un racconto / (Drawing - Illustration for a Story),1942,pencil and watercolour on paper (recto); pencil on paper (verso),287 x 215 mm,works on paper/canvas,drawings,,,DIS_42_011.jpg,16200,6200,publish
+catalogo,16202,DIS 36 016,Ritratto del padre Giuseppe e della sorella Lidia / (Portrait of Father Guseppe and Sister Lidia),1936,pencil on paper,285 x 190 mm,works on paper/canvas,drawings,, ,DIS_36_016.jpg,16202,6202,publish
+catalogo,16203,DIS 39 002,I filosofi / (The Philosophers),1939,pencil on paper,278 x 217 mm,works on paper/canvas,drawings,, ,DIS_39_002.jpg,16203,6203,publish
+catalogo,16204,DIS 39 003,Orfeo / (Orpheus),1939,pencil on paper,295 x 225 mm,works on paper/canvas,drawings,, ,DIS_39_003.jpg,16204,6204,publish
+catalogo,16205,DIS 40 001,Disegno / (Drawing),1940,pen on paper,325 x 230 mm,works on paper/canvas,drawings,,,DIS_40_001.jpg,16205,6205,publish
+catalogo,16207,DIS 30 003,Morte di Orfeo / (Death of Orpheus),circa 1930,pencil on paper,280 x 190 mm,works on paper/canvas,drawings,, ,DIS_30_003.jpg,16207,6207,publish
+catalogo,16208,DIS 45 001/45 001-1,Disegno / (Drawing),1945,pencil and ink on paper (recto); ink on paper (verso),306 x 206 mm,works on paper/canvas,drawings,,,DIS_45_001/45_001-1.jpg,16208,6208,publish
+catalogo,16209,DIS 45 003,Disegno / (Drawing),1945,pen on paper,277 x 214 mm,works on paper/canvas,drawings,,,DIS_45_003.jpg,16209,6209,publish
+catalogo,16210,DIS 46 001,Disegno / (Drawing),1946,pen on paper,285 x 225 mm,works on paper/canvas,drawings,,,DIS_46_001.jpg,16210,6210,publish
+catalogo,16211,DIS 46 002,Disegno / (Drawing),1946,pen on paper,285 x 225 mm,works on paper/canvas,drawings,,,DIS_46_002.jpg,16211,6211,publish
+catalogo,16212,DIS 46 003,Centauro / (Centaur),1946,ink on paper,395 x 300 mm,works on paper/canvas,drawings,, ,DIS_46_003.jpg,16212,6212,publish
+catalogo,16213,DIS 46 004,Disegno / (Drawing),1946,ink on paper,399 x 300 mm,works on paper/canvas,drawings,,,DIS_46_004.jpg,16213,6213,publish
+catalogo,16214,DIS 46 006,Disegno / (Drawing),1946,pen on paper,200 x 270 mm,works on paper/canvas,drawings,,,DIS_46_006.jpg,16214,6214,publish
+catalogo,16215,DIS 47 001,Disegno / (Drawing),1947,pen on paper,250 x 220 mm,works on paper/canvas,drawings,,,DIS_47_001.jpg,16215,6215,publish
+catalogo,16216,DIS 47 002,Disegno / (Drawing),1947,pen on paper,398 x 300 mm,works on paper/canvas,drawings,,,DIS_47_002.jpg,16216,6216,publish
+catalogo,16217,DIS 47 003,Disegno / (Drawing),1947,pen on paper,398 x 300 mm,works on paper/canvas,drawings,,,DIS_47_003.jpg,16217,6217,publish
+catalogo,16218,DIS 47 004,Disegno / (Drawing),1947,charcoal on paper,400 x 300 mm,works on paper/canvas,drawings,,,DIS_47_004.jpg,16218,6218,publish
+catalogo,16219,DIS 47 005,Disegno / (Drawing),1947,pencil and ink on tissue paper,279 x 218 mm,works on paper/canvas,drawings,,  ,DIS_47_005.jpg,16219,6219,publish
+catalogo,16220,DIS 47 006,Disegno / (Drawing),1947,pencil on tissue paper,278 x 218 mm,works on paper/canvas,drawings,,,DIS_47_006.jpg,16220,6220,publish
+catalogo,16221,DIS 47 007,Disegno / (Drawing),1947,pen on paper,320 x 220 mm,works on paper/canvas,drawings,,,DIS_47_007.jpg,16221,6221,publish
+catalogo,16223,DIS 47 009,Disegno / (Drawing),1947,pencil on paper,400 x 300 mm,works on paper/canvas,drawings,, ,DIS_47_009.jpg,16223,6223,publish
+catalogo,16224,DIS 47 010,Disegno / (Drawing),1947,pencil on paper,400 x 300 mm,works on paper/canvas,drawings,,,DIS_47_010.jpg,16224,6224,publish
+catalogo,16225,DIS 48 006,Disegno / (Drawing),circa 1948,pen on paper,244 x 160 mm,works on paper/canvas,drawings,,,DIS_48_006.jpg,16225,6225,publish
+catalogo,16227,DIS 48 003,Disegno / (Drawing),1948,pen on paper,299 x 232 mm,works on paper/canvas,drawings,,,DIS_48_003.jpg,16227,6227,publish
+catalogo,16229,DIS 33 003,Amphion / (Amphion),circa 1933,dark brown ink on paper,219 x 285 mm,works on paper/canvas,drawings,,,DIS_33_003.jpg,16229,6229,publish
+catalogo,16231,DIS 48 008,Disegno / (Drawing),1948,pen on paper,254 x 221 mm,works on paper/canvas,drawings,,,DIS_48_008.jpg,16231,6231,publish
+catalogo,16232,DIS 49 001,Disegno / (Drawing),1949,pen on paper,398 x 300 mm,works on paper/canvas,drawings,,,DIS_49_001.jpg,16232,6232,publish
+catalogo,16233,DIS 49 003,Disegno / (Drawing),1949,pen on paper,252 x 220 mm,works on paper/canvas,drawings,, ,DIS_49_003.jpg,16233,6233,publish
+catalogo,16234,DIS 49 004,Disegno / (Drawing),1949,pen on paper,273 x 210 mm,works on paper/canvas,drawings,,,DIS_49_004.jpg,16234,6234,publish
+catalogo,16235,DIS 49 005,Disegno / (Drawing),1949,pen on paper,280 x 227 mm,works on paper/canvas,drawings,, ,DIS_49_005.jpg,16235,6235,publish
+catalogo,16236,DIS 49 006,Disegno / (Drawing),1949,pen on paper,322 x 240 mm,works on paper/canvas,drawings,,,DIS_49_006.jpg,16236,6236,publish
+catalogo,16237,DIS 49 007,Disegno / (Drawing),1949,pencil on paper,293 x 248 mm,works on paper/canvas,drawings,,,DIS_49_007.jpg,16237,6237,publish
+catalogo,16238,DIS 50 001,Disegno / (Drawing),1950,pen on paper,423 x 310 mm,works on paper/canvas,drawings,,,DIS_50_001.jpg,16238,6238,publish
+catalogo,16239,DIS 50 002,Disegno / (Drawing),1950,pencil on paper,423 x 310 mm,works on paper/canvas,drawings,,,DIS_50_002.jpg,16239,6239,publish
+catalogo,16240,DIS 50 003,Disegno / (Drawing),1950,pencil on paper,423 x 310 mm,works on paper/canvas,drawings,,,DIS_50_003.jpg,16240,6240,publish
+catalogo,16241,DIS 50 004,Disegno / (Drawing),1950,pencil and pen on paper,294 x 208 mm,works on paper/canvas,drawings,,,DIS_50_004.jpg,16241,6241,publish
+catalogo,16242,DIS 50 005,Disegno / (Drawing),1950,pen on paper,285 x 217 mm,works on paper/canvas,drawings,,,DIS_50_005.jpg,16242,6242,publish
+catalogo,16243,DIS 50 006,Disegno / (Drawing),1950,pen on paper,310 x 213 mm,works on paper/canvas,drawings,,,DIS_50_006.jpg,16243,6243,publish
+catalogo,16246,DIS 51 004,Disegno / (Drawing),1951,india ink on paper,316 x 220 mm,works on paper/canvas,drawings,,,DIS_51_004.jpg,16246,6246,publish
+catalogo,16247,DIS 51 005,Disegno / (Drawing),1951,pencil on paper,316 x 220 mm,works on paper/canvas,drawings,,,DIS_51_005.jpg,16247,6247,publish
+catalogo,16248,DIS 51 006,Disegno / (Drawing),1951,pencil on paper,316 x 220 mm,works on paper/canvas,drawings,,,DIS_51_006.jpg,16248,6248,publish
+catalogo,16249,DIS 51 007,Disegno / (Drawing),1951,pencil on paper,316 x 220 mm,works on paper/canvas,drawings,,,DIS_51_007.jpg,16249,6249,publish
+catalogo,16251,DIS 51 009,Disegno / (Drawing),1951,pencil on paper,316 x 220 mm,works on paper/canvas,drawings,,,DIS_51_009.jpg,16251,6251,publish
+catalogo,16252,DIS 51 010,Disegno / (Drawing),1951,pencil on paper,317 x 220 mm,works on paper/canvas,drawings,,,DIS_51_010.jpg,16252,6252,publish
+catalogo,16401,DIS 33 028,Amphion / (Amphion),1933,dark brown ink on paper,268 x 217 mm,works on paper/canvas,drawings,,,DIS_33_028.jpg,16401,6401,publish
+catalogo,16534,DIS 32 014,Disegno - Progetto per scultura / (Drawing - Project for Sculpture) ,1932,pencil and india ink on paper,310 x 210 mm,works on paper/canvas,drawings,,,DIS_32_014.jpg,16534,6534,publish
+catalogo,16555,DIS 33 014,Disegno / (Drawing),1933,black pencil on paper,241 x 138 mm ,works on paper/canvas,drawings,,,DIS_33_014.jpg,16555,6555,publish
+catalogo,16559,DIS 34 003,Disegno / (Drawing),1934,pencil on paper ,210 x 233 mm,works on paper/canvas,drawings,,,DIS_34_003.jpg,16559,6559,publish
+catalogo,16560,DIS 34 023,Disegno / (Drawing),circa 1934,pencil on paper,297 x 210 mm,works on paper/canvas,drawings,,,DIS_34_023.jpg,16560,6560,publish
+catalogo,16565,DIS 34 025,Disegno / (Drawing),1934,pencil on paper,218 x 278 mm,works on paper/canvas,drawings,,,DIS_34_025.jpg,16565,6565,publish
+catalogo,16566,DIS 30 015,Orfeo / (Orpheus),circa 1930,pencil on paper,313 x 220 mm,works on paper/canvas,drawings,,,DIS_30_015.jpg,16566,6566,publish
+catalogo,16567,DIS 48 009,Disegno / (Drawing),circa 1948,charcoal on paper ,208 x 295 mm,works on paper/canvas,drawings,,,DIS_48_009.jpg,16567,6567,publish
+catalogo,16588,DIS 29 021,Disegno / (Drawing),circa 1929,pencil on paper,210 x 309 mm,works on paper/canvas,drawings,,,DIS_29_021.jpg,16588,6588,publish
+catalogo,16589,DIS 30 014,Disegno / (Drawing),1930,ink and pastel on paper,290 x 230 mm,works on paper/canvas,drawings,,,DIS_30_014.jpg,16589,6589,publish
+catalogo,16594,DIS 44 003,Orfeo / (Orpheus),circa 1944,tempera and pencil on paper,326 x 240 mm,works on paper/canvas,drawings,,,DIS_44_003.jpg,16594,6594,publish
+catalogo,16595,DIS 44 004,Orfeo/ (Orpheus),circa 1944,tempera and pencil on paper,326 x 240 mm,works on paper/canvas,drawings,,,DIS_44_004.jpg,16595,6595,publish
+catalogo,16596,DIS 44 005,Orfeo/ (Orpheus),circa 1944,tempera and pencil on paper,326 x 240 mm,works on paper/canvas,drawings,,,DIS_44_005.jpg,16596,6596,publish
+catalogo,16597,DIS 44 006,Orfeo/ (Orpheus),circa 1944,tempera and pencil on paper,326 x 240 mm,works on paper/canvas,drawings,,,DIS_44_006.jpg,16597,6597,publish
+catalogo,16598,DIS 44 008,Disegno / (Drawing),circa 1944,"tempera, pencil and charcoal on paper ",230 x 278 mm,works on paper/canvas,drawings,,,DIS_44_008.jpg,16598,6598,publish
+catalogo,16599,DIS 44 009,Disegno / (Drawing),circa 1944,tempera on paper,325 x 230 mm,works on paper/canvas,drawings,,,DIS_44_009.jpg,16599,6599,publish
+catalogo,16600,DIS 44 010,Disegno / (Drawing),circa 1944,"tempera, pencil and charcoal on paper ",313 x 230 mm,works on paper/canvas,drawings,,,DIS_44_010.jpg,16600,6600,publish
+catalogo,16601,DIS 44 011,Disegno / (Drawing),circa 1944,"tempera, pencil and charcoal on paper ",325 x 230 mm,works on paper/canvas,drawings,,,DIS_44_011.jpg,16601,6601,publish
+catalogo,16602,DIS 28 019,Disegno / (Drawing),circa 1928,india ink on paper (recto); pencil and colour pencil on paper (verso) ,292 x 250 mm,works on paper/canvas,drawings,,,DIS_28_019.jpg,16602,6602,publish
+catalogo,16603,T 27 002,Senza titolo / (Untitled),1927,"watercolour, polychrome pencil, pastel, ink, tempera and charcoal on paper",287 x 225 mm,works on paper/canvas,mixed media,,,T_27_002.jpg,16603,6603,publish
+catalogo,16604,DIS 23 004,Disegno / (Drawing),circa 1923,pencil and pastel on paper ,227 x 144 mm,works on paper/canvas,drawings,,,DIS_23_004.jpg,16604,6604,publish
+catalogo,16605,DIS 18 003,Disegno / (Drawing),1918,pencil and ink on paper ,310 x 215 mm,works on paper/canvas,drawings,,,DIS_18_003.jpg,16605,6605,publish
+catalogo,16607,DIS 18 004,Disegno / (Drawing),1918,"pencil, ink, pastel and charcoal on paper ",295 x 230 mm,works on paper/canvas,drawings,,,DIS_18_004.jpg,16607,6607,publish
+catalogo,16608,DIS 23 001,Disegno / (Drawing),1923,pastel and india ink on paper ,200 x 287 mm,works on paper/canvas,drawings,,,DIS_23_001.jpg,16608,6608,publish
+catalogo,16609,DIS 23 002,Disegno / (Drawing),1923,pencil on paper,283 x 223 mm,works on paper/canvas,drawings,,,DIS_23_002.jpg,16609,6609,publish
+catalogo,16610,DIS 23 003,Disegno / (Drawing),1923,ink on paper ,290 x 210 mm,works on paper/canvas,drawings,,,DIS_23_003.jpg,16610,6610,publish
+catalogo,16611,DIS 25 007,Disegno / (Drawing),circa 1925,conté pencil on paper,212 x 166 mm,works on paper/canvas,drawings,,,DIS_25_007.jpg,16611,6611,publish
+catalogo,16612,DIS 29 022,Disegno / (Drawing),1929,pencil and pastel on paper (recto); pencil on paper (verso),203 x 148 mm,works on paper/canvas,drawings,,,DIS_29_022.jpg,16612,6612,publish
+catalogo,16633,DIS 28 020,Disegno / (Drawing),circa 1928,charcoal on paper ,283 x 224 mm,works on paper/canvas,drawings,,,DIS_28_020.jpg,16633,6633,publish
+catalogo,16644,DIS 33 022,Deposizione / (Deposition),1933,india ink and sepia on paper,320 x 215 mm,works on paper/canvas,drawings,,,DIS_33_022.jpg,16644,6644,publish
+catalogo,16645,DIS 33 023,La predicazione del Battista / (The Predication of the Baptist),1933,pencil on paper,570 x 230 mm,works on paper/canvas,drawings,,,DIS_33_023.jpg,16645,6645,publish
+catalogo,16646,DIS 49 002,Disegno / (Drawing),circa 1949,indian ink and pencil on paper,225 x 252 mm,works on paper/canvas,drawings,,,DIS_49_002.jpg,16646,6646,publish
+catalogo,16647,DIS 45 004,"Disegno - Progetto per scultura ""Gesù e Maria"" / (Drawing - Project for Sculpture ""Jesus and Mary"")",circa 1945,ink on paper ,325 x 230 mm,works on paper/canvas,drawings,,,DIS_45_004.jpg,16647,6647,publish
+catalogo,16651,DIS 49 009,Disegno / (Drawing),1949,ink on paper ,385 x 245 mm,works on paper/canvas,drawings,,,DIS_49_009.jpg,16651,6651,publish
+catalogo,16667,DIS 33 025,Amphion / (Amphion),circa 1933,dark brown ink on paper,273 x 218 mm,works on paper/canvas,drawings,,,DIS_33_025.jpg,16667,6667,publish
+catalogo,16668,DIS 33 026,Amphion / (Amphion),circa 1933,dark brown ink on paper,220 x 286 mm,works on paper/canvas,drawings,,,DIS_33_026.jpg,16668,6668,publish
+catalogo,16669,DIS 33 027,Disegno / (Drawing),circa 1933,dark brown ink on paper,220 x 285 mm,works on paper/canvas,drawings,,,DIS_33_027.jpg,16669,6669,publish
+catalogo,16670,DIS 33 024,Disegno / (Drawing),1933,dark brown ink and pencil on paper,280 x 220 mm,works on paper/canvas,drawings,,,DIS_33_024.jpg,16670,6670,publish
+catalogo,16671,DIS 50 007,Disegno / (Drawing),1950,ink on paper,220 x 280 mm,works on paper/canvas,drawings,,,DIS_50_007.jpg,16671,6671,publish
+catalogo,16675,DIS 34 038,"Disegno - Progetto per scultura ""Paesaggio dimenticato"" / (Drawing - Project for Sculpture ""Forgotten Landscape"")",1934,pencil on cardboard,350 x 203 mm,works on paper/canvas,drawings,,,DIS_34_038.jpg,16675,6675,publish
+catalogo,16676,DIS 36 019,Disegno / (Drawing),circa 1936,pencil on paper,335 x 250 mm,works on paper/canvas,drawings,,,DIS_36_019.jpg,16676,6676,publish
+catalogo,16677,DIS 22 002,Orfeo / (Orpheus),1922-1923,pencil on paper,340 x 235 mm,works on paper/canvas,drawings,,,DIS_22_002.jpg,16677,6677,publish
+catalogo,16678,DIS 45 005,Disegno / (Drawing),1945,pencil on paper,285 x 223 mm,works on paper/canvas,drawings,,,DIS_45_005.jpg,16678,6678,publish
+catalogo,16680,BE 135,Giraffa / (Giraffe),1950,glazed polychrome ceramic,"31,5 x 17 x 10 cm",ceramics,animals,,,BE_135.jpg,16680,6680,publish
+catalogo,16681,CR 025,Cartoccio / (Cartoccio Bowl),1950,glazed polychrome ceramic,"16,5 x 39,5 cm",ceramics,cartoccio,,,CR_025.jpg,16681,6681,publish
+catalogo,16690,DIS 25 009,Disegno / (Drawing),circa 1925,pencil on paper,285 x 223 mm,works on paper/canvas,drawings,,,DIS_25_009.jpg,16690,6690,publish
+catalogo,16691,DIS 25 010,Disegno / (Drawing),circa 1925,pencil on paper,291 x 227 mm,works on paper/canvas,drawings,,,DIS_25_010.jpg,16691,6691,publish
+catalogo,16692,DIS 48-50 001,Disegno / (Drawing),1948-1950,pencil on paper,252 x 350 mm,works on paper/canvas,drawings,,,DIS_48-50_001.jpg,16692,6692,publish
+catalogo,16693,DIS 27 012,Disegno / (Drawing),circa 1927,india ink on paper,285 x 242 mm,works on paper/canvas,drawings,,,DIS_27_012.jpg,16693,6693,publish
+catalogo,16694,DIS 28 021a,Disegno / (Drawing),circa 1928,pencil on paper,297 x 230 mm,works on paper/canvas,drawings,,,DIS_28_021a.jpg,16694,6694,publish
+catalogo,16695,DIS 28 021b,Disegno / (Drawing),circa 1928,pencil on paper,297 x 230 mm,works on paper/canvas,drawings,,,DIS_28_021b.jpg,16695,6695,publish
+catalogo,16696,DIS 26 012,Disegno / (Drawing),1926,pencil and india ink on paper,310 x 210 mm,works on paper/canvas,drawings,,,DIS_26_012.jpg,16696,6696,publish
+catalogo,16697,DIS 26 013,Disegno / (Drawing),circa 1926,pencil and india ink on paper,280 x 238 mm,works on paper/canvas,drawings,,,DIS_26_013.jpg,16697,6697,publish
+catalogo,16698,DIS 26 014,Disegno / (Drawing),circa 1926,pencil on paper,283 x 224 mm,works on paper/canvas,drawings,,,DIS_26_014.jpg,16698,6698,publish
+catalogo,16699,DIS 26 015a,Disegno / (Drawing),1926,pencil on paper,288 x 230 mm,works on paper/canvas,drawings,,,DIS_26_015a.jpg,16699,6699,publish
+catalogo,16700,DIS 26 016,Disegno / (Drawing),circa 1926,pencil on paper,290 x 230 mm,works on paper/canvas,drawings,,,DIS_26_016.jpg,16700,6700,publish
+catalogo,16701,DIS 46 008,Disegno / (Drawing),circa 1946,pencil on paper,317 x 220 mm,works on paper/canvas,drawings,,,DIS_46_008.jpg,16701,6701,publish
+catalogo,16702,DIS 46 009a,Disegno / (Drawing),circa 1946,pencil on paper,278 x 220 mm,works on paper/canvas,drawings,,,DIS_46_009a.jpg,16702,6702,publish
+catalogo,16703,DIS 26 015b,Disegno / (Drawing),circa 1926,pencil and pastel on paper,288 x 230 mm,works on paper/canvas,drawings,,,DIS_26_015b.jpg,16703,6703,publish
+catalogo,16704,DIS 46 009b,Disegno / (Drawing),circa 1946,pencil on paper,278 x 220 mm,works on paper/canvas,drawings,,,DIS_46_009b.jpg,16704,6704,publish
+catalogo,16707,DIS 31 007,Disegno / (Drawing),circa 1931,pencil on paper,286 x 225 mm,works on paper/canvas,drawings,,,DIS_31_007.jpg,16707,6707,publish
+catalogo,16707,DIS 45 006,Disegno / (Drawing),circa 1945,ink on paper,284 x 224 mm,works on paper/canvas,drawings,,,DIS_45_006.jpg,16707,6707,publish
+catalogo,16708,DIS 31 008,Disegno / (Drawing),circa 1931,pencil on paper ,280 x 217 mm,works on paper/canvas,drawings,,,DIS_31_008.jpg,16708,6708,publish
+catalogo,16712,DIS 33 029,Disegno / (Drawing),1933,pencil and india ink on paper,212 x 180 mm,works on paper/canvas,drawings,,,DIS_33_029.jpg,16712,6712,publish
+catalogo,16714,DIS 35 027,Disegno - Progetto per scultura / (Drawing - Project for Sculpture) ,1935,pencil on paper,328 x 237 mm,works on paper/canvas,drawings,,,DIS_35_027.jpg,16714,6714,publish
+catalogo,16717,DIS 34-35 002,Disegno / (Drawing),1934-1935,pencil on paper,326 x 216 mm,works on paper/canvas,drawings,,,DIS_34-35_002.jpg,16717,6717,publish
+catalogo,16718,DIS 34-35 002 verso,Disegno / (Drawing),1934-1935,pencil on paper,326 x 216 mm,works on paper/canvas,drawings,,,DIS_34-35_002_verso.jpg,16718,6718,publish
+catalogo,16719,DIS 33 016,Euridice / (Eurydice),circa 1933,brown india ink on paper,283 x 223 mm,works on paper/canvas,drawings,,,DIS_33_016.jpg,16719,6719,publish
+catalogo,16720,DIS 40 003,Disegno / (Drawing),circa 1940,brush point tempera on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_003.jpg,16720,6720,publish
+catalogo,16721,DIS 40 004,Disegno / (Drawing),circa 1940,brush point tempera and pencil on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_004.jpg,16721,6721,publish
+catalogo,16722,DIS 40 005,Disegno / (Drawing),circa 1940,brush point tempera and pencil on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_005.jpg,16722,6722,publish
+catalogo,16723,DIS 40 006,Disegno / (Drawing),circa 1940,brush point tempera and pencil on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_006.jpg,16723,6723,publish
+catalogo,16724,DIS 40 007,Disegno / (Drawing),circa 1940,brush point tempera on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_007.jpg,16724,6724,publish
+catalogo,16725,DIS 40 008,Disegno / (Drawing),circa 1940,brush point tempera and pencil on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_008.jpg,16725,6725,publish
+catalogo,16726,DIS 40 009,Disegno / (Drawing),circa 1940,brush point tempera on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_009.jpg,16726,6726,publish
+catalogo,16727,DIS 40 010,Disegno / (Drawing),circa 1940,tempera and pencil on paper,325 x 232 mm,works on paper/canvas,drawings,,,DIS_40_010.jpg,16727,6727,publish
+catalogo,16731,DIS 25 011,Disegno / (Drawing),circa 1925,pencil on paper,267 x 226 mm,works on paper/canvas,drawings,,,DIS_25_011.jpg,16731,6731,publish
+catalogo,16732,DIS 25 012,Disegno / (Drawing),circa 1925,pencil and pastel on paper ,233 x 340 mm,works on paper/canvas,drawings,,,DIS_25_012.jpg,16732,6732,publish
+catalogo,16734,DIS 29 015 a,Disegno / (Drawing),circa 1929,pencil on paper,210 x 150 mm,works on paper/canvas,drawings,,,DIS_29_015_a.jpg,16734,6734,publish
+catalogo,16735,DIS 29 015 b,Disegno / (Drawing),circa 1929,pencil on paper,,works on paper/canvas,drawings,,,DIS_29_015_b.jpg,16735,6735,publish
+catalogo,16736,DIS 42 012,Disegno / (Drawing),circa 1942,pencil on paper,335 x 240 mm,works on paper/canvas,drawings,,,DIS_42_012.jpg,16736,6736,publish
+catalogo,16737,DIS 42 013,Disegno / (Drawing),circa 1942,pencil on paper,330 x 242 mm,works on paper/canvas,drawings,,,DIS_42_013.jpg,16737,6737,publish
+catalogo,16738,DIS 29 023,Deposizione / (Deposition),circa 1929,pencil on paper,292 x 236 mm,works on paper/canvas,drawings,,,DIS_29_023.jpg,16738,6738,publish
+catalogo,16739,DIS 29 024,Disegno / (Drawing),circa 1929,ink on cardboard,366 x 240 mm,works on paper/canvas,drawings,,,DIS_29_024.jpg,16739,6739,publish
+catalogo,16740,DIS 29 025,Disegno / (Drawing),circa 1929,ink on paper ,292 x 242 mm,works on paper/canvas,drawings,,,DIS_29_025.jpg,16740,6740,publish
+catalogo,16741,DIS 29 026,Disegno / (Drawing),circa 1929,pencil and pastel on paper,290 x 243 mm,works on paper/canvas,drawings,,,DIS_29_026.jpg,16741,6741,publish
+catalogo,16742,DIS 29 027,La Melanconia / (The Melancholy),circa 1929,ink and india ink on paper,284 x 223 mm,works on paper/canvas,drawings,,,DIS_29_027.jpg,16742,6742,publish
+catalogo,16743,DIS 29 028,La Melanconia / (The Melancholy),circa 1929,black ink on paper,284 x 224 mm ,works on paper/canvas,drawings,,,DIS_29_028.jpg,16743,6743,publish
+catalogo,16744,DIS 46 010,Disegno / (Drawing),1946,"charcoal, pastel and pencil on paper ",396 x 298 mm,works on paper/canvas,drawings,,,DIS_46_010.jpg,16744,6744,publish
+catalogo,16745,DIS 28 022,Disegno / (Drawing),1928,pencil on paper,215 x 330 mm,works on paper/canvas,drawings,,,DIS_28_022.jpg,16745,6745,publish
+catalogo,16746,DIS 28 023,Disegno / (Drawing),circa 1928,pencil on paper,215 x 330 mm,works on paper/canvas,drawings,,,DIS_28_023.jpg,16746,6746,publish
+catalogo,16748,DIS 49 008,La morte è un sogno / (The Death is a Dream),circa 1949,pencil on paper,280 x 220 mm,works on paper/canvas,drawings,,,DIS_49_008.jpg,16748,6748,publish
+catalogo,16751,DIS 44 001,Orfeo / (Orpheus),circa 1944,pencil on paper,282 x 165 mm,works on paper/canvas,drawings,,,DIS_44_001.jpg,16751,6751,publish
+catalogo,16756,DIS 27 013,Disegno / (Drawing),1927,pencil and india ink on paper,,works on paper/canvas,drawings,,,DIS_27_013.jpg,16756,6756,publish
+catalogo,16800,T 48 009,Senza titolo / (Untitled),circa 1948,"polychrome wax crayon, tempera, conté pencil and collage on cardboard",500 x 700 mm,works on paper/canvas,mixed media,,,T_48_009.jpg,16800,6800,publish
+catalogo,16835,T 48-50 001,Senza titolo / (Untitled),1948-1950,watercolour and india ink on paper ,430 x 625 mm,works on paper/canvas,mixed media,,,T_48-50_001.jpg,16835,6835,publish
+catalogo,16970,1948 6,Kore - La Vestale II / (Kore - Vesta II),1948,painted terracotta,"44,5 x 12,5 x 12 cm",sculptures,,,,1948_6.jpg,16970,6970,publish
+catalogo,17009,T 45 004,Teatrino / (Little Theater),circa 1945,polychrome wax crayon and burn marks on paper ,350 x 252 mm,works on paper/canvas,mixed media,,,T_45_004.jpg,17009,7009,publish
+catalogo,17077,TZO 1950 100,Senza titolo / (Untitled),circa 1950,oil on canvas,80 x 60 cm,works on paper/canvas,paintings,,,TZO_1950_100.jpg,17077,7077,publish
+catalogo,17084,TZO 1950 103,Zoagli ,1950,oil on canvas,70 x 60 cm,works on paper/canvas,paintings,,,TZO_1950_103.jpg,17084,7084,publish
+catalogo,17085,TZO 1950 003,Senza titolo / (Untitled),1950,oil on canvas,60 x 70 cm,works on paper/canvas,paintings,,,TZO_1950_003.jpg,17085,7085,publish
+catalogo,17085,TZO 1950 073,Senza titolo / (Untitled),1950,oil on canvas ,60 x 50 cm,works on paper/canvas,paintings,,,TZO_1950_073.jpg,17085,7085,publish
+catalogo,17087,TZO 1950 051,Zoagli ,1950,oil on canvas,70 x 60 cm,works on paper/canvas,paintings,,,TZO_1950_051.jpg,17087,7087,publish
+catalogo,17098,T 51 003,Senza titolo / (Untitled),circa 1951,"tempera, pencil and burn marks on paper ",310 x 430 mm,works on paper/canvas,mixed media,,,T_51_003.jpg,17098,7098,publish
+catalogo,17099,T 51 004,Senza titolo / (Untitled),circa 1951,tempera and pastel on cardboard ,350 x 500 mm,works on paper/canvas,mixed media,,,T_51_004.jpg,17099,7099,publish
+catalogo,17100,T 51 005,Senza titolo / (Untitled),circa 1951,"tempera, pastel and burn on marks on cardboard ",350 x 500 mm,works on paper/canvas,mixed media,,,T_51_005.jpg,17100,7100,publish
+catalogo,17101,T 51 006,Ecce homo / (Ecce Homo),circa 1951,"tempera, pastel, burn marks and pencil on cardboard",495 x 342 mm,works on paper/canvas,mixed media,,,T_51_006.jpg,17101,7101,publish
+catalogo,17102,T 51 007,Senza titolo / (Untitled),circa 1951,"pastel, pencil and burn marks on cardboard",496 x 352 mm,works on paper/canvas,mixed media,,,T_51_007.jpg,17102,7102,publish
+catalogo,17103,T 51 008,Senza titolo / (Untitled),circa 1951,"pastel, tempera and charcoal on cardboard ",500 x 348 mm,works on paper/canvas,mixed media,,,T_51_008.jpg,17103,7103,publish
+catalogo,17104,T 51 009,I due cugini - Autoritratto con Carlo Belli / (The Two Cousins - Self-Potrait with Carlo Belli),circa 1951,"pastel, charcoal, burn marks, pencil and tempera on cardboard",498 x 350 mm,works on paper/canvas,mixed media,,,T_51_009.jpg,17104,7104,publish
+catalogo,17105,T 51 010,Senza titolo / (Untitled),circa 1951,"tempera, pastel e and burn marks on cardboard",348 x 496 mm,works on paper/canvas,mixed media,,,T_51_010.jpg,17105,7105,publish
+catalogo,17220,DIS 42 015,Disegno / (Drawing),circa 1942,pen and watercolor on paper ,385 x 285 mm,works on paper/canvas,drawings,,,DIS_42_015.jpg,17220,7220,publish
+catalogo,17224,DIS 40 012,Disegno / (Drawing),circa 1940,violet ink on paper ,340 x 240 mm,works on paper/canvas,drawings,,,DIS_40_012.jpg,17224,7224,publish
+catalogo,17230,T 30 001,La Samaritana al pozzo / (Samaritan Girl at the Well),circa 1930,polychrome watercolour and pastel on paper,420 x 320 mm,works on paper/canvas,mixed media,,,T_30_001.jpg,17230,7230,publish
+catalogo,17231,T 33 001,Paesaggio / (Landscape),circa 1933,tempera and pastel on paper,440 x 340 mm,works on paper/canvas,mixed media,,,T_33_001.jpg,17231,7231,publish
+catalogo,17232,T 33 002,Paesaggio / (Landscape),circa 1933,tempera and polychrome pastel on paper ,440 x 340 mm,works on paper/canvas,mixed media,,,T_33_002.jpg,17232,7232,publish
+catalogo,17233,T 30 002,La Samaritana al pozzo / (Samaritan Girl at the Well),circa 1930,oil on canvas,600 x 470 mm,works on paper/canvas,paintings,,,T_30_002.jpg,17233,7233,publish
+catalogo,17234,T 32 001,Resurrezione di Lazzaro / (Resurrection of Lazarus),circa 1932,oil on canvas,500 x 640 mm,works on paper/canvas,paintings,,,T_32_001.jpg,17234,7234,publish
+catalogo,17235,TC 28 001,Studio per decorazione / (Study for Decoration),1928,watercolour on paper,480 x 335 mm,works on paper/canvas,mixed media,,,TC_28_001.jpg,17235,7235,publish
+catalogo,17355,T 48 010,Nel Giardino dell'Eden / (In the Eden Garden),circa 1948,"polychrome watercolour, ink and pencil on paper ",475 x 660 mm,works on paper/canvas,mixed media,,,T_48_010.jpg,17355,7355,publish
+catalogo,17356,T 45 003,Teatrino / (Little Theater),circa 1945,polychrome wax crayon on cardboard,350 x 255 mm,works on paper/canvas,mixed media,,,T_45_003.jpg,17356,7356,publish
+catalogo,17498,1949 11,Senza titolo / (Untitled),1949 ,glazed polychrome ceramic,79 x 35 x 20 cm,sculptures,,,,1949_11.jpg,17498,7498,publish
+catalogo,17517,T 51 014,Senza titolo / (Untitled),circa 1951,"tempera, pastel and burn marks on paper ",350 x 500 mm,works on paper/canvas,mixed media,,,T_51_014.jpg,17517,7517,publish
+catalogo,17581,T 51 012,Senza titolo / (Untitled),circa 1951,"tempera, pastel, pencil and burning on paper",700 x 500 mm,works on paper/canvas,mixed media,,,T_51_012.jpg,17581,7581,publish
+catalogo,17582,T 51 013,Senza titolo / (Untitled),circa 1951,tempera and burnt paper on canvas,500 x 720 mm,works on paper/canvas,mixed media,,,T_51_013.jpg,17582,7582,publish
+catalogo,17614,T 44 001,Medusa / (Medusa),circa 1944 ,brown watercolour and tempera on paper,270 x 222 mm,works on paper/canvas,mixed media,,,T_44_001.jpg,17614,7614,publish
+catalogo,17616,T 51 011,Aquila / (Eagle),circa 1951 ,"tempera, pastel and pencil on cardboard ",350 x 250 mm,works on paper/canvas,mixed media,,,T_51_011.jpg,17616,7616,publish
+catalogo,17920,DIS 34 037,Disegno / (Drawing),1934,pencil on paper,circa 240 x 210 mm ,works on paper/canvas,drawings,,,DIS_34_037.jpg,17920,7920,publish
+catalogo,17921,DIS 18 005,Disegno / (Drawing),1918,pencil on paper,circa 250 x 190 mm ,works on paper/canvas,drawings,,,DIS_18_005.jpg,17921,7921,publish
+catalogo,17922,DIS 31 009,Disegno / (Drawing),1931,pencil on paper,240 x 210 mm ,works on paper/canvas,drawings,,,DIS_31_009.jpg,17922,7922,publish
+catalogo,18052,DIS 22 003,Orfeo / (Orpheus) ,circa 1922 ,black and brown india ink on paper,285 x 222 mm,works on paper/canvas,drawings,,,DIS_22_003.jpg,18052,8052,publish
+catalogo,18061,CT 312,Coppetta / (Little Bowl),1950,glazed polychrome ceramic,Ø 14 cm,works on paper/canvas,bowls,,,CT_312.jpg,18061,8061,publish
+catalogo,18062,CT 313,Coppetta / (Little Bowl),1950,glazed polychrome ceramic,Ø 14 cm,ceramics,bowls,,,CT_313.jpg,18062,8062,publish
+catalogo,18069,T 51 016,Senza titolo / (Untitled),1951,pastel and pencil on paper,330 x 470 mm,works on paper/canvas,mixed media,,,T_51_016.jpg,18069,8069,publish
+catalogo,18087,1945 53,Senza titolo / (Untitled),circa 1945 ,brass,22 x 9 x 13 cm,scultptures,,,,1945_53.jpg,18087,8087,publish
+catalogo,18125,VA 413,Vaso campanile / (Campanile vase),1950,glazed polychrome ceramic,57 x Ø 10 cm,ceramics,vases,campanile vase,,VA_413.jpg,18125,8125,publish
+catalogo,18130,1938 4,La meraviglia / (The Magnificence),circa 1938 ,plaster,,scultptures,,,,1938_4.jpg,18130,8130,publish
+catalogo,18132,T 20 001,Il giudizio di re Salomone / (The Judgment of Salomon King),circa 1920 ,oil on canvas ,90 x 62 cm,works on paper/canvas,paintings,,,T_20_001.jpg,18132,8132,publish
+catalogo,18133,T 50 035,Senza titolo / (Untitled),1950,watercolour and pastel on canvas paper ,335 x 480 mm,works on paper/canvas,mixed media,,,T_50_035.jpg,18133,8133,publish
+catalogo,18144,1948-1949 16,Senza titolo / (Untitled),1948-1949,glazed polychrome ceramic,h. 24 cm,sculptures,,,,1948-1949_16.jpg,18144,8144,publish
+catalogo,18145,1948-1949 17,Kore ,1948-1949,terracotta ,h. 23 cm,scultptures,,,,1948-1949_17.jpg,18145,8145,publish
+catalogo,18177,ASP 006,Angelo / (Angel),1950,glazed polychrome ceramic,"26,5 x 17 cm",ceramics,sacred,,,ASP_006.jpg,18177,8177,publish
+catalogo,18185,VA 421,Vaso / (Vase),1950,glazed ceramic,11 x Ø 17 cm,ceramics,vases,cone vase,,VA_421.jpg,18185,8185,publish
+catalogo,18204,1930 8,Morte di Orfeo / (Orpheus' Death),circa 1930 ,terracotta ,,scultptures,,,,1930_8.jpg,18204,8204,publish
+catalogo,18215,KF 017,Servizio da caffè / (Coffee Set),1950,glazed polychrome ceramic,,ceramics,coffee and tea set,,,KF_017.jpg,18215,8215,publish
+catalogo,18224,1943 30,Ritratto / (Portrait),circa 1943,terracotta ,18 x 15 cm,scultptures,,,,1943_30.jpg,18224,8224,publish
+catalogo,18225,1943 31,Ritratto / (Portrait),circa 1943,terracotta ,40 x 31 cm,scultptures,,,,1943_31.jpg,18225,8225,publish
+catalogo,18257,1945 54,Senza titolo / (Untitled),circa 1945 ,terracotta,,sculptures,,,,1945_54.jpg,18257,8257,publish
+catalogo,18283,1948-1949 18,Arcangelo / (Archangel),1948-1949,glazed polychrome ceramic,"60,5 x 17 x 10 cm",sculptures,,,,1948-1949_18.jpg,18283,8283,publish
+catalogo,18284,1948-1949 19,Senza titolo / (Untitled),1948-1949,glazed polychrome ceramic,"65,5 x 17 x 10 cm",sculptures,,,,1948-1949_19.jpg,18284,8284,publish
+catalogo,18330,BE 153,Cavallino / (Foal),1950,glazed polychrome ceramic,"18 x 14,7 x 6,2 cm",Ceramics,animals,,,BE_153.jpg,18330,8330,publish
+catalogo,18334,KF 021,Tazzina da caffè / (Coffee Cup),1950,glazed polychrome ceramic,"cup: 7 x 6 x 4 cm; saucer: Ø 12,5 cm",Ceramics,coffee and tea set,,,KF_021.jpg,18334,8334,publish
+catalogo,18335,KF 022,Tazzina da caffè / (Coffee Cup),1950,glazed polychrome ceramic,"cup: 7 x 6 x 4 cm; saucer: Ø 12,5 cm",Ceramics,coffee and tea set,,,KF_022.jpg,18335,8335,publish
+catalogo,18340,1950 92,Anno Santo / (Holy Year),1950,glazed polychrome ceramic,"18 x 11,5 x 5 cm",sculptures,,,,1950_92.jpg,18340,8340,publish
+catalogo,18362,T 45 005,Orfeo e gli Argonauti / (Orpheus and the Argonauts),circa 1945 ,"tempera, wax crayon and pencil on cardboard ",500 x 695 mm,works on paper/canvas,mixed media,,,T_45_005.jpg,18362,8362,publish
+catalogo,18389,TE 016/016-1,Servizio da tè / (Tea Set),1947,glazed polychrome ceramic ,"cup: 5,1 x Ø 10,2 cm; saucer: 1,9 x Ø 11,8 cm",ceramics,coffee and tea set,,,TE_016/016-1.jpg,18389,8389,publish
+catalogo,18396,1943 32,Trofeo di caccia / (Hunting Trophy),circa 1943 ,terracotta,16 x 9 cm,sculptures,,,,1943_32.jpg,18396,8396,publish
+catalogo,18405,1933 31,Ritratto / (Portrait),circa 1933 ,bronze,h. 25 cm,sculptures,,,,1933_31.jpg,18405,8405,publish
+catalogo,18451,1949 12,Senza titolo / (Untitled),1949,glazed polychrome ceramic ,,Scultptures,,,,1949_12.jpg,18451,8451,publish
+catalogo,18454,VA 437,Vaso / (Vase),circa 1948 ,glazed polychrome ceramic ,18 x 18 cm,ceramics,vases,cone vase with high drape,,VA_437.jpg,18454,8454,publish
+catalogo,18461,DIS 30 011,Disegno / (Drawing),1930,charcoal on paper ,288 x 230 mm,works on paper/canvas,drawings,,,DIS_30_011.jpg,18461,8461,publish
+catalogo,18488,VA 440/440-1/440-2,Vaso / (Vase),circa 1948 ,glazed polychrome ceramic ,"11,5 x 12 cm",ceramics,vases,,,VA_440/440-1/440-2.jpg,18488,8488,publish
+catalogo,18501,DIS 26 017,Teatrino / (Little Theater),circa 1926 ,ink and pencil on paper,,works on paper/canvas,drawings,,,DIS_26_017.jpg,18501,8501,publish
+catalogo,18502,DIS 26 018,Disegno / (Drawing),circa 1926 ,pencil and ink on paper,,works on paper/canvas,drawings,,,DIS_26_018.jpg,18502,8502,publish
+catalogo,18507,1945 55,Ramoscelli / (Twigs),circa 1945 ,glazed polychrome ceramic ,30 x 22 cm,sculptures,,,,1945_55.jpg,18507,8507,publish
+catalogo,18510,DIS 43 001,Disegno / (Drawing),1943,blue ink on paper,350 x 250 mm,works on paper/canvas,drawings,,,DIS_43_001.jpg,18510,8510,publish
+catalogo,18520,VA 444,Vaso / (Vase),1950,glazed ceramic,"57,5 x 19 x 17,5 cm",ceramics,vases,colletto vase,,VA_444.jpg,18520,8520,publish
+catalogo,18537,1948-1949 20,Senza titolo / (Untitled),1948-1949,glazed polychrome ceramic ,"24,5 x 12 x 10 cm",sculptures,,,,1948-1949_20.jpg,18537,8537,publish
+catalogo,18586,CP 10,Coppa / (Bowl) ,1960,glazed polychrome ceramic ,"24,5 x 22 x 16,5 cm",ceramics,bowls,,,CP_10.jpg,18586,8586,publish
+catalogo,18600,D_9,Senza titolo / (Untitled),circa 1948 ,glazed polychrome ceramic ,115 x 255 cm,ceramics,architectural projects,,,D_9.jpg,18600,8600,publish
+catalogo,18607,VA 464/464-1,Vaso luna / (Moon Vase),1950,glazed polychrome ceramic ,"h. 29,5 cm",ceramics,vases,moon vase,,VA_464/464-1.jpg,18607,8607,publish
+catalogo,18665,1948 15,Senza titolo / (Untitled),circa 1948 ,terracotta,"24,5 x Ø 6,5 cm",Sculptures,,,,1948_15.jpg,18665,8665,publish
+catalogo,18668,1949 13,L'angelo dell'Apocalisse / (The Angel of the Apocalypse),1949,glazed polychrome ceramic ,71 x 42 cm,Sculptures,,,,1949_13.jpg,18668,8668,publish
+catalogo,18707,BE 164,Sol leone / (Sun Lion),1950,terracotta,13 x 15 cm,ceramics,animals,,,BE_164.jpg,18707,8707,publish
+catalogo,18708,BE 165,Cavallino / (Little Horse),1950,majolica,"20,7 x 16 cm",ceramics,animals,,,BE_165.jpg,18708,8708,publish
+catalogo,18709,BE 166,Cavallino / (Little Horse),1950,majolica,"20,6 x 15 cm",ceramics,animals ,,,BE_166.jpg,18709,8709,publish
+catalogo,18710,PA 30,Vaso pavone / (Peacock Vase),1950,glazed polychrome ceramic ,"h. 37,5 cm",ceramics,vases,peacock vase,,PA_30.jpg,18710,8710,publish
+catalogo,18711,VA 472,Vaso / (Vase),1950,glazed polychrome ceramic ,21 x 4 cm,ceramics,vases,sheatfish vase ,,VA_472.jpg,18711,8711,publish
+catalogo,18712,VA 473,Vaso / (Vase),1950,glazed polychrome ceramic ,"18 x 19,5 x 9 cm",ceramics,vases,,,VA_473.jpg,18712,8712,publish
+catalogo,18713,VA 474,Vaso / (Vase),1950,glazed polychrome ceramic ,"19,4 x 19 x 10 cm",ceramics,vases,,,VA_474.jpg,18713,8713,publish
+catalogo,18714,VA 471,Vaso / (Vase),1950,glazed polychrome ceramic ,"24,5 x 25,5 cm",ceramic,vases,double egg vase with drape,,VA_471.jpg,18714,8714,publish
+catalogo,18715,CR 029,Cartoccio / (Cartoccio Bowl),1950,glazed polychrome ceramic ,20 x Ø 42 cm,ceramics,cartoccio,,,CR_029.jpg,18715,8715,publish
+catalogo,18716,CR 030,Cartoccio / (Cartoccio Bowl),1950,glazed polychrome ceramic ,"15,4 x Ø 34 cm",ceramics,cartoccio,,,CR_030.jpg,18716,8716,publish
+catalogo,18759,BE 169,Giraffa / (Giraffe),circa 1948 ,glazed ceramic ,"26 x 13,4 x 3,5 cm",Ceramics,Animals,,,BE_169.jpg,18759,8759,publish
+catalogo,18786,B 10,Camino / (Chimney),circa 1947 ,glazed polychrome ceramic ,,Ceramics,others,,,B_10.jpg,18786,8786,publish
+catalogo,16705,DIS 45 007,Disegno / (Drawing),circa 1945,black and sepia ink on paper (verso); ink and india ink on paper (recto),318 x 217 mm,works on paper/canvas,drawings,,,DIS_45_007.jpg,16705,6705/6860,publish
+catalogo,16860,DIS 45 007.2,Disegno / (Drawing),circa 1946,black and sepia ink on paper (verso); ink and india ink on paper (recto),319 x 217 mm,works on paper/canvas,drawings,,,DIS_45_007.2.jpg,16860,6705/6861,publish

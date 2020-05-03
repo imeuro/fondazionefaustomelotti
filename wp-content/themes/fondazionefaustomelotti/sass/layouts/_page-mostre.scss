@@ -1,0 +1,72 @@
+.page-template-mostre-php {
+  article {
+    .col1 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 1);
+      }
+
+      #years-index {
+        @include clearfix;
+        padding: 0;
+        list-style: none;
+        
+        li {
+          float: left;
+          margin-right: 5px;
+          font-family: "BrandonGrotesque-Medium", sans-serif;
+          @include adjust-font-size-to(18px, 1.4);
+          cursor: pointer;
+
+          &.active,
+          &:hover {
+            span {
+              color: $gold;
+            }
+          }
+
+          &:after {
+            content: " /";
+          }
+
+          &:last-child:after {
+            content: "";
+          }
+
+          @include breakpoint($tablet-p) {
+            float: none;
+            @include adjust-font-size-to(24px, 1.5);
+
+            &:after {
+              content: "";
+            }
+          }
+        }
+      }
+    }
+
+    .col2 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 3);
+      }
+    }
+
+    .col3 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 5);
+      }
+    }
+
+    .exhibition-block h3 {
+      font-family: "BrandonGrotesque-Medium", sans-serif;
+      @include adjust-font-size-to(24px, 1.5);
+      color: $gold;
+      @include rhythm(0, 0, 0, 1);
+    }
+  }
+}

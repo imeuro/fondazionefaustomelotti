@@ -1,0 +1,42 @@
+.search-results {
+  .summary {
+    @include clearfix;
+
+    h1 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($desk) {
+        @include grid-span(3, 3);
+      }
+    }
+  }
+
+  article {
+    @include clearfix;
+    @include rhythm(0, 0, 0, 2);
+
+    .content {
+      @include grid-span(4, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(5, 1);
+      }
+
+      @include breakpoint($desk) {
+        @include grid-span(3, 3);
+      }
+    }
+
+    .image {
+      @include grid-span(2, 5);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(1, 6);
+      }
+    }
+
+    .searchwp-highlight {
+      font-family: "BrandonGrotesque-Medium", sans-serif;
+    }
+  }
+}

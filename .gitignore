@@ -1,14 +1,16 @@
 *.log
+.DS_Store
 wp-config.php
 wp-config*.php
 
-css/
-js/
-dbb/
+
+dbs/
 
 wp-admin/
 wp-includes/
 
+wp-content/ewww/
+wp-content/languages/
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/

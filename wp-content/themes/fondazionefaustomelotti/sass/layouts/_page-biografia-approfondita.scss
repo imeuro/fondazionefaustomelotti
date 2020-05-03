@@ -1,0 +1,104 @@
+.page-template-biografia-approfondita-php {
+  article {
+    .col1 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(2, 1);
+
+        .sticky {
+          position: fixed;
+        }
+      }
+
+      #pages-index {
+        @include clearfix;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        
+        li {
+          float: left;
+          margin-right: 5px;
+          font-family: "BrandonGrotesque-Medium", sans-serif;
+          @include adjust-font-size-to(18px, 1.4);
+          cursor: pointer;
+
+          &.active,
+          &:hover {
+            span {
+              color: $gold;
+            }
+          }
+
+          &:after {
+            content: " /";
+          }
+
+          &:last-child:after {
+            content: "";
+          }
+
+          @include breakpoint($tablet-p) {
+            float: none;
+            @include adjust-font-size-to(24px, 1.5);
+
+            &:after {
+              content: "";
+            }
+          }
+        }
+      }
+
+      p {
+        @include adjust-font-size-to(16px, 1.5);
+      }
+
+      .pdf {
+        font-family: "BrandonGrotesque-Medium", sans-serif;
+      }
+
+      @include breakpoint($tablet-p) {
+        li.top-margin {
+          @include rhythm(1.5, 0, 0, 0);
+        }
+
+        p.top-margin {
+          @include rhythm(1.5, 0, 0, 1.5);
+        }
+      }
+    }
+
+    .col2 {
+      @include grid-span(6, 1);
+
+      @include breakpoint($tablet-p) {
+        @include grid-span(4, 3);
+      }
+
+      @include breakpoint($desk) {
+        @include grid-span(3, 3);
+      }
+    }
+
+    .page-block {
+      @include adjust-font-size-to(20px, 1.2);
+
+      h3 {
+        font-family: "BrandonGrotesque-Medium", sans-serif;
+        @include adjust-font-size-to(24px, 1.5, 20px);
+        color: $gold;
+        @include rhythm(0, 0, 0, 1);
+      }
+
+      .wp-caption {
+        @include rhythm(0, 0, 0, 1);
+      }
+
+      .wp-caption-text {
+        font-family: "BrandonGrotesque-Medium", sans-serif;
+        @include adjust-font-size-to(14px, 1.1, 20px);
+      }
+    }
+  }
+}

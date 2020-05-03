@@ -1,0 +1,40 @@
+#cartouche {
+  position: absolute;
+  bottom: 30px;
+  max-width: 100%;
+  color: $gold;
+  border: 2px solid $gold;
+  margin-right: 10px;
+
+  @include breakpoint($tablet-p) {
+    max-width: 50%;
+  }
+
+  a {
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+  }
+
+  div {
+    padding: 20px;
+  }
+
+  h2 {
+    font-family: "BrandonGrotesque-Medium", sans-serif;
+    @include adjust-font-size-to(18px, 1);
+
+    @include breakpoint($tablet-p) {
+      @include adjust-font-size-to(26px, 1.4);
+    }
+  }
+
+  p {
+    @include rhythm(0, 0, 0, 0);
+    @include adjust-font-size-to(14px, 1);
+
+    @include breakpoint($tablet-p) {
+      @include adjust-font-size-to(18px, 1.4);
+    }
+  }
+}

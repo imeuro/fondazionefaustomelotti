@@ -1,0 +1,71 @@
+<?php
+global $term;
+$paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+
+	$args = array (
+		'post_type'								=> array( 'catalogo' ),
+		'nopaging'								=> false,
+		'posts_per_page'					=> 48,
+		'paged' => $paged,
+		'meta_key'					=> 'anno_opera',
+		'meta_key'					=> 'codice_electa',
+		'orderby'						=> 'meta_value codice_electa',
+		'order'							=> 'ASC',
+		'tax_query'								=> array(
+			array(
+				'taxonomy' 			=> $term->taxonomy,
+				'field'    			=> 'slug',
+				'terms'    			=> $term->slug,
+			),
+		),
+	);
+	$query_front_Catalogo = new WP_Query( $args );
+
+	if ( $query_front_Catalogo->have_posts() ) {
+
+		echo '<h2 class="text-right">'.$term->count.' results found</h2>';
+
+		echo '<a class="backlink dotted taxonomy placeholder"><span class="glyphicon glyphicon-menu-left"></span></a>';
+
+		echo '<ul class="items-tipologia infinitescroll row">';
+		$i = 0;
+		while ( $query_front_Catalogo->have_posts() ) {
+			$i++;
+			$query_front_Catalogo->the_post();
+				echo '<li class="single-item-tipologia col-xs-6 col-sm-4 col-md-3 single-item-'.$i.'">';
+				echo '<a href="'.get_permalink().'">';
+				if (has_post_thumbnail()) {
+					echo '<figure>';
+					echo 	get_the_post_thumbnail( $post->ID, 'opera-tb', array('class' => 'pic-item-tipologia', 'alt' => get_the_title() ) );
+					echo '	<span class="more-details"><span><strong>+</strong>Details</span></span>';
+					echo '</figure>';
+				} else {
+					echo '<div class="nothumbavail">no image';
+					echo '	<span class="more-details"><span><strong>+</strong>Details</span></span>';
+					echo '</div>';
+				}
+				echo '	<strong>'.get_the_title();
+
+				$terms = wp_get_post_terms($post->ID, 'subtipo_opera', array( 'fields' => 'names' ) );
+				$termlist = '';
+				if ( ! empty( $terms ) && ! is_wp_error( $terms ) ){
+				    $termlist .= '<ul>';
+				    foreach ( $terms as $term ) {
+				        $termlist .= '<li>' . $term . '</li>';
+				    }
+				    $termlist .= '</ul>';
+				}
+				echo '<small class="info-opera">'.$termlist.'<br>Code: '.get_field('codice_electa').'<br />Year: '.get_field('anno_opera').'</small></strong>';
+				echo '  </strong>';
+				echo '</a>';
+				echo '</li>';
+				if ($i == 4) { // defloaters
+					$i=0;
+				}
+
+		}
+		echo '</ul>';
+	}
+
+	wp_reset_postdata();
+?>

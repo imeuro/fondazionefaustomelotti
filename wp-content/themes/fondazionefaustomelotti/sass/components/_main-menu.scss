@@ -1,0 +1,145 @@
+#main-menu {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    font-family: "BrandonGrotesque-Medium", sans-serif;
+    @include adjust-font-size-to(16px, 1);
+
+    @include breakpoint($menu-structure) {
+      float: left;
+      @include adjust-font-size-to(18px, 1);
+      padding-right: 4px;
+    }
+
+    @include breakpoint($menu-equal-width) {
+      text-align: center;
+      @include layout(6, 4px, $output-style: 'float') {
+        @include grid-span(1);
+      }
+    }
+
+    a {
+      background-color: shade($white, 5);
+      padding: 10px;
+
+      @include breakpoint($menu-structure) {
+        background-color: transparent;
+        padding: 20px 5px 34px;
+      }
+
+      @include breakpoint($menu-equal-width) {
+        padding: 20px 0 34px;
+      }
+    }
+
+    @include breakpoint($menu-desk) {
+      &:nth-child(6n+1) a {
+        padding-bottom: 70px;
+      }
+
+      &:nth-child(6n+2) a {
+        padding-bottom: 24px;
+      }
+
+      &:nth-child(6n+3) a {
+        padding-bottom: 50px;
+      }
+
+      &:nth-child(6n+4) a {
+        padding-bottom: 24px;
+      }
+
+      &:nth-child(6n+5) a {
+        padding-bottom: 34px;
+      }
+
+      &:nth-child(6n) a {
+        padding-bottom: 24px;
+      }
+    }
+  }
+
+  a {
+    display: block;
+    width: 100%;
+  }
+
+  li.current-menu-item a,
+  li.current-page-ancestor a,
+  a:hover {
+    background-color: $gold;
+    color: $white;
+    text-decoration: none;
+  }
+}
+
+/*! responsive-nav.js 1.0.25 by @viljamis */
+
+.nav-collapse ul {
+
+}
+
+.nav-collapse li {
+
+}
+
+.js .nav-collapse {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  top: 50px;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+
+.nav-collapse.opened {
+  max-height: 9999px;
+}
+
+.nav-collapse.disable-pointer-events {
+  pointer-events: none !important;
+}
+
+.nav-toggle {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+
+  display: block;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+  height: 15px;
+  @include hide-text;
+}
+
+.nav-collapse.closed + .nav-toggle {
+  background: url(img/icons/menu.png) no-repeat;
+  background-size: 18px 15px;
+}
+
+.nav-collapse.opened + .nav-toggle {
+  background: url(img/icons/menu-close.png) no-repeat 50% 50%;
+  background-size: 15px 15px;
+}
+
+@include breakpoint($menu-structure) {
+  .js .nav-collapse {
+    position: relative;
+    top: 0;
+  }
+  .js .nav-collapse.closed {
+    max-height: none;
+  }
+  .nav-toggle {
+    display: none;
+  }
+}
