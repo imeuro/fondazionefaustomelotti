@@ -391,22 +391,24 @@ add_filter('posts_join', 'cf_search_join' );
  */
 function cf_search_where( $where ) {
     global $pagenow, $wpdb;
-		if ( (is_search() && is_admin()) || is_page_template('searchresults-catalogo.php') || is_page('catalogo-ragionato-options') ) {
-        // if ($_GET["exact-term"] === 'on') {
-        //   $where = preg_replace(
-        //     "/\(\s*".$wpdb->posts.".post_title\s+LIKE\s*(\'[^\']+\')\s*\)/",
-        //     "(p.meta_value LIKE $1 AND p.meta_key = 'codice_electa')", $where );
-        // } else {
+		if ( (is_search() && is_admin()) || is_page_template('searchresults-catalogo.php') || is_page('catalogo-ragionato-options') ) { 
+        if ($_GET["exact-term"] === 'on') {
+          // lascio per sicurezza.. 
+          // gli dico di cercare solo nei 'codice' electa' se è spuntata la casella in search
+          $where = preg_replace(
+            "/\(\s*".$wpdb->posts.".post_title\s+LIKE\s*(\'[^\']+\')\s*\)/",
+            "(p.meta_value LIKE $1 AND p.meta_key = 'codice_electa')", $where );
+        } else {
         $where = preg_replace(
             "/\(\s*".$wpdb->posts.".post_title\s+LIKE\s*(\'[^\']+\')\s*\)/",
             "(".$wpdb->posts.".post_title LIKE $1) OR (p.meta_value LIKE $1 AND p.meta_key = 'codice_electa')", $where );
-        // }
+        }
     }
     return $where;
 }
 add_filter( 'posts_where', 'cf_search_where' );
 
-
+// gli dico di cercare solo il termine esatto ('codice electa') se è spuntata la casella in search
 add_action('pre_get_posts', 'my_make_search_exact', 10);
 function my_make_search_exact($query){
   if(!is_admin() && $query->is_search && $_GET["exact-term"] === 'on') :
