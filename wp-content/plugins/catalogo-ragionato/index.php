@@ -407,8 +407,6 @@ function cf_search_where( $where ) {
 add_filter( 'posts_where', 'cf_search_where' );
 
 
-
-
 add_action('pre_get_posts', 'my_make_search_exact', 10);
 function my_make_search_exact($query){
   if(!is_admin() && $query->is_search && $_GET["exact-term"] === 'on') :
