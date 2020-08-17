@@ -216,12 +216,21 @@ article.catalogo h2 {
 }
 #ArchivioCatalogo ul.items-tipologia.home,
 #ArchivioCatalogo ul.items-tipologia-noinfscroll.home {
-		padding: 10px 0 20px 0;
+    padding: 10px 0 20px 0;
     margin: 0 0 20px 0;
     border: 1px solid #e4e4e4;
     border-top: none;
     border-radius: 0 0 5px 5px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
 }
+#ArchivioCatalogo li.single-item-tipologia { flex: 0 0 50%; }
+@media (min-width: 768px) {
+  #ArchivioCatalogo li.single-item-tipologia { flex: 0 0 25%; }
+}
+#ArchivioCatalogo li.single-item-tipologia a { display: inline-block; }
 #ArchivioCatalogo li.single-item-tipologia figure {
     margin: 0 auto;
 		text-align: center;
@@ -230,7 +239,6 @@ article.catalogo h2 {
 	border: none;
 	margin: 0;
 	max-height: 225px;
-	max-width: 175px;
 }
 #ArchivioCatalogo .single-item-tipologia .more-details {
     position: absolute;
