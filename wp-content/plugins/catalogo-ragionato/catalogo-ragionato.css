@@ -229,7 +229,6 @@ article.catalogo h2 {
 @media (min-width: 768px) {
   #ArchivioCatalogo li.single-item-tipologia { flex: 0 0 25%; }
 }
-#ArchivioCatalogo li.single-item-tipologia a { display: inline-block; }
 #ArchivioCatalogo li.single-item-tipologia figure {
     margin: 0 auto;
 		text-align: center;
