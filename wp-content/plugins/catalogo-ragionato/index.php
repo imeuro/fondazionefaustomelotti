@@ -23,8 +23,8 @@ function catalogo_scriptsnstyles() {
 
 	// echo 'TEST $cacheBusterJS: '.$cacheBusterJS.' | '.plugin_dir_url( __FILE__ ) . 'catalogo-ragionato.js?'.$cacheBusterJS;
 
-  wp_enqueue_style( 'cataloogo', plugin_dir_url( __FILE__ ) .'catalogo-ragionato.css?jj', array(), $cacheBusterCSS, 'all');
-  wp_enqueue_script( 'catalogo', plugin_dir_url( __FILE__ ) . 'catalogo-ragionato.js?jj', array('swiper'), $cacheBusterJS, true );
+  wp_enqueue_style( 'cataloogo', plugin_dir_url( __FILE__ ) .'catalogo-ragionato.css?j', array(), $cacheBusterCSS, 'all');
+  wp_enqueue_script( 'catalogo', plugin_dir_url( __FILE__ ) . 'catalogo-ragionato.js?j', array('swiper'), $cacheBusterJS, true );
 }
 add_action( 'wp_enqueue_scripts', 'catalogo_scriptsnstyles' );
 
